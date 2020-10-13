@@ -4,7 +4,8 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ## :computer:my skill
 :computer: programming \
-:computer: design (photoshop and illustrator)
+:computer: design (photoshop and illustrator) \
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07)](https://github.com/anuraghazra/github-readme-stats)
 
 ## wanna ask something? :mag:
 you can DM (dirrect message) me on [instagram](https://instagram.com/arfy.slowy) for more information about me
