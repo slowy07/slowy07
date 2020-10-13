@@ -1,6 +1,6 @@
 # heyy :wave:
 ## :boy: about me 
-hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer. 2010, i start learning programming, and some information about networking, my first program i create simple calculator and guessing game :blush:.\
+hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer. 2010, i start learning programming, and some information about networking, my first program i create simple calculator and guessing game :blush:.
 
 ## :computer:my skill
 :computer: programming \
