@@ -9,7 +9,6 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 :computer: programming \
 :computer: design (photoshop and illustrator) \
 \
-\
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
