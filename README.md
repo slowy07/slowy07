@@ -10,7 +10,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 :computer: design (photoshop and illustrator) \
 \
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact)](https://github.com/anuraghazra/github-readme-stats) \
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
