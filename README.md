@@ -6,8 +6,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 
 ## :computer:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true) 
 
 ## wanna ask something? :mag:
 you can DM (dirrect message) me on [instagram](https://instagram.com/arfy.slowy) for more information about me
