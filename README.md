@@ -1,5 +1,4 @@
 # heyy :wave:
-![header image](https://image.freepik.com/free-vector/bundle-programming-scenes-flat-people-situations_9209-3163.jpg) \
 ![Profile views](https://gpvc.arturio.dev/slowy07)
 
 ## :boy: about me 
