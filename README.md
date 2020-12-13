@@ -6,7 +6,8 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ## :computer:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50" height="50" alt="python">
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50" height="50" alt="javascript">
 </p>
 
 ## wanna ask something? :mag:
