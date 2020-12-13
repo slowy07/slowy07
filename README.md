@@ -14,4 +14,4 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 </p>
 
 ## wanna ask something? :mag:
-you can [direct message](https://www.instagram.com/arfy.slowy)me
+you can [direct message](https://www.instagram.com/arfy.slowy) me
