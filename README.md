@@ -15,5 +15,5 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ## wanna ask something? :mag:
 <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" width="40" height="40" alt="instagram">
+  <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" href="https://www.instagram.com/arfy.slowy" width="40" height="40" alt="instagram">
 </p>
