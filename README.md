@@ -9,6 +9,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50" height="50" alt="python">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50" height="50" alt="javascript">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="50" height="50" alt="flutter">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="50" height="50" alt="cpp">
 </p>
 
 ## wanna ask something? :mag:
