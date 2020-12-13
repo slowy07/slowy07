@@ -6,12 +6,14 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ## :computer:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50" height="50" alt="python">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50" height="50" alt="javascript">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="50" height="50" alt="flutter">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="50" height="50" alt="cpp">
-  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="50" height="50" alt="java">
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="40" height="40" alt="flutter">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="40" height="40" alt="cpp">
+  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="40" height="40" alt="java">
 </p>
 
 ## wanna ask something? :mag:
-you can DM (dirrect message) me on [instagram](https://instagram.com/arfy.slowy) for more information about me
+<p align="left">
+  <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721672-instagram_108066.png" width="40" height="40" alt="instagram">
+</p>
