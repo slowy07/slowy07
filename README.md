@@ -20,3 +20,4 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ## wanna ask something? :mag:
 [![headerImage](https://icon-icons.com/icons2/1584/PNG/72/3721672-instagram_108066.png)](https://www.instagram.com/arfy.slowy)
+[![headerImageTwitter](https://icon-icons.com/icons2/1211/PNG/72/1491579542-yumminkysocialmedia22_83078.png)](https://www.twitter.com/arfyslowy1)
