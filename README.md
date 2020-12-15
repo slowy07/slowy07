@@ -1,6 +1,6 @@
 # heyy :wave:
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="600"/>
+  <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="500"/>
 </p>
 
 
