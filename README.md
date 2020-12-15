@@ -1,4 +1,7 @@
 # heyy :wave:
+<p align="center">
+  <img src="https://files.realpython.com/media/The-Python-Print-Function_Watermarked.26066d64ad82.jpg" alt="header">
+</p>
 ![Profile views](https://gpvc.arturio.dev/slowy07)
 
 ## :boy: about me 
