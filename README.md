@@ -1,7 +1,7 @@
 # heyy :wave:
 <p align="center">
   <img src="https://content.techgig.com/thumb/msid-75320007,width-860,resizemode-4/Python-is-the-most-preferred-programming-language.jpg?216831" alt="header" height="300" width="600"><br>
-  <img src="https://i.pinimg.com/originals/ee/31/b8/ee31b81baa799897721dfd6e2d2ab97e.gif" height="300" width="600"/>
+  <img src="https://i.pinimg.com/originals/ee/31/b8/ee31b81baa799897721dfd6e2d2ab97e.gif" height="300" width="500"/>
 </p>
 
 
