@@ -1,6 +1,6 @@
 # heyy :wave:
 <p align="center">
-  <img src="https://files.realpython.com/media/The-Python-Print-Function_Watermarked.26066d64ad82.jpg" alt="header" height="300" width="600">
+  <img src="https://content.techgig.com/thumb/msid-75320007,width-860,resizemode-4/Python-is-the-most-preferred-programming-language.jpg?216831" alt="header" height="300" width="600">
 </p>
 
 
