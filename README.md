@@ -19,7 +19,8 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 </p>
 
 ## current task
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=slowy07&repo=google-research&theme=bear)](https://github.com/google-research/google-research)
+[![google-research](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/google-research/google-research)
+[![jsLesson](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/slowy07/jsLesson)
 
 ## wanna ask something? :mag:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
