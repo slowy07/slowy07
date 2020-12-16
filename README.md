@@ -19,7 +19,6 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 </p>
 
 ## current task
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=slowy07&repo=jsLesson&theme=bear)](https://github.com/slowy07/jsLesson)\
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=slowy07&repo=google-research&theme=bear)](https://github.com/google-research/google-research)
 
 ## wanna ask something? :mag:
