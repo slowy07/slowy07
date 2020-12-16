@@ -18,6 +18,9 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="40" height="40" alt="java">
 </p>
 
+## current task
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=slowy07&repo=jsLesson&theme=bear)](https://github.com/slowy07/jsLesson)
+
 ## wanna ask something? :mag:
 [![headerImage](https://icon-icons.com/icons2/1211/PNG/48/1491580635-yumminkysocialmedia26_83102.png)](https://www.instagram.com/arfy.slowy)
 [![headerImageTwitter](https://icon-icons.com/icons2/1211/PNG/48/1491579542-yumminkysocialmedia22_83078.png)](https://www.twitter.com/arfyslowy1)
