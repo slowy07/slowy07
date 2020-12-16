@@ -19,7 +19,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 </p>
 
 ## current task
-[![google-research](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/google-research/google-research)
+[![google-research](https://img.shields.io/badge/gResearch-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
 [![jsLesson](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/slowy07/jsLesson)
 
 ## wanna ask something? :mag:
