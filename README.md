@@ -22,5 +22,5 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=slowy07&repo=google-research&theme=bear)](https://github.com/google-research/google-research)
 
 ## wanna ask something? :mag:
-[![headerImage](https://icon-icons.com/icons2/1211/PNG/48/1491580635-yumminkysocialmedia26_83102.png)](https://www.instagram.com/arfy.slowy)
-[![headerImageTwitter](https://icon-icons.com/icons2/1211/PNG/48/1491579542-yumminkysocialmedia22_83078.png)](https://www.twitter.com/arfyslowy1)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
+[![twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
