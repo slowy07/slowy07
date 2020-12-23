@@ -22,7 +22,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ## current task
 [![google-research](https://img.shields.io/badge/gResearch-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
 [![pythonApps](https://img.shields.io/badge/allpython-2980b9?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
-[![pythonGeo](https://img.shields.io/badge/Fmapping-2980b9?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonGeoMapping)
+[![pythonGeo](https://img.shields.io/badge/cppchallenge-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slowy07/cppLesson)
 
 ## wanna ask something? :mag:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
