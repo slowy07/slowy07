@@ -7,7 +7,7 @@
 
 ## :boy: about me 
 ![Profile views](https://gpvc.arturio.dev/slowy07) ![Commits Badge](https://badges.pufler.dev/commits/monthly/slowy07) ![Years Badge](https://badges.pufler.dev/years/slowy07)\
-hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer :blush:.
+hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on ![google](https://icon-icons.com/icons2/836/PNG/32/Google_icon-icons.com_66793.png) for few month, and now i still coding for my hobby:blush:.
 
 ## :computer:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
