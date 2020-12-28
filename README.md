@@ -18,7 +18,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="40" height="40" alt="flutter">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="40" height="40" alt="cpp">
-  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="40" height="40" alt="java">
+  <img src="https://icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" alt="java">
 </p>
 
 ## current task
