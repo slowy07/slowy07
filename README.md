@@ -6,7 +6,7 @@
 
 
 ## :boy: about me 
-![Profile views](https://komarev.com/ghpvc/?username=slowy07&style=for-the-badge) 
+![Profile views](https://gpvc.arturio.dev/slowy07)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/slowy07?style=for-the-badge) 
 ![Years Badge](https://badges.pufler.dev/years/slowy07?style=for-the-badge)
 
