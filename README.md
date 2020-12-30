@@ -13,7 +13,10 @@
 hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2018 i start intern on <img src="https://icon-icons.com/icons2/836/PNG/72/Google_icon-icons.com_66793.png" width="20" height="20" /> for few month, and now i still coding for my hobby:blush:.
 
 ## :computer:
-<img src="https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear" width="500" height="500">
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slowy07&theme=tokyonight)
 
