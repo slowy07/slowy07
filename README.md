@@ -16,10 +16,9 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear" width="500" height="500">
 </p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slowy07&theme=tokyonight)
-
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slowy07&theme=tokyonight" width="500" height="500">
+</p>
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
