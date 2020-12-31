@@ -1,4 +1,4 @@
-# heyy <img src="https://i.pinimg.com/originals/39/92/0d/39920d636204cb823dca92db9e046b27.gif" width="50px" height="50px">
+# heyy <img src="https://i.pinimg.com/originals/39/92/0d/39920d636204cb823dca92db9e046b27.gif">
 <p align="center">
   <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="450"/>
 </p>
