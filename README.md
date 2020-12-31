@@ -29,7 +29,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 [![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
 [![pythonGeo](https://img.shields.io/badge/cppchallenge-2ecc71?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slowy07/cppLesson)
 
-## ![ask](https://i.pinimg.com/originals/8d/7a/0a/8d7a0adfe5d3b0bb9b6e0825800a69a5.gif)
+## <img src="https://i.pinimg.com/originals/19/20/64/192064fb7b55d9f8569231678ee1e333.gif" width="50" height="50">
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.telegram.me/arfyslowy)
