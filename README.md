@@ -15,6 +15,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ## <img src="https://i.pinimg.com/originals/ad/ae/53/adae53daa8e5602d809bbe5e8b6f80d1.gif" width="50" height="50" align="center"/>
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 ![gitStreak](https://github-readme-streak-stats.herokuapp.com/?user=slowy07&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact)
 
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
