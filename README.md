@@ -24,12 +24,12 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" alt="java">
 </p>
 
-## <p align="center">current task</p>
+## current task
 [![google-research](https://img.shields.io/badge/gResearch-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
 [![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
 [![pythonGeo](https://img.shields.io/badge/cppchallenge-2ecc71?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slowy07/cppLesson)
 
-## <p align="center">Talk to me</p>
+## talk to me
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.telegram.me/arfyslowy)
