@@ -6,7 +6,7 @@
 
 
 ## :boy: about me 
-![Profile views](https://gpvc.arturio.dev/slowy07)
+![Profile views](https://gpvc.arturio.dev/slowy07?style=for-the-badge)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/slowy07)
 ![Years Badge](https://badges.pufler.dev/years/slowy07)
 
@@ -27,6 +27,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ## current task
 [![google-research](https://img.shields.io/badge/gResearch-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
 [![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
+[![java](https://img.shields.io/badge/java_source-2ecc71?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kloter2surga/java)
 [![pythonGeo](https://img.shields.io/badge/cppchallenge-2ecc71?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slowy07/cppLesson)
 
 ## talk to me
