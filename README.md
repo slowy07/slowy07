@@ -3,8 +3,6 @@
   <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="450"/>
 </p>
 
-
-
 ## :boy: about me 
 ![Profile views](https://gpvc.arturio.dev/slowy07?style=for-the-badge)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/slowy07)
@@ -12,7 +10,7 @@
 
 hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2018 i start intern on <img src="https://icon-icons.com/icons2/836/PNG/72/Google_icon-icons.com_66793.png" width="20" height="20" /> for few month, and now i still coding for my hobby:blush:.
 
-## [<img src="zombie.gif" width="80" height="80"/>](zombie.gif)
+## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 ![gitStreak](https://github-readme-streak-stats.herokuapp.com/?user=slowy07&theme=tokyonight)
 
