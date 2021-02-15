@@ -25,6 +25,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 [![google-research](https://img.shields.io/badge/gResearch-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
 [![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
+
 ## talk to me
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
