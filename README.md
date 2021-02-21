@@ -5,7 +5,6 @@
 </p>
 
 ## :boy: about me
-
 hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on <img src="https://icon-icons.com/icons2/836/PNG/72/Google_icon-icons.com_66793.png" width="18" height="18" /> for few month, and now i still coding for my hobby.
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
