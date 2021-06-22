@@ -20,6 +20,8 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" alt="java">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## current task
 
 [![google-research](https://img.shields.io/badge/gResearch-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
