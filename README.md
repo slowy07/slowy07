@@ -8,6 +8,17 @@
 
 hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on <img src="https://icon-icons.com/icons2/836/PNG/72/Google_icon-icons.com_66793.png" width="18" height="18" /> for few month, and now i still coding for my hobby.
 
+## current task
+
+[![google-research](https://img.shields.io/badge/google%20research-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
+[![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
+
+## talk to me
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
+[![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
+
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
@@ -22,14 +33,3 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Metrics](https://metrics.lecoq.io/slowy07?template=classic&base.header=0&notable=1&lines=1&followup=1&languages=1&activity=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FJakarta)
-
-## current task
-
-[![google-research](https://img.shields.io/badge/google%20research-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
-[![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
-
-## talk to me
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
-[![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
