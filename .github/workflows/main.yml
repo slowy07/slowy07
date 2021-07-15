@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secret.MATRICS }}
+          token: ${{ secrets.MATRICS }}
 
           # Options
           user: slowy07
