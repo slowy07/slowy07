@@ -1879,7 +1879,7 @@ i think it's be better to be <code>configured</code>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.399 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.52300000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1907,7 +1907,7 @@ i think it's be better to be <code>configured</code>
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7529 stars</div>
+                                <div class="text">Maintaining a repository with 7533 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1994,7 +1994,7 @@ i think it's be better to be <code>configured</code>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.331776634481212 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.340472846667295 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2349,7 +2349,7 @@ i think it's be better to be <code>configured</code>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Fri, 23 Jul 2021 15:25:52 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 23 Jul 2021 16:24:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
