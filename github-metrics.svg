@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2152" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2555" class="">
     <defs>
         <style/>
     </defs>
@@ -1504,8 +1504,8 @@
               09
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 4.3478260869565215px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 6.521739130434782px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1605,8 +1605,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">13</span>
-                <div class="bar" style="height: 24.074074074074073px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">14</span>
+                <div class="bar" style="height: 25.925925925925924px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1655,6 +1655,101 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 58 commits in <span class="repo">slowy07/BIG-bench</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4e37380</span>
+                                        <span class="message">Merge remote-tracking branch 'upstream/main' into swe-ger-proverbs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#70af843</span>
+                                        <span class="message">Add source breakdown and annotate source in each instance, remove visual reasoning</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7471f80</span>
+                                        <span class="message">reset head and included all upstream files, and re-added swedish-german-proverbs task</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0108c04</span>
+                                        <span class="message">Delete red.txt</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7ce68c6</span>
+                                        <span class="message">Add files via upload</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cfcef37</span>
+                                        <span class="message">Create red.txt</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2d169fd</span>
+                                        <span class="message">Delete task.json</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0d7be07</span>
+                                        <span class="message">Delete README.md</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5fd5e8f</span>
+                                        <span class="message">tweaked readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a258222</span>
+                                        <span class="message">fixed year-sensitive questions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3da904f</span>
+                                        <span class="message">added comma to json</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f70affa</span>
+                                        <span class="message">updated task.json</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#16d919e</span>
+                                        <span class="message">Delete generate_json_file.ipynb</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#36911a9</span>
+                                        <span class="message">fleshed out readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d769ed3</span>
+                                        <span class="message">Remove additional comma in json</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#29346f5</span>
+                                        <span class="message">Finalize MinuteMysteriesQA dataset for pull request</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#30cba88</span>
+                                        <span class="message">add MinuteMysteriesQA dataset</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#846dd98</span>
+                                        <span class="message">template</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#772d54e</span>
+                                        <span class="message">Added persian_json_multiple_choice</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#829dff6</span>
+                                        <span class="message">Added persian_json_multiple_choice</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1713,19 +1808,6 @@ Thanks for your contribution slowy!
 </i>
 thank you @astivi !!
 </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Deleted
-                      branch  <span class="code">recode</span> in  <span class="repo">slowy07/megalista</span>
-                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1863,7 +1945,7 @@ thank you @astivi !!
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.058 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.12 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1891,7 +1973,7 @@ thank you @astivi !!
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7518 stars</div>
+                                <div class="text">Maintaining a repository with 7520 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1978,7 +2060,7 @@ thank you @astivi !!
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.279826710426186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.2875210208174845 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2333,7 +2415,7 @@ thank you @astivi !!
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Fri, 23 Jul 2021 09:33:33 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 23 Jul 2021 10:25:44 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
