@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2345" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2648" class="">
     <defs>
         <style/>
     </defs>
@@ -1483,7 +1483,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 35.1 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -1492,12 +1492,12 @@
                 <div class="chart-bars">
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               00
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               01
             </div>
                     <div class="entry">
@@ -1522,37 +1522,37 @@
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               06
             </div>
                     <div class="entry">
               <span class="value">7</span>
-              <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               07
             </div>
                     <div class="entry">
-              <span class="value">16</span>
+              <span class="value">15</span>
               <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               08
             </div>
                     <div class="entry">
-              <span class="value">12</span>
-              <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               09
             </div>
                     <div class="entry">
               <span class="value">5</span>
-              <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
                     <div class="entry">
               <span class="value">6</span>
-              <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               11
             </div>
                     <div class="entry">
               <span class="value">3</span>
-              <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               12
             </div>
                     <div class="entry">
@@ -1562,7 +1562,7 @@
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               14
             </div>
                     <div class="entry">
@@ -1572,42 +1572,42 @@
             </div>
                     <div class="entry">
               <span class="value">5</span>
-              <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               16
             </div>
                     <div class="entry">
               <span class="value">2</span>
-              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               17
             </div>
                     <div class="entry">
               <span class="value">2</span>
-              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               18
             </div>
                     <div class="entry">
               <span class="value">4</span>
-              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               19
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               20
             </div>
                     <div class="entry">
               <span class="value">7</span>
-              <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               21
             </div>
                     <div class="entry">
               <span class="value">5</span>
-              <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               22
             </div>
                     <div class="entry">
               <span class="value">3</span>
-              <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               23
             </div>
                 </div>
@@ -1618,37 +1618,37 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">16</span>
-                <div class="bar" style="height: 47.05882352941176px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">8</span>
-                <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">9</span>
+                <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
                 <span class="value">3</span>
-                <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
                 <span class="value">9</span>
-                <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">17</span>
+                <span class="value">16</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">15</span>
-                <div class="bar" style="height: 44.11764705882353px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 46.875px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
                 <span class="value">14</span>
-                <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1692,6 +1692,103 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 129 commits in <span class="repo">slowy07/BIG-bench</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#693861d</span>
+                                        <span class="message">Minor improvement of the explanations</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a959af0</span>
+                                        <span class="message">Created a python based task and included evaluation results.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0adde40</span>
+                                        <span class="message">update Readme.md</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#730af4f</span>
+                                        <span class="message">add task_prefix and example_output_prefix</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#09f105c</span>
+                                        <span class="message">update Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5614885</span>
+                                        <span class="message">Add task gender_inclusive_sentences_German
+
+Signed-off-by: Simon Thormeyer &lt;simonthormeyer@gmail.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#50f2686</span>
+                                        <span class="message">add pr number to Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#117c65d</span>
+                                        <span class="message">update Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d09152a</span>
+                                        <span class="message">update Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#008328b</span>
+                                        <span class="message">Added Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1785efd</span>
+                                        <span class="message">Added Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#78d6c0a</span>
+                                        <span class="message">Added Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4a47c74</span>
+                                        <span class="message">Added task.json</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2673553</span>
+                                        <span class="message">Minor update of examples</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dc61e72</span>
+                                        <span class="message">multistep_arithmetic examples implemented</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4de515b</span>
+                                        <span class="message">docs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8567b43</span>
+                                        <span class="message">copy proverbs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#647a1f9</span>
+                                        <span class="message">performed a round of unicode cleaning -- all unnecessary unicodechars are replaced.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aa24883</span>
+                                        <span class="message">change folder name, add line breaks to JSON files, fixed unicode issues</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d64d896</span>
+                                        <span class="message">add causal judgment task</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1763,78 +1860,6 @@
                                         <span class="sha">#e450672</span>
                                         <span class="message">Merge branch 'master' of https://github.com/slowy07/python-dialogflow into fixing</span>
                                     </div>
-                                    <div class="commit">
-                                        <span class="sha">#1aa9a7a</span>
-                                        <span class="message">docs: fix typos (#347)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8cfb943</span>
-                                        <span class="message">chore(deps): update dependency google-cloud-dialogflow to v2.7.0 (#343)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [google-cloud-dialogflow](https://togithub.com/googleapis/dialogflow-python-client-v2) | `==2.6.0` -&gt; `==2.7.0` | [![age](https://badges.renovateapi.com/packages/pypi/google-cloud-dialogflow/2.7.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/google-cloud-dialogflow/2.7.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/google-cloud-dialogflow/2.7.0/compatibility-slim/2.6.0)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/google-cloud-dialogflow/2.7.0/confidence-slim/2.6.0)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;googleapis/dialogflow-python-client-v2&lt;/summary&gt;
-
-### [`v2.7.0`](https://togithub.com/googleapis/dialogflow-python-client-v2/blob/master/CHANGELOG.md#&amp;#8203;270-httpswwwgithubcomgoogleapispython-dialogflowcomparev260v270-2021-07-22)
-
-[Compare Source](https://togithub.com/googleapis/dialogflow-python-client-v2/compare/v2.6.0...v2.7.0)
-
-##### Features
-
--   add Samples section to CONTRIBUTING.rst ([#&amp;#8203;340](https://www.github.com/googleapis/python-dialogflow/issues/340)) ([25217a3](https://www.github.com/googleapis/python-dialogflow/commit/25217a385a315a3f209039e82141f0bd153e43a0))
-
-##### Bug Fixes
-
--   **deps:** pin 'google-{api,cloud}-core', 'google-auth' to allow 2.x versions ([#&amp;#8203;339](https://www.github.com/googleapis/python-dialogflow/issues/339)) ([3bfe5b6](https://www.github.com/googleapis/python-dialogflow/commit/3bfe5b6c4c2d81ec3f1cb5e1b7aa96c60a269eb4))
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/python-dialogflow).</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">slowy07/python-dialogflow</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <span class="sha">#1aa9a7a</span>
                                         <span class="message">docs: fix typos (#347)</span>
@@ -2144,7 +2169,7 @@ This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourc
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.91697254098492 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.924407729182509 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2499,7 +2524,7 @@ This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourc
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26/07/2021, 09:34 (timezone Asia/Jakarta) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 26/07/2021, 10:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
