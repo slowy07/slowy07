@@ -1906,7 +1906,7 @@ Co-authored-by: Laszlo Teveli &lt;tevelee@users.noreply.github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.266 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.273750000000003 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1934,7 +1934,7 @@ Co-authored-by: Laszlo Teveli &lt;tevelee@users.noreply.github.com&gt;</span>
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7744 stars</div>
+                                <div class="text">Maintaining a repository with 7745 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1947,7 +1947,7 @@ Co-authored-by: Laszlo Teveli &lt;tevelee@users.noreply.github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.064335583697996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.073309976059107 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2411,7 +2411,7 @@ Co-authored-by: Laszlo Teveli &lt;tevelee@users.noreply.github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10/08/2021, 05:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 10/08/2021, 06:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
