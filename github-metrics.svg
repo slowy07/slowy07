@@ -1937,7 +1937,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.745455554604252 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.754659058060618 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2122,7 +2122,7 @@
                   Influencer
                   
                     <span class="gh">
-                      ranked 282k out of 75m users
+                      ranked 283k out of 75m users
                     </span>
                   
                 </div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18/08/2021, 03:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 18/08/2021, 04:23 (timezone Asia/Jakarta) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
