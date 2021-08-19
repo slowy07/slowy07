@@ -30,7 +30,7 @@ jobs:
           plugin_languages_skipped: my-testing-repo
           plugin_languages_details: percentage
           plugin_languages_threshold: 2%
-          plugin_languages_limit: 10
+          plugin_languages_limit: 15
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: no
           plugin_languages_recent_load: 500
@@ -61,7 +61,7 @@ jobs:
           # achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
-          config_display: large
+          # config_display: large
       
       # - name: display_achivement
       #   uses: lowlighter/metrics@latest
