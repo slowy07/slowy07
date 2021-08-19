@@ -51,15 +51,20 @@ jobs:
           plugin_activity_filter: all
           # notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars>:500
-          plugin_notable_repositories: no
-      
-      - name: display_achivement
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.MATRICS }}
-          base: ""
+          plugin_notable_filter: stars>:100
+          plugin_notable_repositories: yes
+
+          # achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
           config_display: large
+      
+      # - name: display_achivement
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics.svg
+      #     token: ${{ secrets.MATRICS }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     config_display: large
