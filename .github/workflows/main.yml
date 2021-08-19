@@ -56,8 +56,8 @@ jobs:
           plugin_activity_filter: all
           # notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>100
-          plugin_notable_repositories: yes
+          plugin_notable_filter: stars:>500
+          plugin_notable_repositories: no
           # achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
