@@ -8,11 +8,6 @@
 
 hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on <img src="https://icon-icons.com/icons2/836/PNG/72/Google_icon-icons.com_66793.png" width="18" height="18" /> for few month, and now i still coding for my hobby.
 
-## current task
-
-[![google-research](https://img.shields.io/badge/google%20research-f39c12?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/google-research/google-research)
-[![pythonApps](https://img.shields.io/badge/allpython-2ecc71?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/slowy07/pythonApps)
-
 ## talk to me
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
@@ -23,6 +18,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 
+**Programming skills**
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
