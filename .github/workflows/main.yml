@@ -36,7 +36,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          config_timezone: Asia/Jakarta
           # line of code changed
           plugin_lines: yes
           # recent activity
