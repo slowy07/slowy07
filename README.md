@@ -19,6 +19,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 
 **Programming skills**
+
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
