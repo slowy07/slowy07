@@ -10,7 +10,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: display_information_1
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.MATRICS }}
@@ -48,14 +49,17 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          # plugin achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_ignored: octonaut
-          plugin_achievements_limit: 0
-          plugin_achievements_display: compact
           # notable contributions
           plugin_notable: yes
           plugin_notable_filter: stars>:500
           plugin_notable_repositories: no
+      
+      - name: display_achivement
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.MATRICS }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_display: large
