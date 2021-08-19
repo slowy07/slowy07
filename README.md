@@ -29,4 +29,4 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)
-![Metrics](https://metrics.lecoq.io/slowy07?template=classic&base.header=0&languages=1&activity=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&notable.repositories=false&config.timezone=Asia%2FJakarta)
+![Metrics](github-metrics.svg)
