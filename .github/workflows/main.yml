@@ -44,6 +44,11 @@ jobs:
           plugin_habits_trim: yes
           # line of code changed
           plugin_lines: yes
+          # topics
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
           # recent activity
           plugin_activity: yes
           plugin_activity_limit: 5
@@ -51,6 +56,7 @@ jobs:
           plugin_activity_filter: all
           # notable contributions
           plugin_notable: yes
+          plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
           # achievements
           plugin_achievements: yes
