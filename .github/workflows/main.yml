@@ -20,15 +20,9 @@ jobs:
           template: classic
           # base
           base: activity, community, repositories, metadata
-          repositories:
-            description: Number repositories
-            default: 100
-          repositories_batch:
-            description: Number repositories loaded
-            default: 500
-          repositories_forks:
-            description: included repositories
-            default: no
+          repositories: 500
+          repositories_batch: 500
+          repositories_forks: no
           # timezone
           config_timezone: Asia/Jakarta
           # filename
