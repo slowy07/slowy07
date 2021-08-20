@@ -20,9 +20,6 @@ jobs:
           template: classic
           # base
           base: activity, community, repositories, metadata
-          repositories: 500
-          repositories_batch: 500
-          repositories_forks: no
           # timezone
           config_timezone: Asia/Jakarta
           # filename
