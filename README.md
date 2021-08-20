@@ -30,3 +30,6 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)
 ![Metrics](github-metrics.svg)
+
+## achivement
+![achievement](achievements.svg)

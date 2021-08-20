@@ -54,7 +54,14 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          # notable contrib
+          
+      # notable contrib
+      - name: display_contribution
+        uses: lowlighter/metrics@latest
+        with:
+          filename: contribution.svg
+          token: ${{ secrets.MATRICS }}
+          base: metadata
           plugin_notable: yes
 
       #achievements
