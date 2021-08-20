@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "* 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -20,6 +20,15 @@ jobs:
           template: classic
           # base
           base: activity, community, repositories, metadata
+          repositories:
+            description: Number repositories
+            default: 100
+          repositories_batch:
+            description: Number repositories loaded
+            default: 500
+          repositories_forks:
+            description: included repositories
+            default: no
           # timezone
           config_timezone: Asia/Jakarta
           # filename
