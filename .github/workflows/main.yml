@@ -61,6 +61,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: contributions-metrics.svg
+          token: ${{ secrets.MATRICS }}
           plugin_notable: yes
           plugin_notable_fileter: stars:>500
           plugin_notable_repositories: no
