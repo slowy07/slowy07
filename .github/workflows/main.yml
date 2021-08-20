@@ -66,9 +66,8 @@ jobs:
           token: ${{ secrets.MATRICS }}
           base: metadata
           repositories: 500
-          repositories_batch: 500
+          repositories_batch: 10
           repositories_forks: no
-          config_timezone: Asia/Jakarta
           plugin_notable: yes
 
       #achievements
