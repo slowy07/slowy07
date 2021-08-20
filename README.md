@@ -28,12 +28,11 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
   <img src="https://icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" alt="java">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)
-![Metrics](github-metrics.svg)
-
 ## contribution
-
 ![contribution](contribution.svg)
+
+## static
+![Metrics](github-metrics.svg)
 
 ## achivement
 
