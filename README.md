@@ -18,7 +18,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 
-**Programming skills**
+## programming skills
 
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
@@ -31,5 +31,8 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=onedark)
 ![Metrics](github-metrics.svg)
 
+## contribution
+![contribution](contribution.svg)
+
 ## achivement
-![achievement](achievements.svg)
+![achievement](achievements-metrics.svg)
