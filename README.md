@@ -1,4 +1,4 @@
-# heyy :wave:
+# Hey there !
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.gif" height="200" width="450"/>
@@ -19,14 +19,12 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
 
 ## programming skills
-
-<p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"alt="python">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40" height="40" alt="javascript">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="40" height="40" alt="flutter">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" width="40" height="40" alt="cpp">
-  <img src="https://icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" alt="java">
-</p>
+![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![java](https://img.shields.io/badge/Java-2980b9?style=for-the-badge&logo=Python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![assembly](https://img.shields.io/badge/Assembly-e67e22?style=for-the-badge&logo=AssemblyScript&logoColor=white)
 
 ## contribution
 
