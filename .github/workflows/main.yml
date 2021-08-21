@@ -68,12 +68,12 @@ jobs:
           plugin_notable: yes
 
       #achievements
-      - name: display_achivement
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements-metrics.svg
-          token: ${{ secrets.MATRICS }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          config_display: large
+      # - name: display_achivement
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: achievements-metrics.svg
+      #     token: ${{ secrets.MATRICS }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     config_display: large

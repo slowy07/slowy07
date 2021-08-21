@@ -28,13 +28,7 @@ hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully c
 ![assembly](https://img.shields.io/badge/Assembly-e67e22?style=for-the-badge&logo=AssemblyScript&logoColor=white)
 
 ## contribution
-
 ![contribution](contribution.svg)
 
 ## static
-
 ![Metrics](github-metrics.svg)
-
-## achivement
-
-![achievement](achievements-metrics.svg)
