@@ -54,6 +54,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
+          config_padding: 0, 8 + 7%
           
       # notable contrib
       - name: display_contribution
@@ -66,7 +67,7 @@ jobs:
           repositories_batch: 10
           repositories_forks: no
           plugin_notable: yes
-          config_padding: 0, 8 + 5%
+          
 
       #achievements
       # - name: display_achivement
