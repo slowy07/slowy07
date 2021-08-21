@@ -66,7 +66,7 @@ jobs:
           repositories_batch: 10
           repositories_forks: no
           plugin_notable: yes
-          config_padding: 0, 8 + 7%
+          config_padding: 0, 8 + 5%
 
       #achievements
       # - name: display_achivement
