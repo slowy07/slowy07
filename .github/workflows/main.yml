@@ -54,7 +54,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
-          config_padding: 0, 8 + 5%
+          config_padding: 0, 8 + 1%
           
       # notable contrib
       - name: display_contribution
