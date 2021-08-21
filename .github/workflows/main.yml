@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   
-  schedule: [{cron: "30 * * * *"}]
+  schedule: [{cron: "* 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -67,7 +67,7 @@ jobs:
           repositories_batch: 10
           repositories_forks: no
           plugin_notable: yes
-          
+          config_padding: 0, 8 + 1%
 
       #achievements
       # - name: display_achivement
