@@ -68,7 +68,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           config_padding: 0, 8 + 1%
-          config_display: large
 
       #achievements
       # - name: display_achivement
