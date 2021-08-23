@@ -1430,18 +1430,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 45 edited files from 134 commits over last 7 days
+            estimation from 43 edited files from 132 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.99572535399412" height="8" fill="#005daa"/>
-                    <rect mask="url(#languages-bar)" x="211.99572535399412" y="0" width="146.9222548757681" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="358.91798022976224" y="0" width="74.41357200106866" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="433.3315522308309" y="0" width="16.713865882981565" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="450.04541811381245" y="0" width="9.954581886187551" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.18079430942498" height="8" fill="#005daa"/>
+                    <rect mask="url(#languages-bar)" x="235.18079430942498" y="0" width="162.99051570835803" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="398.17131001778307" y="0" width="32.243627741553055" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="430.4149377593361" y="0" width="18.541790160047423" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.9567279193835" y="0" width="11.043272080616479" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1451,7 +1451,7 @@
                       Motorola 68K Assembly
                     </div>
                             <small>
-                                <div>46.09%</div>
+                                <div>51.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1460,7 +1460,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>16.18%</div>
+                                <div>7.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1469,7 +1469,7 @@
                       Makefile
                     </div>
                             <small>
-                                <div>2.16%</div>
+                                <div>2.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1480,7 +1480,7 @@
                       Python
                     </div>
                             <small>
-                                <div>31.94%</div>
+                                <div>35.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1489,7 +1489,7 @@
                       Vue
                     </div>
                             <small>
-                                <div>3.63%</div>
+                                <div>4.03%</div>
                             </small>
                         </div>
                     </section>
@@ -1828,7 +1828,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23/08/2021, 15:27 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 23/08/2021, 16:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
