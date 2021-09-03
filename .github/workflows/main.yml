@@ -62,7 +62,6 @@ jobs:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
           base: metadata
-          repositories_batch: 6
           plugin_notable: yes
           config_padding: 0, 8 + 1%
 
