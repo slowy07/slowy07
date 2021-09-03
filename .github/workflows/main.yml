@@ -63,6 +63,7 @@ jobs:
           token: ${{ secrets.MATRICS }}
           base: metadata
           plugin_notable: yes
+          repositories_batch: 5
           config_padding: 0, 8 + 1%
 
       #achievements
