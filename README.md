@@ -1,12 +1,22 @@
 # Hey there !
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/>
+<p>
+    <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/>
 </p>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px"></b></td>
+    <td><b style="font-size:30px">About me</b></td>
+ </tr>
+ <tr>
+    <td><img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="200" width="300"/></td>
+    <td>hello!, my name <b>arfy slowy</b>, i live in indonesia at aceh, a peacefully city with friendly people.</td>
+ </tr>
+</table>
 
 ## :boy: about me
 
-hello!, my name :boy:**arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on [Google LLC](https://about.google/?utm_source=google-ID&utm_medium=referral&utm_campaign=hp-footer&fg=1), and now i still coding for my hobby.
+hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on [Google LLC](https://about.google/?utm_source=google-ID&utm_medium=referral&utm_campaign=hp-footer&fg=1), and now i still coding for my hobby.
 
 ## talk to me
 

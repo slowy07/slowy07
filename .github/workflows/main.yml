@@ -23,6 +23,10 @@ jobs:
           config_timezone: Asia/Jakarta
           # filename
           filename: github-metrics.svg
+          # repositories batch
+          repositories_batch: 5
+          # repositories limit
+          repositories: 100
           # programming language
           plugin_languages: yes
           plugin_languages_ignored: html, css
