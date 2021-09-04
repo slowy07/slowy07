@@ -1,6 +1,6 @@
 # Hey there !
 
-<p>
+<p align="center">
     <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/>
 </p>
 
