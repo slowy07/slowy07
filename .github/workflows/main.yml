@@ -65,8 +65,12 @@ jobs:
         with:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
+          template: classic
+          config_timezone: Asia/Jakarta
           base: metadata
           plugin_notable: yes
+          plugin_notable_repositories: no
+           plugin_notable_filter: "stars", "forks", "watchers"
           repositories_batch: 5
           config_padding: 0, 8 + 1%
 
