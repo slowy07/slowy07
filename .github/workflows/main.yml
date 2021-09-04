@@ -65,7 +65,6 @@ jobs:
         with:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
-          commiter_token: ${{ secrets.MATRICS }}
           user: slowy07
           template: classic
           config_timezone: Asia/Jakarta
