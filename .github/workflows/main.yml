@@ -66,11 +66,8 @@ jobs:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
           user: slowy07
-          template: classic
-          config_timezone: Asia/Jakarta
           base: metadata
-          repositories: 100
-          repositories_batch: 5
+          repositories_batch: 10
           plugin_notable: yes
           plugin_notable_repositories: no
           config_padding: 0, 8 + 1%
