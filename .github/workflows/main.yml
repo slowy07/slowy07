@@ -65,7 +65,6 @@ jobs:
         with:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
-          config_timezone: Asia/Jakarta
           base: metadata
           plugin_notable: yes
           plugin_notable_filter: "stars", "forks", "watchers"
