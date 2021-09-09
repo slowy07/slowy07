@@ -66,8 +66,9 @@ jobs:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
           user: slowy07
-          base: ""
+          base: metadata
           repositories_batch: 5
+          plugin_notable_filter: stars:>500
           plugin_notable: yes
           config_padding: 0, 8 + 1%
           delay: 120
