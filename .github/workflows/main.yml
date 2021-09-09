@@ -66,11 +66,11 @@ jobs:
           filename: contribution.svg
           token: ${{ secrets.MATRICS }}
           user: slowy07
-          base: metadata
+          base: ""
           repositories_batch: 5
           plugin_notable: yes
-          plugin_notable_repositories: no
           config_padding: 0, 8 + 1%
+          delay: 120
 
       #achievements
       # - name: display_achivement
