@@ -67,7 +67,7 @@ jobs:
           token: ${{ secrets.MATRICS }}
           user: slowy07
           base: metadata
-          repositories_batch: 5
+          repositories_batch: 15
           plugin_notable_filter: stars:>500
           plugin_notable: yes
           config_padding: 0, 8 + 1%
