@@ -47,6 +47,8 @@ jobs:
           plugin_habits_trim: yes
           # line of code changed
           plugin_lines: yes
+          # notable contrib
+          plugin_notable: yes
           # topics
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -59,19 +61,20 @@ jobs:
           plugin_activity_filter: all
           config_padding: 0, 8 + 1%
           
+          
       # notable contrib
-      - name: display_contribution
-        uses: lowlighter/metrics@latest
-        with:
-          filename: contribution.svg
-          token: ${{ secrets.MATRICS }}
-          user: slowy07
-          base: metadata
-          repositories_batch: 15
-          plugin_notable_filter: stars:>500
-          plugin_notable: yes
-          config_padding: 0, 8 + 1%
-          delay: 120
+      # - name: display_contribution
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: contribution.svg
+      #     token: ${{ secrets.MATRICS }}
+      #     user: slowy07
+      #     base: metadata
+      #     repositories_batch: 15
+      #     plugin_notable_filter: stars:>500
+      #     plugin_notable: yes
+      #     config_padding: 0, 8 + 1%
+      #     delay: 120
 
       #achievements
       # - name: display_achivement
