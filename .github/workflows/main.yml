@@ -47,8 +47,6 @@ jobs:
           plugin_habits_trim: yes
           # line of code changed
           plugin_lines: yes
-          # notable contrib
-          plugin_notable: yes
           # topics
           plugin_topics: yes
           plugin_topics_sort: stars
