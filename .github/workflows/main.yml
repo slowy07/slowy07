@@ -60,7 +60,7 @@ jobs:
           config_padding: 0, 8 + 1%
           
           
-      notable contrib
+      # notable contrib
       - name: display_contribution
         uses: lowlighter/metrics@latest
         with:
