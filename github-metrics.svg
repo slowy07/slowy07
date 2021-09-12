@@ -1430,7 +1430,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 63 edited files from 104 commits over last 7 days
+            estimation from 63 edited files from 94 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1843,7 +1843,7 @@ Co-authored-by: Norizon &lt;69400842+norinorin@users.noreply.github.com&gt;</spa
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12/09/2021, 11:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 12/09/2021, 12:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
