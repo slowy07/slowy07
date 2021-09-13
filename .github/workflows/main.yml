@@ -61,17 +61,17 @@ jobs:
           
           
       # notable contrib
-      # - name: display_contribution
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: contribution_achievement.svg
-      #     token: ${{ secrets.MATRICS }}
-      #     user: slowy07
-      #     base: metadata
-      #     repositories_batch: 5
-      #     plugin_notable_filter: stars:>500
-      #     plugin_notable: yes
-      #     config_padding: 0, 8 + 1%
+      - name: display_contribution
+        uses: lowlighter/metrics@latest
+        with:
+          filename: contribution_achievement.svg
+          token: ${{ secrets.MATRICS }}
+          user: slowy07
+          base: metadata
+          repositories_batch: 3
+          # plugin_notable_filter: stars:>500
+          plugin_notable: yes
+          config_padding: 0, 8 + 1%
 
       #achievements
       # - name: display_achivement
