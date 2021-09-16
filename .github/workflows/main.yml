@@ -62,7 +62,7 @@ jobs:
           
       # notable contrib
       - name: display_contribution
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: contribution_achievement.svg
           token: ${{ secrets.MATRICS }}
