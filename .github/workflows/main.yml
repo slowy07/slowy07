@@ -64,14 +64,13 @@ jobs:
       - name: display_contribution
         uses: lowlighter/metrics@latest
         with:
-          filename: contribution_achievement.svg
+          filename: contribution.svg
           token: ${{ secrets.MATRICS }}
           user: slowy07
           base: metadata
-          repositories: 10
-          repositories_batch: 5
-          # plugin_notable_filter: stars:>500
+          repositories_batch: 3
           plugin_notable: yes
+          plugin_notable_repositories: no
           config_padding: 0, 8 + 1%
 
       #achievements
