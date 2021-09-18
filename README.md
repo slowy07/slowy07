@@ -27,7 +27,6 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![assembly](https://img.shields.io/badge/Assembly-e67e22?style=for-the-badge&logo=AssemblyScript&logoColor=white)
 
-
 ## static
 ![contrib](https://raw.githubusercontent.com/slowy07/slowy07/05f1a4215e11b684c1089e137c3bc065c1f711be/contribution.svg)
 
