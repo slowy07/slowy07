@@ -29,6 +29,6 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ## static
 
-![contrib](https://raw.githubusercontent.com/slowy07/slowy07/05f1a4215e11b684c1089e137c3bc065c1f711be/contribution.svg)
+![contrib](contribution.svg)
 
 ![Metrics](github-metrics.svg)
