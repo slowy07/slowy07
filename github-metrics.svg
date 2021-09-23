@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1511" class="">
     <defs>
         <style/>
     </defs>
@@ -1341,12 +1341,12 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              748 MB used
+              749 MB used
             </div>
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.10m added, 42.3k removed
+                    1.11m added, 42.5k removed
                   
                 </div>
                             </section>
@@ -1430,7 +1430,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 23 edited files from 63 commits over last 7 days
+            estimation from 23 edited files from 64 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1516,8 +1516,8 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               08
             </div>
                     <div class="entry">
@@ -1571,8 +1571,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1622,13 +1622,13 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">16</span>
-                <div class="bar" style="height: 21.62162162162162px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">17</span>
+                <div class="bar" style="height: 22.972972972972975px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 16.216216216216218px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 14.864864864864865px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1690,6 +1690,149 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 34 commits in <span class="repo">slowy07/tf-quant-finance</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a97b17e</span>
+                                        <span class="message">Rename tff.math.qmc.sample_sobol to tff.math.qmc.sobol_sample for C++ API consistency (tf.math.sobol_sample)
+
+PiperOrigin-RevId: 390762928</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9f09c96</span>
+                                        <span class="message">Sample from log process for LVM.
+
+* Expands tests to include a wider range of strikes/IVs.
+* Adds a param `local_volatility_from_iv` to switch between different ways of
+  computing Dupire local vol.
+* Fixed a bug that allows us to enable graph execution in tests.
+
+PiperOrigin-RevId: 390727925</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#186dfb8</span>
+                                        <span class="message">Move all RQMC code out of experimental. Add some documentation and more checks.
+
+PiperOrigin-RevId: 390648794</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#764455d</span>
+                                        <span class="message">Use TensorArray for Monte Carlo sampling for all supported models. This results in significant performance improvement when `times.shape[0] &gt; 1`
+
+PiperOrigin-RevId: 390614464</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dbf17df</span>
+                                        <span class="message">Add a unit test to verify that expectation and variance are correctly estimated when sampling from the RQMC-based Sobol implementation.
+
+PiperOrigin-RevId: 390588866</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6605c64</span>
+                                        <span class="message">Fix typo in random_digital_shift(), and add unit tests for this function. Make sure that the tensors returned by random_scrambling_matrices() have the correct shape. Break all tests into subtests. Remove unnecessary print statement.
+
+PiperOrigin-RevId: 390561440</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#891a4ea</span>
+                                        <span class="message">Use TensorArray for Euler sampling. Results in a much better performance when times.shape[0] &gt; 1.
+
+PiperOrigin-RevId: 390311383</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6214494</span>
+                                        <span class="message">Update API Docs.
+
+PiperOrigin-RevId: 390116931</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f58d96e</span>
+                                        <span class="message">* Add typing across HJM and Hull-White modules
+* Remove `dim` argument from Hull-White pricing formulas. This is because batching should be done in a similar way as in HJM, via the batch dimension.
+* Unify pricing output shapes to be of `batch_shape` throughout HJM and Hull-White modules.
+* Simplify some of the pricing formulas across Hull-White module.
+
+PiperOrigin-RevId: 390096656</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#85a0758</span>
+                                        <span class="message">Add shape manipulation utilities.
+
+PiperOrigin-RevId: 389884854</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#eeeaa13</span>
+                                        <span class="message">Pad direction numbers with zeros for large number of samples. Add a function to generate a random digital shift. This tensor is similar to the one returned by the random_scrambling_matrices() function but has a different shape. Also fix some typos.
+
+PiperOrigin-RevId: 389856973</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3c2429a</span>
+                                        <span class="message">Update external communication mailing list.
+
+PiperOrigin-RevId: 388962139</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#899500c</span>
+                                        <span class="message">Update public mailing list.
+
+PiperOrigin-RevId: 388931575</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c47d553</span>
+                                        <span class="message">Update external communication mailing list.
+
+PiperOrigin-RevId: 388922732</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#64b00f8</span>
+                                        <span class="message">Update external communication mailing list.
+
+PiperOrigin-RevId: 388921329</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#da4734a</span>
+                                        <span class="message">Update external communication mailing list.
+
+PiperOrigin-RevId: 388710167</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b3a0fa9</span>
+                                        <span class="message">Update external communication mailing list.
+
+PiperOrigin-RevId: 388705456</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dbb7316</span>
+                                        <span class="message">Update public mailing list.
+
+PiperOrigin-RevId: 388688706</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e64dc79</span>
+                                        <span class="message">Update API Docs.
+
+PiperOrigin-RevId: 388646489</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2c87302</span>
+                                        <span class="message">Unify calibration interfaces for HullWhite, SABR, and HJM models.
+
+PiperOrigin-RevId: 387815607</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1774,33 +1917,12 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">slowy07/clifter_slam</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">gitpages</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#92a2b34</span>
-                                        <span class="message">update docs
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23/09/2021, 18:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 23/09/2021, 19:31 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
