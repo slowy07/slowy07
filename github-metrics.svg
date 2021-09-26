@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1250" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2354" class="">
     <defs>
         <style/>
     </defs>
@@ -1341,7 +1341,7 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              783 MB used
+              785 MB used
             </div>
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
@@ -1430,14 +1430,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 20 edited files from 77 commits over last 6 days
+            estimation from 42 edited files from 81 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.5907473309608" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="344.5907473309608" y="0" width="100.06227758007118" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.65302491103205" y="0" width="15.34697508896797" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1447,11 +1449,29 @@
                       Python
                     </div>
                             <small>
-                                <div>100%</div>
+                                <div>74.91%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      C
+                    </div>
+                            <small>
+                                <div>3.34%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      C++
+                    </div>
+                            <small>
+                                <div>21.75%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -1466,7 +1486,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.5 characters per line of code written</li>
+                        <li>Has approximately 42.1 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1506,18 +1526,18 @@
               05
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               06
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               07
             </div>
                     <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               08
             </div>
                     <div class="entry">
@@ -1643,8 +1663,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 59.9288256227758%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">75%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">C++</span>
+                            <div class="bar" style="width: 17.402135231316727%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">22%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">C</span>
+                            <div class="bar" style="width: 2.669039145907473%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                     </div>
                 </section>
@@ -1692,6 +1722,706 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1000 commits in <span class="repo">slowy07/tensorflow</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a06f846</span>
+                                        <span class="message">#tflite-maven-reorg Split API target out of TFLite maven package.
+
+PiperOrigin-RevId: 395413761
+Change-Id: I43ed7dcf4b2a2b4d4b93fb6fc1f83b0a434be261</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6fb7944</span>
+                                        <span class="message">Go: Update generated wrapper functions for TensorFlow ops.
+
+PiperOrigin-RevId: 395408723
+Change-Id: Ideb4a2aa357bd2dbb2b14a4b3ec9273738265bdc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b17422a</span>
+                                        <span class="message">Improve `LinearOperatorKronecker` by removing most transposes.
+    - Use a variant of of Roth's column lemma that is based on row-major storage.
+    - Don't transpose batch shapes, and instead use broadcasting as much as possible (artifact from when broadcasting wasn't completely supported).
+
+PiperOrigin-RevId: 395400888
+Change-Id: I6260300dda0498465fe2a3d7c368de00972efe8c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c49813d</span>
+                                        <span class="message">Legalize mhlo.sort to tf.TopKV2.
+
+We only support the simple case where
+1. The mhlo.sort has only two operands(values and indices), and the indices must be
+   generated from IotaOp.
+2. The comparator has to be GT w.r.t first operand (values).
+
+PiperOrigin-RevId: 395400744
+Change-Id: I5e4df52d586856f18f2f2f9ce3790add03eebd6d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f5a82d2</span>
+                                        <span class="message">Revert blank lines in copyright</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a3039b6</span>
+                                        <span class="message">Integrate LLVM at llvm/llvm-project@2bf8be79b10c
+
+Updates LLVM usage to match
+[2bf8be79b10c](https://github.com/llvm/llvm-project/commit/2bf8be79b10c)
+
+PiperOrigin-RevId: 395395052
+Change-Id: If3d445fbd5fa298c6c072951b3d7fc2365724918</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8137d0d</span>
+                                        <span class="message">Update Function.__get__ to properly handle the case where `self` is a CompositeTensor.
+
+PiperOrigin-RevId: 395389927
+Change-Id: Idf20a851d9b053c777303db352f4f1cba7640ce5</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5bd2862</span>
+                                        <span class="message">Modified g4 rollback of changelist 394772826.
+
+PiperOrigin-RevId: 395384724
+Change-Id: I61e5e2b68b2a13f81ab4e6a60b0207bfa62485f0</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f042787</span>
+                                        <span class="message">Add jax to tflite codelab.
+
+PiperOrigin-RevId: 395384356
+Change-Id: Ibb99a1bff4ad0ff2dc7557907fe6a9a7b40e01c0</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1e5333b</span>
+                                        <span class="message">[tf.data] Metric recording for autotune models have been turned on only for jobs that use autotune for any of its dataset. Turning it on for all jobs has the advantage of using the autotune model for other purposes, e.g. analysis of processing time of each node. The overhead added for jobs that do not use autotune for any of its dataset is 3 int64 (Node::buffered_bytes, Node::buffered_elements, Node::processing_time) or 24 bytes per node.
+
+PiperOrigin-RevId: 395378138
+Change-Id: I7cc628167463489241c0c3f99b710b7131f6e754</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e61f358</span>
+                                        <span class="message">Update Function.__get__ to properly handle the case where `self` is a CompositeTensor.
+
+PiperOrigin-RevId: 395375374
+Change-Id: I78001bdb21a5da895be62871ac5eb999ff0abe9c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#df6ee75</span>
+                                        <span class="message">Merge pull request #51855 from caifand:master
+
+PiperOrigin-RevId: 395371458
+Change-Id: I5f168a59e641c707f085599e3dcd6b37431afab6</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dd5f51f</span>
+                                        <span class="message">Undo the changes to MakeScalingFactorConstant()</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0d97f29</span>
+                                        <span class="message">[tf.data] Metric recording for autotune models have been turned on only for jobs that use autotune for any of its dataset. Turning it on for all jobs has the advantage of using the autotune model for other purposes, e.g. analysis of processing time of each node. The overhead added for jobs that do not use autotune for any of its dataset is 3 int64 (Node::buffered_bytes, Node::buffered_elements, Node::processing_time) or 24 bytes per node.
+
+PiperOrigin-RevId: 395366161
+Change-Id: I1434c4d8962ee108fd358c403d1d1f0504c87f60</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bf34552</span>
+                                        <span class="message">Changes to not rewrite conv_grad ops to MKL when explicit padding is
+enabled.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5a24a36</span>
+                                        <span class="message">[tf.data service] Centralize default server values.
+
+Previously, we specified the default values for parameters such as "job_gc_timeout_ms" in multiple places. These could easily get out of sync, and make it hard to evolve the default behavior. Additionally, the default protocol buffer configuration value is 0, but this doesn't match the logical default value.
+
+To solve these issues, this CL updates the meaning of `0` to mean "Leave the default up to the runtime". Then we only need to set the default in one place: in the implementation. This has the added benefit that the default protocol buffer values match the default behavior we want.
+
+PiperOrigin-RevId: 395352792
+Change-Id: I958119be2358d9adb859dbfae181fefa66f40e37</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cf0d51e</span>
+                                        <span class="message">Move FullType from a side collection into the NodeDef proto. This is required to avoid creating parallel data streams, as NodeDef is the authoritative source of truth and wire format.
+
+PiperOrigin-RevId: 395346910
+Change-Id: I2179baa5f5393a06dcd9aa2be56f263e344a8bdd</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5dfd714</span>
+                                        <span class="message">Lower lmhlo.custom_call to xlir.custom_call, and execute it in a BefThunk.
+
+PiperOrigin-RevId: 395346033
+Change-Id: I579282990de66760af80c8c76afee49fd06cec01</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#15a53d3</span>
+                                        <span class="message">GemmThunk: Comment on FP32 computation for F16 data types.
+
+PiperOrigin-RevId: 395345596
+Change-Id: I89ffa967a63e43fb20ce6e9ead359294c277d40a</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4dbda58</span>
+                                        <span class="message">Track the batch delay per processed batch size.
+
+PiperOrigin-RevId: 395344656
+Change-Id: Ifbedd8f925862c322563695775ea369e63b8d7fc</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 142 commits in <span class="repo">slowy07/googleapis</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7cb3f3b</span>
+                                        <span class="message">chore(bazel): update rules_gapic to v0.6.0
+
+PiperOrigin-RevId: 391841614</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#84b7c63</span>
+                                        <span class="message">build: change links to make them absolute
+
+PiperOrigin-RevId: 391801304</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ed73949</span>
+                                        <span class="message">feat: Add BigQueryAuditMetadata proto. The BigQueryAuditMetadata proto is used by BigQuery Cloud Audit Logging. It is encoded as a google.protobuf.Struct message inside the metadata field of the AuditLog proto
+
+PiperOrigin-RevId: 391764852</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#62d5035</span>
+                                        <span class="message">docs: Keep the API doc up-to-date
+
+PiperOrigin-RevId: 391605108</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#853cfd3</span>
+                                        <span class="message">docs: Improvements to various message and field descriptions
+
+PiperOrigin-RevId: 391604499</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#76bed90</span>
+                                        <span class="message">feat: Add transcript normalization
+
+Committer: @jameszhao
+PiperOrigin-RevId: 391603958</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5d0a689</span>
+                                        <span class="message">chore: Configure Ruby clients for datastream, networkconnectivity, accesscontextmanager, and ccai
+
+PiperOrigin-RevId: 391590268</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5f76113</span>
+                                        <span class="message">feat: Publish new fields to support cluster group routing for Cloud Bigtable
+
+Committer: @garye
+PiperOrigin-RevId: 391576441</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e1738ee</span>
+                                        <span class="message">chore: update gapic-generator-java version to 2.1.0
+
+PiperOrigin-RevId: 391407209</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8119b18</span>
+                                        <span class="message">chore: update gax-java version to 2.3.0
+
+PiperOrigin-RevId: 391341190</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b4e27bc</span>
+                                        <span class="message">chore(bazel): update gapic-generator-go and Go Bazel deps
+
+PiperOrigin-RevId: 391317026</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a75aa07</span>
+                                        <span class="message">docs: minor formatting fixes to Cloud Functions reference docs
+
+PiperOrigin-RevId: 391298623</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a6c8dc7</span>
+                                        <span class="message">feat: Add new commute methods in Search APIs
+feat: Add new histogram type 'publish_time_in_day'
+feat: Support filtering by requisitionId is ListJobs API
+
+PiperOrigin-RevId: 391131412</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#01c9379</span>
+                                        <span class="message">chore: regenerate API index</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b6901e7</span>
+                                        <span class="message">feat: Added the Backup resource and Backup resource GetIamPolicy/SetIamPolicy to V1
+feat: Added the RestoreService method to V1
+
+Promoted additional Dataproc Metastore metadata management methods to V1
+
+PiperOrigin-RevId: 391108398</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a0565a9</span>
+                                        <span class="message">chore: regenerate API index</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7fec729</span>
+                                        <span class="message">feat: Add ability to configure BuildTriggers to create Builds that require approval before executing and ApproveBuild API to approve or reject pending Builds
+
+Comitter: @joonlim
+PiperOrigin-RevId: 391072303</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b9e69f8</span>
+                                        <span class="message">feat: Release of relationships in v1, Add content type Relationship to support relationship export
+Committer: lvv@
+
+PiperOrigin-RevId: 391065985</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b08c556</span>
+                                        <span class="message">chore(ruby): Backfill Ruby microgenerator params for Transcoder V1
+
+PiperOrigin-RevId: 390638960</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c47ff19</span>
+                                        <span class="message">feat:Publish Workflows call logging proto for documentation
+
+PiperOrigin-RevId: 390391198</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 393 commits in <span class="repo">slowy07/openpilot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fb0d099</span>
+                                        <span class="message">Revert "test_onroad: increase driverState timing to avoid random failures"
+
+This reverts commit aa89bb727ecc3f12e29e5e7f75b3c54cc89b9cb7.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3a7959b</span>
+                                        <span class="message">fix: util::file_exists will return false on no permissions (#21880)
+
+* fix bug
+
+* add test case</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aa89bb7</span>
+                                        <span class="message">test_onroad: increase driverState timing to avoid random failures</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d90188a</span>
+                                        <span class="message">tools: fix replay/camera.py crash (#21881)
+
+* check array size before reshape
+
+* revert
+
+* check length directly</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#511f5a7</span>
+                                        <span class="message">clpeak no print patch</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1d4b19f</span>
+                                        <span class="message">use same env variable for loggerd, deleter, and uploader</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#45b5df5</span>
+                                        <span class="message">update ssh readme for c3</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8aafbc7</span>
+                                        <span class="message">add that back</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fd53169</span>
+                                        <span class="message">Revert "add boardd as a managed process for tests"
+
+This reverts commit fcae1997237bf982a8b2e8c49f315c0921e56157.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fcae199</span>
+                                        <span class="message">add boardd as a managed process for tests</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a398738</span>
+                                        <span class="message">refactor loggerd: trigger rotate in encoder thread (#21860)
+
+* trigger rotate in eoncode thread
+
+* rotate in time
+
+* lgtm
+
+* dcam trigger rotate on C3
+
+* check trigger rotate field
+
+* Use &gt;=
+
+* add rotator thread
+
+* set cnt to 0
+
+* test encodeIdx is increasing across segments
+
+* test both segmentId and encodeId
+
+* fix encodeIdx
+
+* no thread needed
+
+* add log for failed to encode
+
+* stricter C3 test, dont check start encodeId on C2 dcam
+
+* only update last_camera_seen_tms when considered for rotate
+
+Co-authored-by: deanlee &lt;deanlee3@gmail.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e0087fc</span>
+                                        <span class="message">Fix orientation in map (#21863)
+
+* fix calibrated orientation
+
+* update ref
+
+* cleaner
+
+* update ref
+
+* master
+
+* update again
+
+* update ref again again
+
+* actually compiled this tim,e</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#276b00c</span>
+                                        <span class="message">Draw model leads (#21864)
+
+* draw model not radar
+
+* compiles
+
+* wrong way</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0066523</span>
+                                        <span class="message">DM model with better noise performance (#21733)
+
+* smooth 3d4f
+
+* update thresholds
+
+* update ref commt
+
+* update</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d68b0bd</span>
+                                        <span class="message">process replay: fix hang after process time out</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aa68917</span>
+                                        <span class="message">Cleaner lane change alerts (#21857)
+
+* less is more
+
+* small
+
+* remove HUD warnings
+
+* update ref
+
+* safe
+
+* update refs
+
+* update again
+
+Co-authored-by: Willem Melching &lt;willem.melching@gmail.com&gt;
+Co-authored-by: Adeeb Shihadeh &lt;adeebshihadeh@gmail.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d74def6</span>
+                                        <span class="message">fix: spelling typos (#21861)
+
+* fix: typo spelling grammar
+
+* revert
+
+* Update selfdrive/locationd/calibrationd.py
+
+* more revert
+
+Co-authored-by: Adeeb Shihadeh &lt;adeebshihadeh@gmail.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#036bc03</span>
+                                        <span class="message">fix cpu usage test for soundd</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#25de93d</span>
+                                        <span class="message">C3 AE improvements (#21698)
+
+* AE improvements
+
+* boardd: also use gain to compute IR brightness
+
+* use default rect for DM autoexposure
+
+* more smooth
+
+* whitespace
+
+* camerad cpu usage
+
+* hcg on is slightly better for noise
+
+* hysteris around high conversion gain
+
+* improve i2c timing
+
+* use AB contexts
+
+* HCG default off
+
+* run at 10 hz
+
+* stay in context A for now
+
+* remove ae thread
+
+* wait till next frame is started before sending i2c
+
+* back at 20fps
+
+* add comment and filter across 3 evs
+
+* remove context switch code
+
+* tuning
+
+* recomened without HCG is 0.8x</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0fa989</span>
+                                        <span class="message">proclogd: reduce the size of the procLog message by nearly half (#21800)
+
+* cp msg to remove the space
+
+* no orphans
+
+* cleanup
+
+* parse using istringstream
+
+* add test
+
+* split files
+
+* cleanup
+
+* add parser.cc to files_common
+
+* add test for build message
+
+* use &gt; 0
+
+* cleanup
+
+* test proc/self/stat
+
+* more test
+
+* dd
+
+* fix bug
+
+* update test
+
+* refactor pidStat
+
+* cleanup
+
+* test exe
+
+* check procs size in message
+
+* rename pidStat-&gt;ProcStat
+
+* don't use util::format_string
+
+* robust pids()
+
+* catch conversion exception
+
+* fix softirq
+
+* udpate test
+
+* use istringstream
+
+* use REQUIRE_THAT&amp;cleanup
+
+* reserve vector of procStats
+
+* use istream to parse cmdline
+
+* cleanup</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 14 commits in <span class="repo">slowy07/trick</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#90639e3</span>
+                                        <span class="message">In Makefile.common, don't allow TRICK_CIVET to be enabled. #1188</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6865501</span>
+                                        <span class="message">Temporarily disable the python_tests which are really civetserver tests during implementation of issue #1188</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f377c36</span>
+                                        <span class="message">Merge pull request #1183 from nasa/issue28
+
+Initial excision of DMTCP from Trick. #28</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8e5e213</span>
+                                        <span class="message">Merge branch 'master' into issue28</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f272e89</span>
+                                        <span class="message">Comment out inappropriate alloc_info tests.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2153eaa</span>
+                                        <span class="message">Add print statement back to configure. Tidy up GridLayout instnciation. #28 #1183</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#82c55d4</span>
+                                        <span class="message">Merge master into branch to fix web server tests (#1185)
+
+* suppress warning for detached head during civitweb clone
+
+closes #1180
+
+* disable sigchld handler by default #931 (#1182)
+
+* disable sigchld handler by default #931
+
+* update test to set sigchld trap before testing
+
+closes #931
+
+* Fixed webserver http_alloc test (#1184)
+
+Co-authored-by: cherpin00 &lt;44306236+cherpin00@users.noreply.github.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6ae4bc3</span>
+                                        <span class="message">Fixed webserver http_alloc test (#1184)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e487e56</span>
+                                        <span class="message">Initial excision of DMTCP from Trick. #28</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#167c4a6</span>
+                                        <span class="message">disable sigchld handler by default #931 (#1182)
+
+* disable sigchld handler by default #931
+
+* update test to set sigchld trap before testing
+
+closes #931</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b260bcb</span>
+                                        <span class="message">suppress warning for detached head during civitweb clone
+
+closes #1180</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#94f20d4</span>
+                                        <span class="message">Merge branch 'master' of https://github.com/nasa/trick</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4c52ed2</span>
+                                        <span class="message">Merge Caleb Herpins port of Trick webserver from Mongoose to CivetWeb #730.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dbafed3</span>
+                                        <span class="message">use default repo name in tutorial introduction
+
+Novice linux/trick users don't catch that "trick" and "trick.git" are incompatible, because they don't understand that the file extension is a part of the directory name. For this reason they frequently leave the ".git" in their shell environment and they get stuck there for a while. While it is important that trick users have an understanding of how their shell uses the PATH variable, I do not think this little section at the bottom of the intro should have to be debugged so frequently.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">bellshade/Java</span>
                     </div>
                                 </div>
@@ -1706,96 +2436,12 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/CPP</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#30e7dcb</span>
-                                        <span class="message">add: basic hello world
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/CPP</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2cfb876</span>
-                                        <span class="message">add: menambahkan cmakelist
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/Python</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f59bada</span>
-                                        <span class="message">add: tipe casting
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/Java</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#aec8384</span>
-                                        <span class="message">docs: add pull request template
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/09/2021, 06:18 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 26/09/2021, 08:02 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
