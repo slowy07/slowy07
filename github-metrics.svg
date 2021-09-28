@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1223" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1530" class="">
     <defs>
         <style/>
     </defs>
@@ -1430,7 +1430,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 33 edited files from 89 commits over last 7 days
+            estimation from 33 edited files from 88 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1722,6 +1722,449 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1000 commits in <span class="repo">slowy07/pytorch</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d986d4b</span>
+                                        <span class="message">[special] use __all__ to hide internal imports (#63135)
+
+Summary:
+Reference: https://github.com/pytorch/pytorch/issues/50345
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63135
+
+Reviewed By: ngimel
+
+Differential Revision: D30364287
+
+Pulled By: mruberry
+
+fbshipit-source-id: 20078668943fafa45ce09610634b1d2c424b1922</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0c3904d</span>
+                                        <span class="message">[BF16] Add a missing thread local specifier to autocast_gpu_dtype (#63416)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63416
+
+Fix a missing thread local specifier introduced by recent PR
+
+https://github.com/pytorch/pytorch/pull/61002
+
+Test Plan: Unit Tests
+
+Reviewed By: ngimel
+
+Differential Revision: D30376154
+
+fbshipit-source-id: c70d37ec85c3eba88eb87f766f1c4e7aeff8eaf9</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#535d441</span>
+                                        <span class="message">[7/N] Remove fork tests for RPC. (#63443)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63443
+
+After https://github.com/pytorch/pytorch/pull/63442, all distributed
+tests can run with opt-asan. As a result, we can now remove all of our fork
+based tests.
+
+This is the first PR in a stack, which first removes fork based tests from RPC.
+ghstack-source-id: 136177744
+
+Test Plan: waitforbuildbot
+
+Reviewed By: lw
+
+Differential Revision: D30384905
+
+fbshipit-source-id: 86d438aebaa6cb02ae2a966fea244849849a1889</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bd8608c</span>
+                                        <span class="message">Use CMake for breakpad (#63186)
+
+Summary:
+We currently build breakpad from [this fork](https://github.com/driazati/breakpad) to include extra logic to restore signal handlers that were previously present. With some [new additions](https://github.com/google/breakpad/compare/main...driazati:main) this fork now includes a CMake based build, so we can add breakpad as a proper dependency rather than rely on including it in Docker images as a system library which is error prone (we have a bunch of images) and hard to extend to MacOS / Windows. This also includes some changes to the crash handling code to support MacOS / Windows in a similar way to Linux.
+
+```python
+import torch
+
+# On Windows this writes crashes to C:\Users\&lt;user&gt;\AppData\pytorch_crashes
+# On MacOS/Linux this writes crashes to /tmp/pytorch_crashes
+torch.utils._crash_handler.enable_minidumps()
+
+# Easy way to cause a segfault and trigger the handler
+torch.bincount(input=torch.tensor([9223372036854775807]))
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63186
+
+Reviewed By: malfet, seemethere
+
+Differential Revision: D30318404
+
+Pulled By: driazati
+
+fbshipit-source-id: 0d7daf3701cfaba5451cc529a0730272ab1eb1dc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e030b81</span>
+                                        <span class="message">[easy] Fix missing move in TupleType::createNamed (#61572)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/61572
+
+ghstack-source-id: 136161829
+
+Test Plan: CI
+
+Reviewed By: SplitInfinity
+
+Differential Revision: D29672872
+
+fbshipit-source-id: d8ba2d54f7914dbeb3fc52aa21dd77025951c4b5</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3aa4521</span>
+                                        <span class="message">[hpc] use fx2trt for exploration track (#63535)
+
+Summary: Pull Request resolved: https://github.com/pytorch/pytorch/pull/63535
+
+Reviewed By: yinghai, jianyuh
+
+Differential Revision: D30272810
+
+fbshipit-source-id: 61f3edf2a2282cd8c268a92acf92feb05a6ae3e1</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#885e312</span>
+                                        <span class="message">Add permute021 fx2trt converter (#63238)
+
+Summary: Pull Request resolved: https://github.com/pytorch/pytorch/pull/63238
+
+Reviewed By: yinghai
+
+Differential Revision: D30295373
+
+fbshipit-source-id: 2a189fe485edaa978fd03e4b8d8582edb34ec648</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e7831fe</span>
+                                        <span class="message">[PyTorch] Test IValue move/copy/assign/swap more (#54717)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/54717
+
+Hit more tags in these tests
+ghstack-source-id: 136140508
+
+Test Plan: buck test //caffe2/aten:ivalue_test
+
+Reviewed By: anjali411
+
+Differential Revision: D27339736
+
+fbshipit-source-id: 610c8e92846bb70ba725ab117440326ab50af5ce</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#79693bb</span>
+                                        <span class="message">Use linecache.lazycache to cache generated code. (#63453)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63453
+
+Instead of patching linecache.getlines, use linecache.lazycache and
+parts of the loader protocol described in PEP-302
+
+Test Plan:
+python3 test/test_fx.py
+
+Imported from OSS
+
+Reviewed By: suo
+
+Differential Revision: D30388176
+
+fbshipit-source-id: 92933711ecf3a21a07e1d6b0d1185ab0efd8341c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e133451</span>
+                                        <span class="message">Add fastpath for dot and vdot when the inputs have conj bit set to True (#62915)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/62915
+
+As much as 45% and 20% perf improvement on CUDA and CPU respectively.
+consistent improvement in perf for all cases -- see perf numbers in comments below
+
+Test Plan: Imported from OSS
+
+Reviewed By: heitorschueroff
+
+Differential Revision: D30404006
+
+Pulled By: anjali411
+
+fbshipit-source-id: 565940da28c7761d993cf43346932c24292e8a4d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f596aa8</span>
+                                        <span class="message">Poisson zero rate (#61511)
+
+Summary:
+This PR fixes https://github.com/pytorch/pytorch/issues/53485 by allowing zero rates for the Poisson distribution. This implementation is consistent with `scipy.stats.poisson` which admits zero rates. In addition to addressing the aforementioned issue, this PR makes two supporting changes:
+
+1. add a `nonnegative` constraint to enforce non-negative rates for the Poisson distribution.
+2. adjust the evaluation of the gradient of `xlogy` such that it is well defined for `x == 0 and y == 0`.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/61511
+
+Reviewed By: ejguan
+
+Differential Revision: D30352917
+
+Pulled By: albanD
+
+fbshipit-source-id: f3d33da58360e80d75eb83519f199b93232a2a2d</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#be9be9b</span>
+                                        <span class="message">add distributed/_sharded_tensor/test_sharded_tensor to ROCM_BLOCKLIST (#63508)
+
+Summary:
+Fixes current ROCm CI test2 brokenness until tensorpipe is fully supported by ROCm.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63508
+
+Reviewed By: ejguan
+
+Differential Revision: D30406450
+
+Pulled By: walterddr
+
+fbshipit-source-id: c07509271d5d33901f3eaf7ffb916dc3626e1f9a</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e7c4988</span>
+                                        <span class="message">To fix the chainability at epoch zero for some schedulers (#63457)
+
+Summary:
+It has been discussed in the https://github.com/pytorch/pytorch/pull/60836#issuecomment-899084092 that we have observed an obstacle to chain some type of learning rate schedulers. In particular we observed
+
+* some of the learning rate schedulers returns initial learning rates at epoch 0 as
+```
+       return self.base_lrs`
+```
+
+* This can be a problem when two schedulers called as chained as
+
+```
+     scheduler1.step()
+     scheduler2.step()
+```
+
+in particular, we completely ignore the effect of scheduler1 at epoch 0.  This could not be an issue if at epoch 0, scheduler1 was ineffective as in many schedulers, however for schedulers as WarmUp Schedulers, where at epoch 0 schedulers multiplicative value is smaller than 1 this could lead to undesired behaviors.
+
+The following code snippet illustrates the problem better
+
+## Reproducing the bug
+
+```python
+import torch
+from torch.nn import Parameter
+from torch.optim import SGD
+from torch.optim.lr_scheduler import WarmUpLR, ExponentialLR
+
+model = [Parameter(torch.randn(2, 2, requires_grad=True))]
+optimizer = SGD(model, 1.0)
+scheduler1 = WarmUpLR(optimizer, warmup_factor=0.1, warmup_iters=5, warmup_method="constant")
+scheduler2 = ExponentialLR(optimizer, gamma=0.9)
+
+for epoch in range(10):
+     print(epoch, scheduler2.get_last_lr()[0])
+     optimizer.step()
+     scheduler1.step()
+     scheduler2.step()
+```
+
+### Current Result
+
+```
+0 1.0
+1 0.9
+2 0.81
+3 0.7290000000000001
+4 0.6561000000000001
+5 5.904900000000001
+6 5.314410000000001
+7 4.782969000000001
+8 4.304672100000001
+9 3.874204890000001
+```
+
+### Expected Result
+
+```
+0 1.0
+1 0.9
+2 0.81
+3 0.7290000000000001
+4 0.6561000000000001
+5 0.5904900000000001
+6 0.5314410000000001
+7 0.4782969000000001
+8 0.4304672100000001
+9 0.3874204890000001
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63457
+
+Reviewed By: datumbox
+
+Differential Revision: D30424160
+
+Pulled By: iramazanli
+
+fbshipit-source-id: 3e15af8d278c872cd6f53406b55f4d3ce5002867</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2d5b19f</span>
+                                        <span class="message">Update full backward hook doc with not-same-object note (#63245)
+
+Summary:
+Fixes https://github.com/pytorch/pytorch/issues/61446
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63245
+
+Reviewed By: ejguan
+
+Differential Revision: D30352656
+
+Pulled By: albanD
+
+fbshipit-source-id: 7000ecb54a80f2da968ec7600b98574b608578ae</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#47a9e8f</span>
+                                        <span class="message">[Static Runtime] Support __getitem__ for lists (#63398)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63398
+
+This change provides a native `__getitem__` implementation for lists to avoid overhead associated with falling back to the JIT interpreter.
+
+Test Plan: Unit tests: `buck test //caffe2/benchmarks/static_runtime:static_runtime_cpptest`
+
+Reviewed By: hlu1
+
+Differential Revision: D30368464
+
+fbshipit-source-id: e0e0971508cd5d9bcf6025606993dc24ecbf6764</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ce61100</span>
+                                        <span class="message">Revert D29399533: Hoisting common expressions out of If blocks
+
+Test Plan: revert-hammer
+
+Differential Revision:
+D29399533 (https://github.com/pytorch/pytorch/commit/9477211e7d609ce382c0e22d7721c14c36d083de)
+
+Original commit changeset: 9336b9dc48c0
+
+fbshipit-source-id: f081c7280203f40328bcbb0c03a7c6a007acedb7</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6bb68ba</span>
+                                        <span class="message">Fix interpreter debug logging message (#63499)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63499
+
+https://github.com/pytorch/pytorch/pull/62418 combine the instruction and debug handle. This change fix the debugging message.
+ghstack-source-id: 136184053
+
+Test Plan: Uncomment and it works
+
+Reviewed By: kimishpatel, raziel
+
+Differential Revision: D30390699
+
+fbshipit-source-id: e32b7b297ad3b7d8bffebd025d15519083a244c4</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5254e3a</span>
+                                        <span class="message">layernom inplace (#63437)
+
+Summary: Pull Request resolved: https://github.com/pytorch/pytorch/pull/63437
+
+Test Plan: Imported from OSS
+
+Reviewed By: ngimel
+
+Differential Revision: D30388824
+
+Pulled By: Krovatkin
+
+fbshipit-source-id: 852d19bf238544c5de177ed5854dcd01c7ae5572</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#531262f</span>
+                                        <span class="message">layernorm (#63436)
+
+Summary:
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/63436
+
+use MKLDNN layernorm
+
+use mkldnn version 2
+
+address Elias feedback
+
+fix build CI errors
+
+Test Plan: Imported from OSS
+
+Reviewed By: ngimel
+
+Differential Revision: D30388825
+
+Pulled By: Krovatkin
+
+fbshipit-source-id: fb909bfbf53cb8567a43aac40f51c491daeec908</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6e00b31</span>
+                                        <span class="message">[TensorExpr] Make CacheReplacer and IndexFlattener mutate stmts/exprs inplace. (#63527)
+
+Summary: Pull Request resolved: https://github.com/pytorch/pytorch/pull/63527
+
+Test Plan: Imported from OSS
+
+Reviewed By: navahgar
+
+Differential Revision: D30411411
+
+Pulled By: ZolotukhinM
+
+fbshipit-source-id: efb14ee57b36537fa4fefa89bdd6bafe7151c012</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">bellshade/Java</span>
                     </div>
                                 </div>
@@ -1793,33 +2236,12 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/CPP</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7c59a4b</span>
-                                        <span class="message">add: variabel
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28/09/2021, 09:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 28/09/2021, 10:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
