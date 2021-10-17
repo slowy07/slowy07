@@ -1712,6 +1712,11 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Python</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -1850,7 +1855,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17/10/2021, 11:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 17/10/2021, 12:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
