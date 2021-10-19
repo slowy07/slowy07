@@ -24,7 +24,7 @@ jobs:
           # filename
           filename: github-metrics.svg
           # repositories batch
-          repositories_batch: 5
+          repositories_batch: 7
           # repositories limit
           repositories: 100
           # programming language
