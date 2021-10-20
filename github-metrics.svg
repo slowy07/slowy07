@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1463" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1218" class="">
     <defs>
         <style/>
     </defs>
@@ -1341,11 +1341,11 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            4109 Commits
+            4112 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
-            128 Pull requests reviewed
+            129 Pull requests reviewed
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -1412,7 +1412,7 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              772 MB used
+              773 MB used
             </div>
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
@@ -1501,7 +1501,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 65 edited files from 64 commits over last 7 days
+            estimation from 65 edited files from 68 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1531,7 +1531,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 66 commits)</small>
+        <small class="h-details">(computed from last 69 commits)</small>
       
     </h2>
                 <div class="row">
@@ -1582,8 +1582,8 @@
               06
             </div>
                     <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               07
             </div>
                     <div class="entry">
@@ -1637,13 +1637,13 @@
               17
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               18
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1688,8 +1688,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">15</span>
+                <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1763,43 +1763,17 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">slowy07/slowy07</span>
+                      Pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">math</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9ac1d7e</span>
-                                        <span class="message">Update README.md</span>
+                                        <span class="sha">#c5219fb</span>
+                                        <span class="message">fix: menambah docstring testing
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Deleted
-                      branch  <span class="code">docs-update</span> in  <span class="repo">slowy07/PHP</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                      Reviewed <span class="issue">#162 docs: Typo, markdown code dan beberapa perbaikan kecil lainnya</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by feri-irawan in <span class="repo">bellshade/HTML-CSS</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1810,481 +1784,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1000 commits in <span class="repo">slowy07/linux</span>
+                      Pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">math</span></div>
                                     <div class="commit">
-                                        <span class="sha">#f816029</span>
-                                        <span class="message">KVM: X86: Fix missed remote tlb flush in rmap_write_protect()
+                                        <span class="sha">#78946b5</span>
+                                        <span class="message">feat: menambahkan bilangan aneh
 
-When kvm-&gt;tlbs_dirty &gt; 0, some rmaps might have been deleted
-without flushing tlb remotely after kvm_sync_page().  If @gfn
-was writable before and it's rmaps was deleted in kvm_sync_page(),
-and if the tlb entry is still in a remote running VCPU,  the @gfn
-is not safely protected.
-
-To fix the problem, kvm_sync_page() does the remote flush when
-needed to avoid the problem.
-
-Fixes: a4ee1ca4a36e ("KVM: MMU: delay flush all tlbs on sync_page path")
-Signed-off-by: Lai Jiangshan &lt;laijs@linux.alibaba.com&gt;
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;
-Message-Id: &lt;20210918005636.3675-2-jiangshanlai@gmail.com&gt;
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#faf6b75</span>
-                                        <span class="message">KVM: x86: nSVM: don't copy virt_ext from vmcb12
-
-These field correspond to features that we don't expose yet to L2
-
-While currently there are no CVE worthy features in this field,
-if AMD adds more features to this field, that could allow guest
-escapes similar to CVE-2021-3653 and CVE-2021-3656.
-
-Signed-off-by: Maxim Levitsky &lt;mlevitsk@redhat.com&gt;
-Message-Id: &lt;20210914154825.104886-6-mlevitsk@redhat.com&gt;
-Cc: stable@vger.kernel.org
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d1cba6c</span>
-                                        <span class="message">KVM: x86: nSVM: test eax for 4K alignment for GP errata workaround
-
-GP SVM errata workaround made the #GP handler always emulate
-the SVM instructions.
-
-However these instructions #GP in case the operand is not 4K aligned,
-but the workaround code didn't check this and we ended up
-emulating these instructions anyway.
-
-This is only an emulation accuracy check bug as there is no harm for
-KVM to read/write unaligned vmcb images.
-
-Fixes: 82a11e9c6fa2 ("KVM: SVM: Add emulation support for #GP triggered by SVM instructions")
-
-Signed-off-by: Maxim Levitsky &lt;mlevitsk@redhat.com&gt;
-Message-Id: &lt;20210914154825.104886-4-mlevitsk@redhat.com&gt;
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1ad3210</span>
-                                        <span class="message">KVM: x86: selftests: test simultaneous uses of V_IRQ from L1 and L0
-
-Test that if:
-
-* L1 disables virtual interrupt masking, and INTR intercept.
-
-* L1 setups a virtual interrupt to be injected to L2 and enters L2 with
-  interrupts disabled, thus the virtual interrupt is pending.
-
-* Now an external interrupt arrives in L1 and since
-  L1 doesn't intercept it, it should be delivered to L2 when
-  it enables interrupts.
-
-  to do this L0 (abuses) V_IRQ to setup an
-  interrupt window, and returns to L2.
-
-* L2 enables interrupts.
-  This should trigger the interrupt window,
-  injection of the external interrupt and delivery
-  of the virtual interrupt that can now be done.
-
-* Test that now L2 gets those interrupts.
-
-This is the test that demonstrates the issue that was
-fixed in the previous patch.
-
-Signed-off-by: Maxim Levitsky &lt;mlevitsk@redhat.com&gt;
-Message-Id: &lt;20210914154825.104886-3-mlevitsk@redhat.com&gt;
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aee77e1</span>
-                                        <span class="message">KVM: x86: nSVM: restore int_vector in svm_clear_vintr
-
-In svm_clear_vintr we try to restore the virtual interrupt
-injection that might be pending, but we fail to restore
-the interrupt vector.
-
-Signed-off-by: Maxim Levitsky &lt;mlevitsk@redhat.com&gt;
-Message-Id: &lt;20210914154825.104886-2-mlevitsk@redhat.com&gt;
-Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4d88c33</span>
-                                        <span class="message">atlantic: Fix issue in the pm resume flow.
-
-After fixing hibernation resume flow, another usecase was found which
-should be explicitly handled - resume when device is in "down" state.
-Invoke aq_nic_init jointly with aq_nic_start only if ndev was already
-up during suspend/hibernate. We still need to perform nic_deinit() if
-caller requests for it, to handle the freeze/resume scenarios.
-
-Fixes: 57f780f1c433 ("atlantic: Fix driver resume flow.")
-Signed-off-by: Sudarsana Reddy Kalluru &lt;skalluru@marvell.com&gt;
-Signed-off-by: Igor Russkikh &lt;irusskikh@marvell.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fdbccea</span>
-                                        <span class="message">net/mlx4_en: Don't allow aRFS for encapsulated packets
-
-Driver doesn't support aRFS for encapsulated packets, return early error
-in such a case.
-
-Fixes: 1eb8c695bda9 ("net/mlx4_en: Add accelerated RFS support")
-Signed-off-by: Aya Levin &lt;ayal@nvidia.com&gt;
-Signed-off-by: Tariq Toukan &lt;tariqt@nvidia.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#acc64f5</span>
-                                        <span class="message">net: mscc: ocelot: fix forwarding from BLOCKING ports remaining enabled
-
-The blamed commit made the fatally incorrect assumption that ports which
-aren't in the FORWARDING STP state should not have packets forwarded
-towards them, and that is all that needs to be done.
-
-However, that logic alone permits BLOCKING ports to forward to
-FORWARDING ports, which of course allows packet storms to occur when
-there is an L2 loop.
-
-The ocelot_get_bridge_fwd_mask should not only ask "what can the bridge
-do for you", but "what can you do for the bridge". This way, only
-FORWARDING ports forward to the other FORWARDING ports from the same
-bridging domain, and we are still compatible with the idea of multiple
-bridges.
-
-Fixes: df291e54ccca ("net: ocelot: support multiple bridges")
-Suggested-by: Colin Foster &lt;colin.foster@in-advantage.com&gt;
-Reported-by: Colin Foster &lt;colin.foster@in-advantage.com&gt;
-Signed-off-by: Vladimir Oltean &lt;vladimir.oltean@nxp.com&gt;
-Signed-off-by: Colin Foster &lt;colin.foster@in-advantage.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e68daf6</span>
-                                        <span class="message">net: ethernet: mtk_eth_soc: avoid creating duplicate offload entries
-
-Sometimes multiple CLS_REPLACE calls are issued for the same connection.
-rhashtable_insert_fast does not check for these duplicates, so multiple
-hardware flow entries can be created.
-Fix this by checking for an existing entry early
-
-Fixes: 502e84e2382d ("net: ethernet: mtk_eth_soc: add flow offloading support")
-Signed-off-by: Felix Fietkau &lt;nbd@nbd.name&gt;
-Signed-off-by: Ilya Lipnitskiy &lt;ilya.lipnitskiy@gmail.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3133944</span>
-                                        <span class="message">nfc: st-nci: Add SPI ID matching DT compatible
-
-Currently autoloading for SPI devices does not use the DT ID table, it uses
-SPI modalises. Supporting OF modalises is going to be difficult if not
-impractical, an attempt was made but has been reverted, so ensure that
-module autoloading works for this driver by adding the part name used in
-the compatible to the list of SPI IDs.
-
-Fixes: 96c8395e2166 ("spi: Revert modalias changes")
-Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5b09987</span>
-                                        <span class="message">MAINTAINERS: remove Guvenc Gulce as net/smc maintainer
-
-Remove myself as net/smc maintainer, as I am
-leaving IBM soon and can not maintain net/smc anymore.
-
-Cc: Julian Wiedmann &lt;jwi@linux.ibm.com&gt;
-Acked-by: Karsten Graul &lt;kgraul@linux.ibm.com&gt;
-Signed-off-by: Guvenc Gulce &lt;guvenc@linux.ibm.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3106a08</span>
-                                        <span class="message">nexthop: Fix memory leaks in nexthop notification chain listeners
-
-syzkaller discovered memory leaks [1] that can be reduced to the
-following commands:
-
- # ip nexthop add id 1 blackhole
- # devlink dev reload pci/0000:06:00.0
-
-As part of the reload flow, mlxsw will unregister its netdevs and then
-unregister from the nexthop notification chain. Before unregistering
-from the notification chain, mlxsw will receive delete notifications for
-nexthop objects using netdevs registered by mlxsw or their uppers. mlxsw
-will not receive notifications for nexthops using netdevs that are not
-dismantled as part of the reload flow. For example, the blackhole
-nexthop above that internally uses the loopback netdev as its nexthop
-device.
-
-One way to fix this problem is to have listeners flush their nexthop
-tables after unregistering from the notification chain. This is
-error-prone as evident by this patch and also not symmetric with the
-registration path where a listener receives a dump of all the existing
-nexthops.
-
-Therefore, fix this problem by replaying delete notifications for the
-listener being unregistered. This is symmetric to the registration path
-and also consistent with the netdev notification chain.
-
-The above means that unregister_nexthop_notifier(), like
-register_nexthop_notifier(), will have to take RTNL in order to iterate
-over the existing nexthops and that any callers of the function cannot
-hold RTNL. This is true for mlxsw and netdevsim, but not for the VXLAN
-driver. To avoid a deadlock, change the latter to unregister its nexthop
-listener without holding RTNL, making it symmetric to the registration
-path.
-
-[1]
-unreferenced object 0xffff88806173d600 (size 512):
-  comm "syz-executor.0", pid 1290, jiffies 4295583142 (age 143.507s)
-  hex dump (first 32 bytes):
-    41 9d 1e 60 80 88 ff ff 08 d6 73 61 80 88 ff ff  A..`......sa....
-    08 d6 73 61 80 88 ff ff 01 00 00 00 00 00 00 00  ..sa............
-  backtrace:
-    [&lt;ffffffff81a6b576&gt;] kmemleak_alloc_recursive include/linux/kmemleak.h:43 [inline]
-    [&lt;ffffffff81a6b576&gt;] slab_post_alloc_hook+0x96/0x490 mm/slab.h:522
-    [&lt;ffffffff81a716d3&gt;] slab_alloc_node mm/slub.c:3206 [inline]
-    [&lt;ffffffff81a716d3&gt;] slab_alloc mm/slub.c:3214 [inline]
-    [&lt;ffffffff81a716d3&gt;] kmem_cache_alloc_trace+0x163/0x370 mm/slub.c:3231
-    [&lt;ffffffff82e8681a&gt;] kmalloc include/linux/slab.h:591 [inline]
-    [&lt;ffffffff82e8681a&gt;] kzalloc include/linux/slab.h:721 [inline]
-    [&lt;ffffffff82e8681a&gt;] mlxsw_sp_nexthop_obj_group_create drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c:4918 [inline]
-    [&lt;ffffffff82e8681a&gt;] mlxsw_sp_nexthop_obj_new drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c:5054 [inline]
-    [&lt;ffffffff82e8681a&gt;] mlxsw_sp_nexthop_obj_event+0x59a/0x2910 drivers/net/ethernet/mellanox/mlxsw/spectrum_router.c:5239
-    [&lt;ffffffff813ef67d&gt;] notifier_call_chain+0xbd/0x210 kernel/notifier.c:83
-    [&lt;ffffffff813f0662&gt;] blocking_notifier_call_chain kernel/notifier.c:318 [inline]
-    [&lt;ffffffff813f0662&gt;] blocking_notifier_call_chain+0x72/0xa0 kernel/notifier.c:306
-    [&lt;ffffffff8384b9c6&gt;] call_nexthop_notifiers+0x156/0x310 net/ipv4/nexthop.c:244
-    [&lt;ffffffff83852bd8&gt;] insert_nexthop net/ipv4/nexthop.c:2336 [inline]
-    [&lt;ffffffff83852bd8&gt;] nexthop_add net/ipv4/nexthop.c:2644 [inline]
-    [&lt;ffffffff83852bd8&gt;] rtm_new_nexthop+0x14e8/0x4d10 net/ipv4/nexthop.c:2913
-    [&lt;ffffffff833e9a78&gt;] rtnetlink_rcv_msg+0x448/0xbf0 net/core/rtnetlink.c:5572
-    [&lt;ffffffff83608703&gt;] netlink_rcv_skb+0x173/0x480 net/netlink/af_netlink.c:2504
-    [&lt;ffffffff833de032&gt;] rtnetlink_rcv+0x22/0x30 net/core/rtnetlink.c:5590
-    [&lt;ffffffff836069de&gt;] netlink_unicast_kernel net/netlink/af_netlink.c:1314 [inline]
-    [&lt;ffffffff836069de&gt;] netlink_unicast+0x5ae/0x7f0 net/netlink/af_netlink.c:1340
-    [&lt;ffffffff83607501&gt;] netlink_sendmsg+0x8e1/0xe30 net/netlink/af_netlink.c:1929
-    [&lt;ffffffff832fde84&gt;] sock_sendmsg_nosec net/socket.c:704 [inline]
-    [&lt;ffffffff832fde84&gt;] sock_sendmsg net/socket.c:724 [inline]
-    [&lt;ffffffff832fde84&gt;] ____sys_sendmsg+0x874/0x9f0 net/socket.c:2409
-    [&lt;ffffffff83304a44&gt;] ___sys_sendmsg+0x104/0x170 net/socket.c:2463
-    [&lt;ffffffff83304c01&gt;] __sys_sendmsg+0x111/0x1f0 net/socket.c:2492
-    [&lt;ffffffff83304d5d&gt;] __do_sys_sendmsg net/socket.c:2501 [inline]
-    [&lt;ffffffff83304d5d&gt;] __se_sys_sendmsg net/socket.c:2499 [inline]
-    [&lt;ffffffff83304d5d&gt;] __x64_sys_sendmsg+0x7d/0xc0 net/socket.c:2499
-
-Fixes: 2a014b200bbd ("mlxsw: spectrum_router: Add support for nexthop objects")
-Signed-off-by: Ido Schimmel &lt;idosch@nvidia.com&gt;
-Reviewed-by: Petr Machata &lt;petrm@nvidia.com&gt;
-Signed-off-by: David S. Miller &lt;davem@davemloft.net&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#313bbd1</span>
-                                        <span class="message">mac80211-hwsim: fix late beacon hrtimer handling
-
-Thomas explained in https://lore.kernel.org/r/87mtoeb4hb.ffs@tglx
-that our handling of the hrtimer here is wrong: If the timer fires
-late (e.g. due to vCPU scheduling, as reported by Dmitry/syzbot)
-then it tries to actually rearm the timer at the next deadline,
-which might be in the past already:
-
- 1          2          3          N          N+1
- |          |          |   ...    |          |
-
- ^ intended to fire here (1)
-            ^ next deadline here (2)
-                                      ^ actually fired here
-
-The next time it fires, it's later, but will still try to schedule
-for the next deadline (now 3), etc. until it catches up with N,
-but that might take a long time, causing stalls etc.
-
-Now, all of this is simulation, so we just have to fix it, but
-note that the behaviour is wrong even per spec, since there's no
-value then in sending all those beacons unaligned - they should be
-aligned to the TBTT (1, 2, 3, ... in the picture), and if we're a
-bit (or a lot) late, then just resume at that point.
-
-Therefore, change the code to use hrtimer_forward_now() which will
-ensure that the next firing of the timer would be at N+1 (in the
-picture), i.e. the next interval point after the current time.
-
-Suggested-by: Thomas Gleixner &lt;tglx@linutronix.de&gt;
-Reported-by: Dmitry Vyukov &lt;dvyukov@google.com&gt;
-Reported-by: syzbot+0e964fad69a9c462bc1e@syzkaller.appspotmail.com
-Fixes: 01e59e467ecf ("mac80211_hwsim: hrtimer beacon")
-Reviewed-by: Thomas Gleixner &lt;tglx@linutronix.de&gt;
-Link: https://lore.kernel.org/r/20210915112936.544f383472eb.I3f9712009027aa09244b65399bf18bf482a8c4f1@changeid
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b973106</span>
-                                        <span class="message">mac80211: mesh: fix potentially unaligned access
-
-The pointer here points directly into the frame, so the
-access is potentially unaligned. Use get_unaligned_le16
-to avoid that.
-
-Fixes: 3f52b7e328c5 ("mac80211: mesh power save basics")
-Link: https://lore.kernel.org/r/20210920154009.3110ff75be0c.Ib6a2ff9e9cc9bc6fca50fce631ec1ce725cc926b@changeid
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#13cb6d8</span>
-                                        <span class="message">mac80211: limit injected vht mcs/nss in ieee80211_parse_tx_radiotap
-
-Limit max values for vht mcs and nss in ieee80211_parse_tx_radiotap
-routine in order to fix the following warning reported by syzbot:
-
-WARNING: CPU: 0 PID: 10717 at include/net/mac80211.h:989 ieee80211_rate_set_vht include/net/mac80211.h:989 [inline]
-WARNING: CPU: 0 PID: 10717 at include/net/mac80211.h:989 ieee80211_parse_tx_radiotap+0x101e/0x12d0 net/mac80211/tx.c:2244
-Modules linked in:
-CPU: 0 PID: 10717 Comm: syz-executor.5 Not tainted 5.14.0-syzkaller #0
-Hardware name: Google Google Compute Engine/Google Compute Engine, BIOS Google 01/01/2011
-RIP: 0010:ieee80211_rate_set_vht include/net/mac80211.h:989 [inline]
-RIP: 0010:ieee80211_parse_tx_radiotap+0x101e/0x12d0 net/mac80211/tx.c:2244
-RSP: 0018:ffffc9000186f3e8 EFLAGS: 00010216
-RAX: 0000000000000618 RBX: ffff88804ef76500 RCX: ffffc900143a5000
-RDX: 0000000000040000 RSI: ffffffff888f478e RDI: 0000000000000003
-RBP: 00000000ffffffff R08: 0000000000000000 R09: 0000000000000100
-R10: ffffffff888f46f9 R11: 0000000000000000 R12: 00000000fffffff8
-R13: ffff88804ef7653c R14: 0000000000000001 R15: 0000000000000004
-FS:  00007fbf5718f700(0000) GS:ffff8880b9c00000(0000) knlGS:0000000000000000
-CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
-CR2: 0000001b2de23000 CR3: 000000006a671000 CR4: 00000000001506f0
-DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000
-DR3: 0000000000000000 DR6: 00000000fffe0ff0 DR7: 0000000000000600
-Call Trace:
- ieee80211_monitor_select_queue+0xa6/0x250 net/mac80211/iface.c:740
- netdev_core_pick_tx+0x169/0x2e0 net/core/dev.c:4089
- __dev_queue_xmit+0x6f9/0x3710 net/core/dev.c:4165
- __bpf_tx_skb net/core/filter.c:2114 [inline]
- __bpf_redirect_no_mac net/core/filter.c:2139 [inline]
- __bpf_redirect+0x5ba/0xd20 net/core/filter.c:2162
- ____bpf_clone_redirect net/core/filter.c:2429 [inline]
- bpf_clone_redirect+0x2ae/0x420 net/core/filter.c:2401
- bpf_prog_eeb6f53a69e5c6a2+0x59/0x234
- bpf_dispatcher_nop_func include/linux/bpf.h:717 [inline]
- __bpf_prog_run include/linux/filter.h:624 [inline]
- bpf_prog_run include/linux/filter.h:631 [inline]
- bpf_test_run+0x381/0xa30 net/bpf/test_run.c:119
- bpf_prog_test_run_skb+0xb84/0x1ee0 net/bpf/test_run.c:663
- bpf_prog_test_run kernel/bpf/syscall.c:3307 [inline]
- __sys_bpf+0x2137/0x5df0 kernel/bpf/syscall.c:4605
- __do_sys_bpf kernel/bpf/syscall.c:4691 [inline]
- __se_sys_bpf kernel/bpf/syscall.c:4689 [inline]
- __x64_sys_bpf+0x75/0xb0 kernel/bpf/syscall.c:4689
- do_syscall_x64 arch/x86/entry/common.c:50 [inline]
- do_syscall_64+0x35/0xb0 arch/x86/entry/common.c:80
- entry_SYSCALL_64_after_hwframe+0x44/0xae
-RIP: 0033:0x4665f9
-
-Reported-by: syzbot+0196ac871673f0c20f68@syzkaller.appspotmail.com
-Fixes: 646e76bb5daf4 ("mac80211: parse VHT info in injected frames")
-Signed-off-by: Lorenzo Bianconi &lt;lorenzo@kernel.org&gt;
-Link: https://lore.kernel.org/r/c26c3f02dcb38ab63b2f2534cb463d95ee81bb13.1632141760.git.lorenzo@kernel.org
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a6555f8</span>
-                                        <span class="message">mac80211: Drop frames from invalid MAC address in ad-hoc mode
-
-WARNING: CPU: 1 PID: 9 at net/mac80211/sta_info.c:554
-sta_info_insert_rcu+0x121/0x12a0
-Modules linked in:
-CPU: 1 PID: 9 Comm: kworker/u8:1 Not tainted 5.14.0-rc7+ #253
-Workqueue: phy3 ieee80211_iface_work
-RIP: 0010:sta_info_insert_rcu+0x121/0x12a0
-...
-Call Trace:
- ieee80211_ibss_finish_sta+0xbc/0x170
- ieee80211_ibss_work+0x13f/0x7d0
- ieee80211_iface_work+0x37a/0x500
- process_one_work+0x357/0x850
- worker_thread+0x41/0x4d0
-
-If an Ad-Hoc node receives packets with invalid source MAC address,
-it hits a WARN_ON in sta_info_insert_check(), this can spam the log.
-
-Signed-off-by: YueHaibing &lt;yuehaibing@huawei.com&gt;
-Link: https://lore.kernel.org/r/20210827144230.39944-1-yuehaibing@huawei.com
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fe94bac</span>
-                                        <span class="message">mac80211: Fix ieee80211_amsdu_aggregate frag_tail bug
-
-In ieee80211_amsdu_aggregate() set a pointer frag_tail point to the
-end of skb_shinfo(head)-&gt;frag_list, and use it to bind other skb in
-the end of this function. But when execute ieee80211_amsdu_aggregate()
--&gt;ieee80211_amsdu_realloc_pad()-&gt;pskb_expand_head(), the address of
-skb_shinfo(head)-&gt;frag_list will be changed. However, the
-ieee80211_amsdu_aggregate() not update frag_tail after call
-pskb_expand_head(). That will cause the second skb can't bind to the
-head skb appropriately.So we update the address of frag_tail to fix it.
-
-Fixes: 6e0456b54545 ("mac80211: add A-MSDU tx support")
-Signed-off-by: Chih-Kang Chang &lt;gary.chang@realtek.com&gt;
-Signed-off-by: Zong-Zhe Yang &lt;kevin_yang@realtek.com&gt;
-Signed-off-by: Ping-Ke Shih &lt;pkshih@realtek.com&gt;
-Link: https://lore.kernel.org/r/20210830073240.12736-1-pkshih@realtek.com
-[reword comment]
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#98d46b0</span>
-                                        <span class="message">Revert "mac80211: do not use low data rates for data frames with no ack flag"
-
-This reverts commit d333322361e7 ("mac80211: do not use low data rates for
-data frames with no ack flag").
-
-Returning false early in rate_control_send_low breaks sending broadcast
-packets, since rate control will not select a rate for it.
-
-Before re-introducing a fixed version of this patch, we should probably also
-make some changes to rate control to be more conservative in selecting rates
-for no-ack packets and also prevent using probing rates on them, since we won't
-get any feedback.
-
-Fixes: d333322361e7 ("mac80211: do not use low data rates for data frames with no ack flag")
-Signed-off-by: Felix Fietkau &lt;nbd@nbd.name&gt;
-Link: https://lore.kernel.org/r/20210906083559.9109-1-nbd@nbd.name
-Signed-off-by: Johannes Berg &lt;johannes.berg@intel.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8cd9da8</span>
-                                        <span class="message">posix-cpu-timers: Prevent spuriously armed 0-value itimer
-
-Resetting/stopping an itimer eventually leads to it being reprogrammed
-with an actual "0" value. As a result the itimer expires on the next
-tick, triggering an unexpected signal.
-
-To fix this, make sure that
-struct signal_struct::it[CPUCLOCK_PROF/VIRT]::expires is set to 0 when
-setitimer() passes a 0 it_value, indicating that the timer must stop.
-
-Fixes: 406dd42bd1ba ("posix-cpu-timers: Force next expiration recalc after itimer reset")
-Reported-by: Victor Stinner &lt;vstinner@redhat.com&gt;
-Reported-by: Chris Hixon &lt;linux-kernel-bugs@hixontech.com&gt;
-Signed-off-by: Frederic Weisbecker &lt;frederic@kernel.org&gt;
-Signed-off-by: Thomas Gleixner &lt;tglx@linutronix.de&gt;
-Link: https://lore.kernel.org/r/20210913145332.232023-1-frederic@kernel.org</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#90ca6e7</span>
-                                        <span class="message">USB: serial: cp210x: add part-number debug printk
-
-Add a part-number debug printk to facilitate debugging.
-
-Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;</span>
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                     </div>
                                 </div>
                             </section>
@@ -2293,15 +1802,54 @@ Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;</span>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Opened <span class="issue">#71 docs: menambahkan badge discord</span>
+                      Pushed 1 commit in <span class="repo">bellshade/Python</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">bellshade/PHP</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#642338a</span>
+                                        <span class="message">fix: hapus satu badge discord
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">bellshade/Python</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6055393</span>
+                                        <span class="message">Merge branch 'main' of https://github.com/bellshade/Python into main</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                      Reviewed <span class="issue">#49 chore: try to use gh action to check pr</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mazipan in <span class="repo">bellshade/bellshade-Website</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2310,7 +1858,7 @@ Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 18:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 19:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
