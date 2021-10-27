@@ -1501,15 +1501,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 23 edited files from 64 commits over last 7 days
+            estimation from 22 edited files from 64 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.5214619634509" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.5214619634509" y="0" width="33.47853803654909" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.05830903790087" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="420.05830903790087" y="0" width="39.94169096209912" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1519,7 +1519,7 @@
                       Python
                     </div>
                             <small>
-                                <div>92.72%</div>
+                                <div>91.32%</div>
                             </small>
                         </div>
                     </section>
@@ -1530,7 +1530,7 @@
                       Assembly
                     </div>
                             <small>
-                                <div>7.28%</div>
+                                <div>8.68%</div>
                             </small>
                         </div>
                     </section>
@@ -1724,13 +1724,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 72.53914227365554%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
+                            <div class="bar" style="width: 74.17764555886103%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">93%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 7.460857726344452%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 5.822354441138971%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7%</span>
                         </div>
                     </div>
                 </section>
@@ -1867,7 +1867,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28/10/2021, 02:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 28/10/2021, 05:30 (timezone Asia/Jakarta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
