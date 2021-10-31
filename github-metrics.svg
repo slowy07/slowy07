@@ -1508,8 +1508,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.0730160763466" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="400.0730160763466" y="0" width="59.92698392365337" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.5942114589486" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="398.5942114589486" y="0" width="61.405788541051386" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1519,7 +1519,7 @@
                       Python
                     </div>
                             <small>
-                                <div>86.97%</div>
+                                <div>86.65%</div>
                             </small>
                         </div>
                     </section>
@@ -1530,7 +1530,7 @@
                       Assembly
                     </div>
                             <small>
-                                <div>13.03%</div>
+                                <div>13.35%</div>
                             </small>
                         </div>
                     </section>
@@ -1861,7 +1861,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2021, 04:16:41 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 1 Nov 2021, 05:24:05 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
