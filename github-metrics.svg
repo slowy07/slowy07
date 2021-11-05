@@ -1501,7 +1501,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 50 edited files from 67 commits over last 7 days
+            estimation from 47 edited files from 65 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1858,7 +1858,7 @@ fix: set min approval 2 orang</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2021, 19:35:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 5 Nov 2021, 21:23:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
