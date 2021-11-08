@@ -1501,16 +1501,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 33 edited files from 36 commits over last 7 days
+            estimation from 24 edited files from 25 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.26566217287865" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="285.26566217287865" y="0" width="124.21094369547977" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="409.47660586835843" y="0" width="50.52339413164155" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.6467413864674" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="298.6467413864674" y="0" width="130.03735990037362" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="428.68410128684104" y="0" width="31.31589871315899" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1520,7 +1520,7 @@
                       Python
                     </div>
                             <small>
-                                <div>62.01%</div>
+                                <div>64.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1529,7 +1529,7 @@
                       Java
                     </div>
                             <small>
-                                <div>10.98%</div>
+                                <div>6.81%</div>
                             </small>
                         </div>
                     </section>
@@ -1540,7 +1540,7 @@
                       Assembly
                     </div>
                             <small>
-                                <div>27%</div>
+                                <div>28.27%</div>
                             </small>
                         </div>
                     </section>
@@ -1867,7 +1867,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2021, 06:19:36 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 8 Nov 2021, 08:01:22 (timezone Asia/Jakarta) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
