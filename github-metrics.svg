@@ -1785,12 +1785,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 74.82236811472738%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.83055181070151%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">94%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 5.177631885272618%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.169448189298499%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                     </div>
@@ -1932,7 +1932,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2021, 17:21:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Nov 2021, 18:16:23 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
