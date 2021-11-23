@@ -1562,15 +1562,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 64 edited files from 57 commits over last 7 days
+            estimation from 62 edited files from 55 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.1904209372784" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="342.1904209372784" y="0" width="117.80957906272158" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.2507257851676" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.2507257851676" y="0" width="109.74927421483241" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1580,7 +1580,7 @@
                       Python
                     </div>
                             <small>
-                                <div>74.39%</div>
+                                <div>76.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1591,7 +1591,7 @@
                       Assembly
                     </div>
                             <small>
-                                <div>25.61%</div>
+                                <div>23.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1930,7 +1930,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2021, 13:23:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Nov 2021, 14:18:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
