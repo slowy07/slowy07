@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1828" class="">
     <defs>
         <style/>
     </defs>
@@ -1507,7 +1507,7 @@
             <section>
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-      52 Languages
+      17 Languages
     </h2>
             </section>
             <section class="column">
@@ -1562,7 +1562,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 25 edited files from 82 commits over last 7 days
+            estimation from 25 edited files from 84 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1653,8 +1653,8 @@
               08
             </div>
                     <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               09
             </div>
                     <div class="entry">
@@ -1688,8 +1688,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -1735,36 +1735,36 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">29</span>
-                <div class="bar" style="height: 38.15789473684211px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 40.27777777777778px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
                 <span class="value">27</span>
-                <div class="bar" style="height: 35.526315789473685px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 14.473684210526317px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 18.055555555555554px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
                 <span class="value">6</span>
-                <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
                 <span class="value">7</span>
-                <div class="bar" style="height: 9.210526315789473px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 9.722222222222223px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">10</span>
-                <div class="bar" style="height: 13.157894736842104px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">38</span>
+                <span class="value">36</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
@@ -1826,6 +1826,662 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 267 commits in <span class="repo">slowy07/linux</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d3eb70e</span>
+                                        <span class="message">arm64: mm: Fix VM_BUG_ON(mm != &amp;init_mm) for trans_pgd
+
+trans_pgd_create_copy() can hit "VM_BUG_ON(mm != &amp;init_mm)" in the
+function pmd_populate_kernel().
+
+This is the combined consequence of commit 5de59884ac0e ("arm64:
+trans_pgd: pass NULL instead of init_mm to *_populate functions"), which
+replaced &amp;init_mm with NULL and commit 59511cfd08f3 ("arm64: mm: use XN
+table mapping attributes for user/kernel mappings"), which introduced
+the VM_BUG_ON.
+
+Since the former sounds reasonable, it is better to work on the later.
+From the perspective of trans_pgd, two groups of functions are
+considered in the later one:
+
+  pmd_populate_kernel()
+    mm == NULL should be fixed, else it hits VM_BUG_ON()
+  p?d_populate()
+    mm == NULL means PXN, that is OK, since trans_pgd only copies a
+    linear map, no execution will happen on the map.
+
+So it is good enough to just relax VM_BUG_ON() to disregard mm == NULL
+
+Fixes: 59511cfd08f3 ("arm64: mm: use XN table mapping attributes for user/kernel mappings")
+Signed-off-by: Pingfan Liu &lt;kernelfans@gmail.com&gt;
+Cc: &lt;stable@vger.kernel.org&gt; # 5.13.x
+Cc: Ard Biesheuvel &lt;ardb@kernel.org&gt;
+Cc: James Morse &lt;james.morse@arm.com&gt;
+Cc: Matthias Brugger &lt;mbrugger@suse.com&gt;
+Reviewed-by: Catalin Marinas &lt;catalin.marinas@arm.com&gt;
+Reviewed-by: Pasha Tatashin &lt;pasha.tatashin@soleen.com&gt;
+Link: https://lore.kernel.org/r/20211112052214.9086-1-kernelfans@gmail.com
+Signed-off-by: Will Deacon &lt;will@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c6d3cd3</span>
+                                        <span class="message">arm64: ftrace: use HAVE_FUNCTION_GRAPH_RET_ADDR_PTR
+
+When CONFIG_FUNCTION_GRAPH_TRACER is selected and the function graph
+tracer is in use, unwind_frame() may erroneously associate a traced
+function with an incorrect return address. This can happen when starting
+an unwind from a pt_regs, or when unwinding across an exception
+boundary.
+
+This can be seen when recording with perf while the function graph
+tracer is in use. For example:
+
+| # echo function_graph &gt; /sys/kernel/debug/tracing/current_tracer
+| # perf record -g -e raw_syscalls:sys_enter:k /bin/true
+| # perf report
+
+... reports the callchain erroneously as:
+
+| el0t_64_sync
+| el0t_64_sync_handler
+| el0_svc_common.constprop.0
+| perf_callchain
+| get_perf_callchain
+| syscall_trace_enter
+| syscall_trace_enter
+
+... whereas when the function graph tracer is not in use, it reports:
+
+| el0t_64_sync
+| el0t_64_sync_handler
+| el0_svc
+| do_el0_svc
+| el0_svc_common.constprop.0
+| syscall_trace_enter
+| syscall_trace_enter
+
+The underlying problem is that ftrace_graph_get_ret_stack() takes an
+index offset from the most recent entry added to the fgraph return
+stack. We start an unwind at offset 0, and increment the offset each
+time we encounter a rewritten return address (i.e. when we see
+`return_to_handler`). This is broken in two cases:
+
+1) Between creating a pt_regs and starting the unwind, function calls
+   may place entries on the stack, leaving an arbitrary offset which we
+   can only determine by performing a full unwind from the caller of the
+   unwind code (and relying on none of the unwind code being
+   instrumented).
+
+   This can result in erroneous entries being reported in a backtrace
+   recorded by perf or kfence when the function graph tracer is in use.
+   Currently show_regs() is unaffected as dump_backtrace() performs an
+   initial unwind.
+
+2) When unwinding across an exception boundary (whether continuing an
+   unwind or starting a new unwind from regs), we currently always skip
+   the LR of the interrupted context. Where this was live and contained
+   a rewritten address, we won't consume the corresponding fgraph ret
+   stack entry, leaving subsequent entries off-by-one.
+
+   This can result in erroneous entries being reported in a backtrace
+   performed by any in-kernel unwinder when that backtrace crosses an
+   exception boundary, with entries after the boundary being reported
+   incorrectly. This includes perf, kfence, show_regs(), panic(), etc.
+
+To fix this, we need to be able to uniquely identify each rewritten
+return address such that we can map this back to the original return
+address. We can use HAVE_FUNCTION_GRAPH_RET_ADDR_PTR to associate
+each rewritten return address with a unique location on the stack. As
+the return address is passed in the LR (and so is not guaranteed a
+unique location in memory), we use the FP upon entry to the function
+(i.e. the address of the caller's frame record) as the return address
+pointer. Any nested call will have a different FP value as the caller
+must create its own frame record and update FP to point to this.
+
+Since ftrace_graph_ret_addr() requires the return address with the PAC
+stripped, the stripping of the PAC is moved before the fixup of the
+rewritten address. As we would unconditionally strip the PAC, moving
+this earlier is not harmful, and we can avoid a redundant strip in the
+return address fixup code.
+
+I've tested this with the perf case above, the ftrace selftests, and
+a number of ad-hoc unwinder tests. The tests all pass, and I have seen
+no unexpected behaviour as a result of this change. I've tested with
+pointer authentication under QEMU TCG where magic-sysrq+l correctly
+recovers the original return addresses.
+
+Note that this doesn't fix the issue of skipping a live LR at an
+exception boundary, which is a more general problem and requires more
+substantial rework. Were we to consume the LR in all cases this would
+result in warnings where the interrupted context's LR contains
+`return_to_handler`, but the FP has been altered, e.g.
+
+| func:
+|	&lt;--- ftrace entry ---&gt; 	// logs FP &amp; LR, rewrites LR
+| 	STP	FP, LR, [SP, #-16]!
+| 	MOV	FP, SP
+| 	&lt;--- INTERRUPT ---&gt;
+
+... as ftrace_graph_get_ret_stack() fill not find a matching entry,
+triggering the WARN_ON_ONCE() in unwind_frame().
+
+Link: https://lore.kernel.org/r/20211025164925.GB2001@C02TD0UTHF1T.local
+Link: https://lore.kernel.org/r/20211027132529.30027-1-mark.rutland@arm.com
+Signed-off-by: Mark Rutland &lt;mark.rutland@arm.com&gt;
+Cc: Catalin Marinas &lt;catalin.marinas@arm.com&gt;
+Cc: Madhavan T. Venkataraman &lt;madvenka@linux.microsoft.com&gt;
+Cc: Mark Brown &lt;broonie@kernel.org&gt;
+Cc: Steven Rostedt &lt;rostedt@goodmis.org&gt;
+Cc: Will Deacon &lt;will@kernel.org&gt;
+Reviewed-by: Mark Brown &lt;broonie@kernel.org&gt;
+Link: https://lore.kernel.org/r/20211029162245.39761-1-mark.rutland@arm.com
+Signed-off-by: Will Deacon &lt;will@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#adab993</span>
+                                        <span class="message">mmc: sdhci-esdhc-imx: disable CMDQ support
+
+On IMX SoC's which support CMDQ the following can occur during high a
+high cpu load:
+
+mmc2: cqhci: ============ CQHCI REGISTER DUMP ===========
+mmc2: cqhci: Caps:      0x0000310a | Version:  0x00000510
+mmc2: cqhci: Config:    0x00001001 | Control:  0x00000000
+mmc2: cqhci: Int stat:  0x00000000 | Int enab: 0x00000006
+mmc2: cqhci: Int sig:   0x00000006 | Int Coal: 0x00000000
+mmc2: cqhci: TDL base:  0x8003f000 | TDL up32: 0x00000000
+mmc2: cqhci: Doorbell:  0xbf01dfff | TCN:      0x00000000
+mmc2: cqhci: Dev queue: 0x00000000 | Dev Pend: 0x08000000
+mmc2: cqhci: Task clr:  0x00000000 | SSC1:     0x00011000
+mmc2: cqhci: SSC2:      0x00000001 | DCMD rsp: 0x00000800
+mmc2: cqhci: RED mask:  0xfdf9a080 | TERRI:    0x00000000
+mmc2: cqhci: Resp idx:  0x0000000d | Resp arg: 0x00000000
+mmc2: sdhci: ============ SDHCI REGISTER DUMP ===========
+mmc2: sdhci: Sys addr:  0x7c722000 | Version:  0x00000002
+mmc2: sdhci: Blk size:  0x00000200 | Blk cnt:  0x00000020
+mmc2: sdhci: Argument:  0x00018000 | Trn mode: 0x00000023
+mmc2: sdhci: Present:   0x01f88008 | Host ctl: 0x00000030
+mmc2: sdhci: Power:     0x00000002 | Blk gap:  0x00000080
+mmc2: sdhci: Wake-up:   0x00000008 | Clock:    0x0000000f
+mmc2: sdhci: Timeout:   0x0000008f | Int stat: 0x00000000
+mmc2: sdhci: Int enab:  0x107f4000 | Sig enab: 0x107f4000
+mmc2: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000502
+mmc2: sdhci: Caps:      0x07eb0000 | Caps_1:   0x8000b407
+mmc2: sdhci: Cmd:       0x00000d1a | Max curr: 0x00ffffff
+mmc2: sdhci: Resp[0]:   0x00000000 | Resp[1]:  0xffc003ff
+mmc2: sdhci: Resp[2]:   0x328f5903 | Resp[3]:  0x00d07f01
+mmc2: sdhci: Host ctl2: 0x00000088
+mmc2: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0xfe179020
+mmc2: sdhci-esdhc-imx: ========= ESDHC IMX DEBUG STATUS DUMP ====
+mmc2: sdhci-esdhc-imx: cmd debug status:  0x2120
+mmc2: sdhci-esdhc-imx: data debug status:  0x2200
+mmc2: sdhci-esdhc-imx: trans debug status:  0x2300
+mmc2: sdhci-esdhc-imx: dma debug status:  0x2400
+mmc2: sdhci-esdhc-imx: adma debug status:  0x2510
+mmc2: sdhci-esdhc-imx: fifo debug status:  0x2680
+mmc2: sdhci-esdhc-imx: async fifo debug status:  0x2750
+mmc2: sdhci: ============================================
+
+For now, disable CMDQ support on the imx8qm/imx8qxp/imx8mm until the
+issue is found and resolved.
+
+Fixes: bb6e358169bf6 ("mmc: sdhci-esdhc-imx: add CMDQ support")
+Fixes: cde5e8e9ff146 ("mmc: sdhci-esdhc-imx: Add an new esdhc_soc_data for i.MX8MM")
+Cc: stable@vger.kernel.org
+Signed-off-by: Tim Harvey &lt;tharvey@gateworks.com&gt;
+Reviewed-by: Haibo Chen &lt;haibo.chen@nxp.com&gt;
+Acked-by: Adrian Hunter &lt;adrian.hunter@intel.com&gt;
+Link: https://lore.kernel.org/r/20211103165415.2016-1-tharvey@gateworks.com
+Signed-off-by: Ulf Hansson &lt;ulf.hansson@linaro.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a2acf0c</span>
+                                        <span class="message">selftests: nft_nat: switch port shadow test cases to socat
+
+There are now at least three distinct flavours of netcat/nc tool:
+'original' version, one version ported from openbsd and nmap-ncat.
+
+The script only works with original because it sets SOREUSEPORT option.
+
+Other nc versions return 'port already in use' error and port shadow test fails:
+
+PASS: inet IPv6 redirection for ns2-hMHcaRvx
+nc: bind failed: Address already in use
+ERROR: portshadow test default: got reply from "ROUTER", not CLIENT as intended
+
+Switch to socat instead.
+
+Reported-by: kernel test robot &lt;oliver.sang@intel.com&gt;
+Signed-off-by: Florian Westphal &lt;fw@strlen.de&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#47ac6f5</span>
+                                        <span class="message">staging: Remove Netlogic XLP network driver
+
+The Netlogic XLP platform was removed in commit 95b8a5e0111a ("MIPS:
+Remove NETLOGIC support"), so this driver is now dead.
+
+Cc: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
+Cc: Ganesan Ramalingam &lt;ganesanr@broadcom.com&gt;
+Cc: Jayachandran Chandrashekaran Nair &lt;jchandra@broadcom.com&gt;
+Cc: linux-staging@lists.linux.dev
+Signed-off-by: Rob Herring &lt;robh@kernel.org&gt;
+Link: https://lore.kernel.org/r/20211109161401.2204280-1-robh@kernel.org
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#be4ea8f</span>
+                                        <span class="message">staging: r8188eu: fix a memory leak in rtw_wx_read32()
+
+Free "ptmp" before returning -EINVAL.
+
+Fixes: 2b42bd58b321 ("staging: r8188eu: introduce new os_dep dir for RTL8188eu driver")
+Cc: stable &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
+Link: https://lore.kernel.org/r/20211109114935.GC16587@kili
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4a293ea</span>
+                                        <span class="message">staging: r8188eu: use GFP_ATOMIC under spinlock
+
+In function rtw_report_sec_ie() kzalloc() is called under a spinlock,
+so the allocation have to be atomic.
+
+Call tree:
+
+-&gt; rtw_select_and_join_from_scanned_queue() &lt;- takes a spinlock
+   -&gt; rtw_joinbss_cmd()
+      -&gt; rtw_restruct_sec_ie()
+         -&gt; rtw_report_sec_ie()
+
+Fixes: 2b42bd58b321 ("staging: r8188eu: introduce new os_dep dir for RTL8188eu driver")
+Cc: stable &lt;stable@vger.kernel.org&gt;
+Signed-off-by: Michael Straube &lt;straube.linux@gmail.com&gt;
+Link: https://lore.kernel.org/r/20211108105537.31655-1-straube.linux@gmail.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c15a059</span>
+                                        <span class="message">staging: r8188eu: Use kzalloc() with GFP_ATOMIC in atomic context
+
+Use the GFP_ATOMIC flag of kzalloc() with two memory allocation in
+report_del_sta_event(). This function is called while holding spinlocks,
+therefore it is not allowed to sleep. With the GFP_ATOMIC type flag, the
+allocation is high priority and must not sleep.
+
+This issue is detected by Smatch which emits the following warning:
+"drivers/staging/r8188eu/core/rtw_mlme_ext.c:6848 report_del_sta_event()
+warn: sleeping in atomic context".
+
+After the change, the post-commit hook output the following message:
+"CHECK: Prefer kzalloc(sizeof(*pcmd_obj)...) over
+kzalloc(sizeof(struct cmd_obj)...)".
+
+According to the above "CHECK", use the preferred style in the first
+kzalloc().
+
+Fixes: 79f712ea994d ("staging: r8188eu: Remove wrappers for kalloc() and kzalloc()")
+Fixes: 15865124feed ("staging: r8188eu: introduce new core dir for RTL8188eu driver")
+Signed-off-by: Fabio M. De Francesco &lt;fmdefrancesco@gmail.com&gt;
+Link: https://lore.kernel.org/r/20211101191847.6749-1-fmdefrancesco@gmail.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;
+Cc: stable &lt;stable@vger.kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7865dd2</span>
+                                        <span class="message">staging/fbtft: Fix backlight
+
+Commit b4a1ed0cd18b ("fbdev: make FB_BACKLIGHT a tristate") forgot to
+update fbtft breaking its backlight support when FB_BACKLIGHT is a module.
+
+Since FB_TFT selects FB_BACKLIGHT there's no need for this conditional
+so just remove it and we're good.
+
+Fixes: b4a1ed0cd18b ("fbdev: make FB_BACKLIGHT a tristate")
+Cc: &lt;stable@vger.kernel.org&gt;
+Acked-by: Sam Ravnborg &lt;sam@ravnborg.org&gt;
+Signed-off-by: Noralf Trønnes &lt;noralf@tronnes.org&gt;
+Link: https://lore.kernel.org/r/20211105204358.2991-1-noralf@tronnes.org
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d5f0b80</span>
+                                        <span class="message">staging: r8188eu: Fix breakage introduced when 5G code was removed
+
+In commit 221abd4d478a ("staging: r8188eu: Remove no more necessary definitions
+and code"), two entries were removed from RTW_ChannelPlanMap[], but not replaced
+with zeros. The position within this table is important, thus the patch broke
+systems operating in regulatory domains osted later than entry 0x13 in the table.
+Unfortunately, the FCC entry comes before that point and most testers did not see
+this problem.
+
+Fixes: 221abd4d478a ("staging: r8188eu: Remove no more necessary definitions and code")
+Cc: Stable &lt;stable@vger.kernel.org&gt; # v5.5+
+Reported-and-tested-by: Zameer Manji &lt;zmanji@gmail.com&gt;
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Reviewed-by: Phillip Potter &lt;phil@philpotter.co.uk&gt;
+Signed-off-by: Larry Finger &lt;Larry.Finger@lwfinger.net&gt;
+Link: https://lore.kernel.org/r/20211107173543.7486-1-Larry.Finger@lwfinger.net
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#39f6eed</span>
+                                        <span class="message">netfilter: flowtable: fix IPv6 tunnel addr match
+
+Previously the IPv6 addresses in the key were clobbered and the mask was
+left unset.
+
+I haven't tested this; I noticed it while skimming the code to
+understand an unrelated issue.
+
+Fixes: cfab6dbd0ecf ("netfilter: flowtable: add tunnel match offload support")
+Cc: wenxu &lt;wenxu@ucloud.cn&gt;
+Signed-off-by: Will Mortensen &lt;willmo@gmail.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c08d328</span>
+                                        <span class="message">netfilter: xt_IDLETIMER: replace snprintf in show functions with sysfs_emit
+
+coccicheck complains about the use of snprintf() in sysfs show
+functions:
+WARNING use scnprintf or sprintf
+
+Use sysfs_emit instead of scnprintf, snprintf or sprintf makes more
+sense.
+
+Reported-by: Zeal Robot &lt;zealci@zte.com.cn&gt;
+Signed-off-by: Jing Yao &lt;yao.jing2@zte.com.cn&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c95c078</span>
+                                        <span class="message">netfilter: ipvs: Fix reuse connection if RS weight is 0
+
+We are changing expire_nodest_conn to work even for reused connections when
+conn_reuse_mode=0, just as what was done with commit dc7b3eb900aa ("ipvs:
+Fix reuse connection if real server is dead").
+
+For controlled and persistent connections, the new connection will get the
+needed real server depending on the rules in ip_vs_check_template().
+
+Fixes: d752c3645717 ("ipvs: allow rescheduling of new connections when port reuse is detected")
+Co-developed-by: Chuanqi Liu &lt;legend050709@qq.com&gt;
+Signed-off-by: Chuanqi Liu &lt;legend050709@qq.com&gt;
+Signed-off-by: yangxingwu &lt;xingwu.yang@gmail.com&gt;
+Acked-by: Simon Horman &lt;horms@verge.net.au&gt;
+Acked-by: Julian Anastasov &lt;ja@ssi.bg&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#77522ff</span>
+                                        <span class="message">netfilter: ctnetlink: do not erase error code with EINVAL
+
+And be consistent in error management for both orig/reply filtering
+
+Fixes: cb8aa9a3affb ("netfilter: ctnetlink: add kernel side filtering for dump")
+Signed-off-by: Florent Fourcot &lt;florent.fourcot@wifirst.fr&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ad81d4d</span>
+                                        <span class="message">netfilter: ctnetlink: fix filtering with CTA_TUPLE_REPLY
+
+filter-&gt;orig_flags was used for a reply context.
+
+Fixes: cb8aa9a3affb ("netfilter: ctnetlink: add kernel side filtering for dump")
+Signed-off-by: Florent Fourcot &lt;florent.fourcot@wifirst.fr&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#85c0c8b</span>
+                                        <span class="message">selftests: nft_nat: Simplify port shadow notrack test
+
+The second rule in prerouting chain was probably a leftover: The router
+listens on veth0, so not tracking connections via that interface is
+sufficient. Likewise, the rule in output chain can be limited to that
+interface as well.
+
+Signed-off-by: Phil Sutter &lt;phil@nwl.cc&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e1f8bc0</span>
+                                        <span class="message">selftests: nft_nat: Improve port shadow test stability
+
+Setup phase in test_port_shadow() relied upon a race-condition:
+Listening nc on port 1405 was started in background before attempting to
+create the fake conntrack entry using the same source port. If listening
+nc won, fake conntrack entry could not be created causing wrong
+behaviour. Reorder nc calls to fix this and introduce a short delay
+before testing the setup to wait for listening nc process startup.
+
+Fixes: 465f15a6d1a8f ("selftests: nft_nat: add udp hole punch test case")
+Signed-off-by: Phil Sutter &lt;phil@nwl.cc&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#00d8b83</span>
+                                        <span class="message">netfilter: nft_payload: Remove duplicated include in nft_payload.c
+
+Fix following checkincludes.pl warning:
+./net/netfilter/nft_payload.c: linux/ip.h is included more than once.
+
+Signed-off-by: Wan Jiabing &lt;wanjiabing@vivo.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#228c3fa</span>
+                                        <span class="message">selftests: netfilter: extend nfqueue tests to cover vrf device
+
+VRF device calls the output/postrouting hooks so packet should be seeon
+with oifname tvrf and once with eth0.
+
+Signed-off-by: Florian Westphal &lt;fw@strlen.de&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#33b8aad</span>
+                                        <span class="message">selftests: netfilter: add a vrf+conntrack testcase
+
+Rework the reproducer for the vrf+conntrack regression reported
+by Eugene into a selftest and also add a test for ip masquerading
+that Lahav fixed recently.
+
+With net or net-next tree, the first test fails and the latter
+two pass.
+
+With 09e856d54bda5f28 ("vrf: Reset skb conntrack connection on VRF rcv")
+reverted first test passes but the last two fail.
+
+A proper fix needs more work, for time being a revert seems to be
+the best choice, snat/masquerade did not work before the fix.
+
+Link: https://lore.kernel.org/netdev/378ca299-4474-7e9a-3d36-2350c8c98995@gmail.com/T/#m95358a31810df7392f541f99d187227bc75c9963
+Reported-by: Eugene Crosser &lt;crosser@average.org&gt;
+Cc: Lahav Schlesinger &lt;lschlesinger@drivenets.com&gt;
+Signed-off-by: Florian Westphal &lt;fw@strlen.de&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 49 commits in <span class="repo">slowy07/saleor</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5110a3c</span>
+                                        <span class="message">Add dataloader invalidation for saleChannelListingUpdate (#8522)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cb7d855</span>
+                                        <span class="message">Increase voucher code limit (#8519)
+
+* cherrypick changes from 3.0
+
+* Increase voucher code limit
+
+* Fix migrations</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e9e74c0</span>
+                                        <span class="message">Add custom uvicorn worker with lifespan protocol disabled (#8509)
+
+* Add custom uvicorn worker with lifespan protocol disabled
+
+* Update .isort.cfg
+
+* Update dockerfile with new worker</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#316501f</span>
+                                        <span class="message">Fix permissions for product types attribute assign (#8340)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#88a83fa</span>
+                                        <span class="message">Change Dummy Credit Cards plugin configuration to operate on 4 last digits. (#8498)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#30e0f12</span>
+                                        <span class="message">Fix for refund payment if order_created raises an error (#8491)
+
+* Fix for refund payment if order_created raises an error
+
+* Add fix to handle_not_created_order notification
+
+* Fix description
+
+* Fix tests name and assertions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e609834</span>
+                                        <span class="message">Updated the link of the repository and website (#8480)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5131f5f</span>
+                                        <span class="message">Bump dependencies (#8492)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5813870</span>
+                                        <span class="message">Assign user gift cards and orders when it is possible (#8271)
+
+* Try to find correponding user when setting gift card user email
+
+* Assign user gift cards when register account
+
+* Assign user gift cards after email update
+
+* Assign gift cards when user email is updated in StaffUpdate or CustomerUpdate mutation
+
+* Assign orders when account is register or user email is changed
+
+* Update gift card test and do not assign gift cards and orders in AccountRegister mutation
+
+* Assign gift cards in ConfirmAccount mutation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#93cd170</span>
+                                        <span class="message">Drop distincts on product filters (#8475)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b910bd0</span>
+                                        <span class="message">Add checkoutLinesDelete mutation, deprecated checkoutLineDelete. (#8343) (#8421)
+
+* Deprecated checkoutLineDelete, add checkoutLinesDelete mutation.
+
+* Fix tests, delete checkout_id from a new mutation.
+
+* Add validation, extend unit tests and error handling
+
+* Fix after review.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8910e23</span>
+                                        <span class="message">Add sender_address field in raising error (#8455)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b4da5a</span>
+                                        <span class="message">Adyene check giftcard balance mutation (#8472)
+
+* Add PaymentCheckBalance mutation
+
+* Rename value with amount and use validate_channel util function
+
+* Change Float to PositiveDecimal in money input, change error fields, change field description
+
+* Build amount request data explicit/hide real gift card nunber
+
+* Fix json dumps Decimal object error
+
+* Use price_to_minor_unit function to convert Decimal to Long</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#df2ee43</span>
+                                        <span class="message">Added sorting, searching and filtering to Checkout (#8381)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cf02ee5</span>
+                                        <span class="message">Fix flaky test and get rid of warnings (#8458)
+
+* Fix flaky account test
+
+* Change date to aware datetime before saving date attributes - remove warnings from tests</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d4b3c06</span>
+                                        <span class="message">Unable to process the payment request (#8456)
+
+* Use city_area for stateOrProvince when country_area not defined
+
+* Remove city_area for city variable assignment
+
+* Do not use city_area as state_or_province</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b7ef544</span>
+                                        <span class="message">Return external shipping method as delivery method (#8446)
+
+* Return external shipping method as delivery method
+
+* Add test</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#863d5df</span>
+                                        <span class="message">Optimze products filtering by attributes (#8439)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#10bc09b</span>
+                                        <span class="message">Optimize Order line is gift card migration (#8427)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#66127de</span>
+                                        <span class="message">Bump dependencies (#8438)</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1873,50 +2529,12 @@
                                     </div>
                                 </section>
                             </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/.github</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#7091627</span>
-                                            <span class="message">fix: update informasi</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">bellshade/.github</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">main</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#631daa8</span>
-                                            <span class="message">Update README.md</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
                         </div>
                     </section>
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 30 Nov 2021, 08:02:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 30 Nov 2021, 09:22:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
