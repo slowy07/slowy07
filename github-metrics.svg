@@ -1562,7 +1562,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 38 edited files from 89 commits over last 7 days
+            estimation from 38 edited files from 84 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -2773,7 +2773,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                         </div>
                         <footer>
                             <span>These metrics include private contributions</span>
-                            <span>Last updated 2 Dec 2021, 02:16:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                            <span>Last updated 2 Dec 2021, 03:20:55 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
                         </footer>
                     </section>
                     <div id="metrics-end"></div>
