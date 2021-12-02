@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1515" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1208" class="">
     <defs>
         <style/>
     </defs>
@@ -1402,7 +1402,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            4465 Commits
+            4466 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1519,9 +1519,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.106755582503" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="424.106755582503" y="0" width="19.11261502445895" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="443.21937060696195" y="0" width="16.780629393038076" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.5900808622599" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="423.5900808622599" y="0" width="19.08933078083186" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="442.67941164309184" y="0" width="17.320588356908186" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1531,7 +1531,7 @@
                       Jupyter Notebook
                     </div>
                             <small>
-                                <div>92.2%</div>
+                                <div>92.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1540,7 +1540,7 @@
                       Python
                     </div>
                             <small>
-                                <div>3.65%</div>
+                                <div>3.77%</div>
                             </small>
                         </div>
                     </section>
@@ -1562,7 +1562,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 39 edited files from 85 commits over last 6 days
+            estimation from 45 edited files from 86 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1598,7 +1598,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.2 characters per line of code written</li>
+                        <li>Has approximately 37.1 characters per line of code written</li>
                         <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1698,13 +1698,13 @@
               17
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               18
             </div>
                     <div class="entry">
-              <span class="value">14</span>
-              <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 38.23529411764706px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1734,8 +1734,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">14</span>
-                <div class="bar" style="height: 25.925925925925924px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 24.074074074074073px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1754,8 +1754,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">14</span>
-                <div class="bar" style="height: 25.925925925925924px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">15</span>
+                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1775,13 +1775,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 76.0984536554122%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">95%</span>
+                            <div class="bar" style="width: 77.82628274297561%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">97%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 3.901546344587794%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 2.1737172570243932%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                     </div>
                 </section>
@@ -1822,6 +1822,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">slowy07/clifter_highway</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#625177b</span>
+                                        <span class="message">feat: adding vehicle</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1894,666 +1913,15 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                   </div>
                                 </div>
                             </section>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 105 commits in <span class="repo">slowy07/google-api-python-client</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">master</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#d9aed72</span>
-                                            <span class="message">chore(deps): update dependency google-api-python-client to v2.15.0 (#1464)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [google-api-python-client](https://togithub.com/googleapis/google-api-python-client) | `==2.14.1` -&gt; `==2.15.0` | [![age](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.15.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.15.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.15.0/compatibility-slim/2.14.1)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.15.0/confidence-slim/2.14.1)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;googleapis/google-api-python-client&lt;/summary&gt;
-
-### [`v2.15.0`](https://togithub.com/googleapis/google-api-python-client/blob/master/CHANGELOG.md#&amp;#8203;2150-httpswwwgithubcomgoogleapisgoogle-api-python-clientcomparev2141v2150-2021-07-27)
-
-[Compare Source](https://togithub.com/googleapis/google-api-python-client/compare/v2.14.1...v2.15.0)
-
-##### Features
-
--   **alertcenter:** update the api https://github.com/googleapis/google-api-python-client/commit/70810a52c85c6d0d6f00d7afb41c8608261eaebc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **chat:** update the api https://github.com/googleapis/google-api-python-client/commit/a577cd0b71951176bbf849c1f7f139127205da54 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **cloudbuild:** update the api https://github.com/googleapis/google-api-python-client/commit/9066056a8b106d441fb7686fe84359484d0d58bc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **content:** update the api https://github.com/googleapis/google-api-python-client/commit/b123349da33c11c0172a8efb3fadef685a30e6e1 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **displayvideo:** update the api https://github.com/googleapis/google-api-python-client/commit/c525d726ee6cffdd4bc7afd69080d5e52bae83a0 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **dns:** update the api https://github.com/googleapis/google-api-python-client/commit/13436ccd2b835fda5cb86952ac4ea991ee8651d8 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **eventarc:** update the api https://github.com/googleapis/google-api-python-client/commit/6be3394a64a5eb509f68ef779680fd36837708ee ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **file:** update the api https://github.com/googleapis/google-api-python-client/commit/817a0e636771445a988ef479bd52740f754b901a ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **monitoring:** update the api https://github.com/googleapis/google-api-python-client/commit/bd32149f308467f0f659119587afc77dcec65b14 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **people:** update the api https://github.com/googleapis/google-api-python-client/commit/aa6b47df40c5289f33aef6fb6aa007df2d038e20 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **retail:** update the api https://github.com/googleapis/google-api-python-client/commit/d39f06e2d77034bc837604a41dd52c577f158bf2 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **securitycenter:** update the api https://github.com/googleapis/google-api-python-client/commit/999fab5178208639c9eef289f9f441052ed832fc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **speech:** update the api https://github.com/googleapis/google-api-python-client/commit/3b2c0fa62b2a0c86bba1e97f1b18f93250dbd551 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
--   **sqladmin:** update the api https://github.com/googleapis/google-api-python-client/commit/cef24d829ab5be71563a2b668b8f6cf5dda2c8e4 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-
-##### Documentation
-
--   update license to be Apache-2.0 compliant ([#&amp;#8203;1461](https://www.github.com/googleapis/google-api-python-client/issues/1461)) ([882844c](https://www.github.com/googleapis/google-api-python-client/commit/882844c7b6a15493d0fb8693cd5e9159e3a12535))
-
-##### [2.14.1](https://www.github.com/googleapis/google-api-python-client/compare/v2.14.0...v2.14.1) (2021-07-25)
-
-##### Bug Fixes
-
--   drop six dependency ([#&amp;#8203;1452](https://www.github.com/googleapis/google-api-python-client/issues/1452)) ([9f7b410](https://www.github.com/googleapis/google-api-python-client/commit/9f7b4109b370e89c29db6c58c6bd2e09002c8d42))
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                        </div>
-                                        <div class="commit">
-                                            <span class="sha">#c567b47</span>
-                                            <span class="message">chore: release 2.15.0 (#1463)
-
-<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> I have created a release \*beep\* \*boop\*
----
-## [2.15.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.14.1...v2.15.0) (2021-07-27)
-
-
-### Features
-
-* **alertcenter:** update the api https://github.com/googleapis/google-api-python-client/commit/70810a52c85c6d0d6f00d7afb41c8608261eaebc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **chat:** update the api https://github.com/googleapis/google-api-python-client/commit/a577cd0b71951176bbf849c1f7f139127205da54 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **cloudbuild:** update the api https://github.com/googleapis/google-api-python-client/commit/9066056a8b106d441fb7686fe84359484d0d58bc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **content:** update the api https://github.com/googleapis/google-api-python-client/commit/b123349da33c11c0172a8efb3fadef685a30e6e1 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **displayvideo:** update the api https://github.com/googleapis/google-api-python-client/commit/c525d726ee6cffdd4bc7afd69080d5e52bae83a0 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **dns:** update the api https://github.com/googleapis/google-api-python-client/commit/13436ccd2b835fda5cb86952ac4ea991ee8651d8 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **eventarc:** update the api https://github.com/googleapis/google-api-python-client/commit/6be3394a64a5eb509f68ef779680fd36837708ee ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **file:** update the api https://github.com/googleapis/google-api-python-client/commit/817a0e636771445a988ef479bd52740f754b901a ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **monitoring:** update the api https://github.com/googleapis/google-api-python-client/commit/bd32149f308467f0f659119587afc77dcec65b14 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **people:** update the api https://github.com/googleapis/google-api-python-client/commit/aa6b47df40c5289f33aef6fb6aa007df2d038e20 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **retail:** update the api https://github.com/googleapis/google-api-python-client/commit/d39f06e2d77034bc837604a41dd52c577f158bf2 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **securitycenter:** update the api https://github.com/googleapis/google-api-python-client/commit/999fab5178208639c9eef289f9f441052ed832fc ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **speech:** update the api https://github.com/googleapis/google-api-python-client/commit/3b2c0fa62b2a0c86bba1e97f1b18f93250dbd551 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-* **sqladmin:** update the api https://github.com/googleapis/google-api-python-client/commit/cef24d829ab5be71563a2b668b8f6cf5dda2c8e4 ([a36e3b1](https://www.github.com/googleapis/google-api-python-client/commit/a36e3b130d609dfdc5b3ac0a70ff1b014c4bc75f))
-
-
-### Documentation
-
-* update license to be Apache-2.0 compliant ([#1461](https://www.github.com/googleapis/google-api-python-client/issues/1461)) ([882844c](https://www.github.com/googleapis/google-api-python-client/commit/882844c7b6a15493d0fb8693cd5e9159e3a12535))
----
-
-
-This PR was generated with [Release Please](https://github.com/googleapis/release-please). See [documentation](https://github.com/googleapis/release-please#release-please).
-                      </span>
-                                            <div class="commit">
-                                                <span class="sha">#882844c</span>
-                                                <span class="message">docs: update license to be Apache-2.0 compliant (#1461)
-
-Thank you for opening a Pull Request! Before submitting your PR, there are a few things you can do to make sure it goes smoothly:
-- [ ] Make sure to open an issue as a [bug/issue](https://github.com/googleapis/google-api-python-client/issues/new/choose) before writing your code!  That way we can discuss the change, evaluate designs, and agree on the general idea
-- [ ] Ensure the tests and linter pass
-- [ ] Code coverage does not decrease (if any source code was changed)
-- [ ] Appropriate docs were updated (if necessary)
-
-Fixes #&lt;issue_number_goes_here&gt; 🦕</span>
-                                            </div>
-                                            <div class="commit">
-                                                <span class="sha">#a36e3b1</span>
-                                                <span class="message">chore: Update discovery artifacts (#1462)
-
-## Deleted keys were detected in the following stable discovery artifacts:
-sqladmin v1 https://github.com/googleapis/google-api-python-client/commit/cef24d829ab5be71563a2b668b8f6cf5dda2c8e4
-
-## Deleted keys were detected in the following pre-stable discovery artifacts:
-alertcenter v1beta1 https://github.com/googleapis/google-api-python-client/commit/70810a52c85c6d0d6f00d7afb41c8608261eaebc
-
-## Discovery Artifact Change Summary:
-feat(alertcenter): update the api https://github.com/googleapis/google-api-python-client/commit/70810a52c85c6d0d6f00d7afb41c8608261eaebc
-feat(chat): update the api https://github.com/googleapis/google-api-python-client/commit/a577cd0b71951176bbf849c1f7f139127205da54
-feat(cloudbuild): update the api https://github.com/googleapis/google-api-python-client/commit/9066056a8b106d441fb7686fe84359484d0d58bc
-feat(content): update the api https://github.com/googleapis/google-api-python-client/commit/b123349da33c11c0172a8efb3fadef685a30e6e1
-feat(displayvideo): update the api https://github.com/googleapis/google-api-python-client/commit/c525d726ee6cffdd4bc7afd69080d5e52bae83a0
-feat(dns): update the api https://github.com/googleapis/google-api-python-client/commit/13436ccd2b835fda5cb86952ac4ea991ee8651d8
-feat(eventarc): update the api https://github.com/googleapis/google-api-python-client/commit/6be3394a64a5eb509f68ef779680fd36837708ee
-feat(file): update the api https://github.com/googleapis/google-api-python-client/commit/817a0e636771445a988ef479bd52740f754b901a
-feat(monitoring): update the api https://github.com/googleapis/google-api-python-client/commit/bd32149f308467f0f659119587afc77dcec65b14
-feat(people): update the api https://github.com/googleapis/google-api-python-client/commit/aa6b47df40c5289f33aef6fb6aa007df2d038e20
-feat(retail): update the api https://github.com/googleapis/google-api-python-client/commit/d39f06e2d77034bc837604a41dd52c577f158bf2
-feat(securitycenter): update the api https://github.com/googleapis/google-api-python-client/commit/999fab5178208639c9eef289f9f441052ed832fc
-feat(speech): update the api https://github.com/googleapis/google-api-python-client/commit/3b2c0fa62b2a0c86bba1e97f1b18f93250dbd551
-feat(sqladmin): update the api https://github.com/googleapis/google-api-python-client/commit/cef24d829ab5be71563a2b668b8f6cf5dda2c8e4</span>
-                                            </div>
-                                            <div class="commit">
-                                                <span class="sha">#c4ce77d</span>
-                                                <span class="message">chore(deps): update dependency google-api-python-client to v2.14.1 (#1460)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [google-api-python-client](https://togithub.com/googleapis/google-api-python-client) | `==2.14.0` -&gt; `==2.14.1` | [![age](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.14.1/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.14.1/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.14.1/compatibility-slim/2.14.0)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.14.1/confidence-slim/2.14.0)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;googleapis/google-api-python-client&lt;/summary&gt;
-
-### [`v2.14.1`](https://togithub.com/googleapis/google-api-python-client/blob/master/CHANGELOG.md#&amp;#8203;2141-httpswwwgithubcomgoogleapisgoogle-api-python-clientcomparev2140v2141-2021-07-25)
-
-[Compare Source](https://togithub.com/googleapis/google-api-python-client/compare/v2.14.0...v2.14.1)
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                            </div>
-                                            <div class="commit">
-                                                <span class="sha">#5875050</span>
-                                                <span class="message">chore: release 2.14.1 (#1456)
-
-<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> I have created a release \*beep\* \*boop\*
----
-### [2.14.1](https://www.github.com/googleapis/google-api-python-client/compare/v2.14.0...v2.14.1) (2021-07-25)
-
-
-### Bug Fixes
-
-* drop six dependency ([#1452](https://www.github.com/googleapis/google-api-python-client/issues/1452)) ([9f7b410](https://www.github.com/googleapis/google-api-python-client/commit/9f7b4109b370e89c29db6c58c6bd2e09002c8d42))
----
-
-
-This PR was generated with [Release Please](https://github.com/googleapis/release-please). See [documentation](https://github.com/googleapis/release-please#release-please).
-                      </span>
-                                                <div class="commit">
-                                                    <span class="sha">#a8f6140</span>
-                                                    <span class="message">chore(deps): update dependency pandas to v1.3.1 (#1457)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [pandas](https://pandas.pydata.org) ([source](https://togithub.com/pandas-dev/pandas)) | `==1.3.0` -&gt; `==1.3.1` | [![age](https://badges.renovateapi.com/packages/pypi/pandas/1.3.1/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/pandas/1.3.1/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/pandas/1.3.1/compatibility-slim/1.3.0)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/pandas/1.3.1/confidence-slim/1.3.0)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;pandas-dev/pandas&lt;/summary&gt;
-
-### [`v1.3.1`](https://togithub.com/pandas-dev/pandas/releases/v1.3.1)
-
-[Compare Source](https://togithub.com/pandas-dev/pandas/compare/v1.3.0...v1.3.1)
-
-This is the first patch release in the 1.3.x series and includes some regression fixes and bug fixes. We recommend that all users upgrade to this version.
-
-See the [full whatsnew](https://pandas.pydata.org/pandas-docs/version/1.3.1/whatsnew/v1.3.1.html) for a list of all the changes.
-
-The release will be available on the defaults and conda-forge channels:
-
-    conda install pandas
-
-Or via PyPI:
-
-    python3 -m pip install --upgrade pandas
-
-Please report any issues with the release on the [pandas issue tracker](https://togithub.com/pandas-dev/pandas/issues).
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                                </div>
-                                                <div class="commit">
-                                                    <span class="sha">#9f7b410</span>
-                                                    <span class="message">fix: drop six dependency (#1452)
-
-Fixes #1446 🦕</span>
-                                                </div>
-                                                <div class="commit">
-                                                    <span class="sha">#777eb76</span>
-                                                    <span class="message">chore: fix kokoro config for samples (#1455)
-
-Source-Link: https://github.com/googleapis/synthtool/commit/dd05f9d12f134871c9e45282349c9856fbebecdd
-Post-Processor: gcr.io/repo-automation-bots/owlbot-python:latest@sha256:aea14a583128771ae8aefa364e1652f3c56070168ef31beb203534222d842b8b</span>
-                                                </div>
-                                                <div class="commit">
-                                                    <span class="sha">#2565803</span>
-                                                    <span class="message">chore(deps): update dependency google-auth to v1.33.1 (#1454)</span>
-                                                </div>
-                                                <div class="commit">
-                                                    <span class="sha">#a946b4f</span>
-                                                    <span class="message">chore(deps): update dependency google-api-python-client to v2.14.0 (#1453)</span>
-                                                </div>
-                                                <div class="commit">
-                                                    <span class="sha">#cf70c98</span>
-                                                    <span class="message">chore: release 2.14.0 (#1451)
-
-<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> I have created a release \*beep\* \*boop\*
----
-## [2.14.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.13.0...v2.14.0) (2021-07-20)
-
-
-### Features
-
-* **analyticsadmin:** update the api https://github.com/googleapis/google-api-python-client/commit/a2e2d768e5412072ef11891ae7fb9145e2c4693d ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **androiddeviceprovisioning:** update the api https://github.com/googleapis/google-api-python-client/commit/83151f4ebd2992a53f815133304d8cb2c72d50c5 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **chat:** update the api https://github.com/googleapis/google-api-python-client/commit/8e39e1ef5482735fbaaed3be74ee472cf44cd941 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **cloudasset:** update the api https://github.com/googleapis/google-api-python-client/commit/ebd9b97ec74f0f257ccb4833f747f88d02075926 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **cloudfunctions:** update the api https://github.com/googleapis/google-api-python-client/commit/06332af99b1b1a9894bf4f553e014936225761de ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **cloudsearch:** update the api https://github.com/googleapis/google-api-python-client/commit/4aab6137bb350cb841a6b48fd37df67a209ba031 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **content:** update the api https://github.com/googleapis/google-api-python-client/commit/c65f297a775687fbfcbae827f892fc996a3d1ab1 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **datacatalog:** update the api https://github.com/googleapis/google-api-python-client/commit/af28eef0b37a5d0bb3a299f9fd9740b63f9e23bd ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **dns:** update the api https://github.com/googleapis/google-api-python-client/commit/e2ba913fc51f78ce4b9fb6f9de97f61bd35cd356 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **documentai:** update the api https://github.com/googleapis/google-api-python-client/commit/d1b9df7ee0a041d4cf632a77a626764c37e72889 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **file:** update the api https://github.com/googleapis/google-api-python-client/commit/0cd6277980d02363e3d609901d12d62b594adc92 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **firebaseappcheck:** update the api https://github.com/googleapis/google-api-python-client/commit/f8c39017aa392c0930ab79cdf7f828fe1e97e313 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **firebasestorage:** update the api https://github.com/googleapis/google-api-python-client/commit/66b6961871fea5b1a41a5b8359d7f76d6e390386 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **gameservices:** update the api https://github.com/googleapis/google-api-python-client/commit/31fd4dc22bd1e615caeafc22482caad65bbd55e9 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **gkehub:** update the api https://github.com/googleapis/google-api-python-client/commit/58ae34d8dfb4a7827b4f56e99fd48dedc64b4364 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **ml:** update the api https://github.com/googleapis/google-api-python-client/commit/15e0de32f2ea94d6ed3e0c18cd6e59cc239b37e7 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **monitoring:** update the api https://github.com/googleapis/google-api-python-client/commit/2b52d9ff5341caec20577538c0c4eaf83a896651 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **notebooks:** update the api https://github.com/googleapis/google-api-python-client/commit/c4698a84e526ab47710d2bde22827b337f2f480c ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **people:** update the api https://github.com/googleapis/google-api-python-client/commit/a646e56d40f2c7df40f48d42442c1941fc1c6674 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **recommender:** update the api https://github.com/googleapis/google-api-python-client/commit/ef997b0293c0e075208c7af15fa4e9bd6f29e883 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **secretmanager:** update the api https://github.com/googleapis/google-api-python-client/commit/489541e760eae9745724eb8cad74007903dd4f5b ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **spanner:** update the api https://github.com/googleapis/google-api-python-client/commit/acdb8fccfbb9f243f06dfff68d61cee2e58c9e45 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-* **testing:** update the api https://github.com/googleapis/google-api-python-client/commit/e2bde192a3e20ebd00995185cd92b47a086be8d9 ([0770807](https://www.github.com/googleapis/google-api-python-client/commit/0770807d690618cb51196d2c1ef812a8e0c03115))
-
-
-### Bug Fixes
-
-* **deps:** pin 'google-{api,cloud}-core', 'google-auth' to allow 2.x versions ([#1449](https://www.github.com/googleapis/google-api-python-client/issues/1449)) ([96d2bb0](https://www.github.com/googleapis/google-api-python-client/commit/96d2bb04f99d57f0fff2b81e8f4e792782deb712))
----
-
-
-This PR was generated with [Release Please](https://github.com/googleapis/release-please). See [documentation](https://github.com/googleapis/release-please#release-please).
-                      </span>
-                                                    <div class="commit">
-                                                        <span class="sha">#65aab6a</span>
-                                                        <span class="message">chore(deps): update dependency google-api-python-client to v2.13.0 (#1447)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [google-api-python-client](https://togithub.com/googleapis/google-api-python-client) | `==2.11.0` -&gt; `==2.13.0` | [![age](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.13.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.13.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.13.0/compatibility-slim/2.11.0)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/google-api-python-client/2.13.0/confidence-slim/2.11.0)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;googleapis/google-api-python-client&lt;/summary&gt;
-
-### [`v2.13.0`](https://togithub.com/googleapis/google-api-python-client/blob/master/CHANGELOG.md#&amp;#8203;2130-httpswwwgithubcomgoogleapisgoogle-api-python-clientcomparev2120v2130-2021-07-13)
-
-[Compare Source](https://togithub.com/googleapis/google-api-python-client/compare/v2.12.0...v2.13.0)
-
-##### Features
-
--   **analyticsadmin:** update the api https://github.com/googleapis/google-api-python-client/commit/96675a8d9158ec13353fe241f858201fc51b784d ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **composer:** update the api https://github.com/googleapis/google-api-python-client/commit/add2fbdc3afb6696537eb087bc1d79df9194a37a ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **container:** update the api https://github.com/googleapis/google-api-python-client/commit/f8fae98db6d1943411b1a6c0f5a65dea336569f6 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **content:** update the api https://github.com/googleapis/google-api-python-client/commit/0814e009a4a11800db5b4afd7b6260e504c98047 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **datacatalog:** update the api https://github.com/googleapis/google-api-python-client/commit/99706059e58bb3d616253a1af2cd162b5a0b0279 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **dataflow:** update the api https://github.com/googleapis/google-api-python-client/commit/d5f09ef30392532bcfdd82901148bdd3ac6eec01 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **docs:** update the api https://github.com/googleapis/google-api-python-client/commit/dc66f4cafba86baff6149b2f6e59ae1888006911 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **file:** update the api https://github.com/googleapis/google-api-python-client/commit/523fc5c900f53489d56400deb650f6586c9681a0 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **firebasehosting:** update the api https://github.com/googleapis/google-api-python-client/commit/c83ac386b65f82e7ba29851d56b496b09a29cf98 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **healthcare:** update the api https://github.com/googleapis/google-api-python-client/commit/a407471b14349b8c08018196041568f2a35f8d4f ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **ideahub:** update the api https://github.com/googleapis/google-api-python-client/commit/c6b0d83940f238b1330896240492e8db397dcd15 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **managedidentities:** update the api https://github.com/googleapis/google-api-python-client/commit/863b333da7848029fd1614fd48b46cfbe12afcd5 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **memcache:** update the api https://github.com/googleapis/google-api-python-client/commit/17dc001e4649f54944066ce153e3c552c850a146 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **metastore:** update the api https://github.com/googleapis/google-api-python-client/commit/f3a76c9359babc48cc0b76ce7e3be0711ba028ae ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **slides:** update the api https://github.com/googleapis/google-api-python-client/commit/314d61b9ef8c5c30f9756462504dc0df92284cb2 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **sqladmin:** update the api https://github.com/googleapis/google-api-python-client/commit/62784e0b1b5752b480afe1ddd77dcf412bb35dbb ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **tpu:** update the api https://github.com/googleapis/google-api-python-client/commit/16bf712cca4a393d96e4135de3d02e5005051b6d ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
--   **youtube:** update the api https://github.com/googleapis/google-api-python-client/commit/ec21dff96d9538ad6c7f9b318eca88178533aa95 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
-
-##### Bug Fixes
-
--   **keep:** update the api https://github.com/googleapis/google-api-python-client/commit/08fee732e96d3220e624c8fca7b8a9b0c0bcb146 ([1a4514d](https://www.github.com/googleapis/google-api-python-client/commit/1a4514d2862f81fc97e424cd550c286cda0fc859))
-
-##### Documentation
-
--   add recommendation to use v2.x and static discovery artifacts ([#&amp;#8203;1434](https://www.github.com/googleapis/google-api-python-client/issues/1434)) ([ca7328c](https://www.github.com/googleapis/google-api-python-client/commit/ca7328cb5340ea282a3d98782926a0b6881a33ed))
-
-### [`v2.12.0`](https://togithub.com/googleapis/google-api-python-client/blob/master/CHANGELOG.md#&amp;#8203;2120-httpswwwgithubcomgoogleapisgoogle-api-python-clientcomparev2110v2120-2021-07-06)
-
-[Compare Source](https://togithub.com/googleapis/google-api-python-client/compare/v2.11.0...v2.12.0)
-
-##### Features
-
--   **artifactregistry:** update the api https://github.com/googleapis/google-api-python-client/commit/bc9a38bf901a63525fb4c7b1e94fd4ce5fb441c3 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **chat:** update the api https://github.com/googleapis/google-api-python-client/commit/eea3c5c177aaded427fd3b5bab80812bf748ef79 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **cloudasset:** update the api https://github.com/googleapis/google-api-python-client/commit/2e31dd0b58d3c656df5aaa042994c637d0100f97 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **cloudbuild:** update the api https://github.com/googleapis/google-api-python-client/commit/3a3b420d53aabe1fdf6ddca483a3d164f72d6268 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **composer:** update the api https://github.com/googleapis/google-api-python-client/commit/78c0d8decbe640c522c45850c97002e7da12f4e0 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **container:** update the api https://github.com/googleapis/google-api-python-client/commit/a54737fe763fd288e54505faace58040cbf8920b ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **datafusion:** update the api https://github.com/googleapis/google-api-python-client/commit/f6bf3c6b92fbf7072798b987998bf55ee9276389 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **dataproc:** update the api https://github.com/googleapis/google-api-python-client/commit/3fde9a3604e4811ce02f1062dcee9cef35b1ad51 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **documentai:** update the api https://github.com/googleapis/google-api-python-client/commit/79c556d389889fb0f48c8cc5ad5ab4a2caaab603 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **groupssettings:** update the api https://github.com/googleapis/google-api-python-client/commit/d537f96a20a699629fa85fbdeadb74ead3b32699 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **logging:** update the api https://github.com/googleapis/google-api-python-client/commit/d3548c505e4b1065365584493d15f21a19639626 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **monitoring:** update the api https://github.com/googleapis/google-api-python-client/commit/d24af68a9621fda9d7a576d3615178604a1482d2 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **paymentsresellersubscription:** update the api https://github.com/googleapis/google-api-python-client/commit/cff9039529278d95cee936826b5406867c638430 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **redis:** update the api https://github.com/googleapis/google-api-python-client/commit/46102d1726393f872420820e6200bb83cefd74b6 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **run:** update the api https://github.com/googleapis/google-api-python-client/commit/db18e29c7f616f212121960fe8efd6fb7cdf9b22 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **slides:** update the api https://github.com/googleapis/google-api-python-client/commit/68634cd565914e6003c851ec5f43fa2ff290afca ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **spanner:** update the api https://github.com/googleapis/google-api-python-client/commit/289512124fc77a69957b912f06e9c3d315aa0526 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
--   **storagetransfer:** update the api https://github.com/googleapis/google-api-python-client/commit/24895f156f10c03f2da686be95d8c70ea34008a3 ([a933dad](https://www.github.com/googleapis/google-api-python-client/commit/a933dad7e72d3093be480ce6af3965f41db1d193))
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#c3c7ada</span>
-                                                        <span class="message">chore(deps): update dependency pandas to v1.3.0 (#1427)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [pandas](https://pandas.pydata.org) ([source](https://togithub.com/pandas-dev/pandas)) | `==1.2.5` -&gt; `==1.3.0` | [![age](https://badges.renovateapi.com/packages/pypi/pandas/1.3.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/pandas/1.3.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/pandas/1.3.0/compatibility-slim/1.2.5)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/pandas/1.3.0/confidence-slim/1.2.5)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;pandas-dev/pandas&lt;/summary&gt;
-
-### [`v1.3.0`](https://togithub.com/pandas-dev/pandas/releases/v1.3.0)
-
-[Compare Source](https://togithub.com/pandas-dev/pandas/compare/v1.2.5...v1.3.0)
-
-This release includes some new features, bug fixes, and performance improvements. We recommend that all users upgrade to this version.
-
-See the [full whatsnew](https://pandas.pydata.org/pandas-docs/version/1.3.0/whatsnew/v1.3.0.html) for a list of all the changes.
-
-The release will be available on the defaults and conda-forge channels:
-
-    conda install -c conda-forge pandas
-
-Or via PyPI:
-
-    python3 -m pip install --upgrade pandas
-
-Please report any issues with the release on the [pandas issue tracker](https://togithub.com/pandas-dev/pandas/issues).
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#96d2bb0</span>
-                                                        <span class="message">fix(deps): pin 'google-{api,cloud}-core', 'google-auth' to allow 2.x versions (#1449)
-
-Expand pins on library dependencies in preparation for these dependencies taking a new major version. See https://github.com/googleapis/google-cloud-python/issues/10566.</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#0770807</span>
-                                                        <span class="message">chore: Update discovery artifacts (#1450)
-
-## Deleted keys were detected in the following stable discovery artifacts:
-chat v1 https://github.com/googleapis/google-api-python-client/commit/8e39e1ef5482735fbaaed3be74ee472cf44cd941
-dns v1 https://github.com/googleapis/google-api-python-client/commit/e2ba913fc51f78ce4b9fb6f9de97f61bd35cd356
-
-## Deleted keys were detected in the following pre-stable discovery artifacts:
-dns v1beta2 https://github.com/googleapis/google-api-python-client/commit/e2ba913fc51f78ce4b9fb6f9de97f61bd35cd356
-
-## Discovery Artifact Change Summary:
-feat(analyticsadmin): update the api https://github.com/googleapis/google-api-python-client/commit/a2e2d768e5412072ef11891ae7fb9145e2c4693d
-feat(androiddeviceprovisioning): update the api https://github.com/googleapis/google-api-python-client/commit/83151f4ebd2992a53f815133304d8cb2c72d50c5
-feat(chat): update the api https://github.com/googleapis/google-api-python-client/commit/8e39e1ef5482735fbaaed3be74ee472cf44cd941
-feat(cloudasset): update the api https://github.com/googleapis/google-api-python-client/commit/ebd9b97ec74f0f257ccb4833f747f88d02075926
-feat(cloudfunctions): update the api https://github.com/googleapis/google-api-python-client/commit/06332af99b1b1a9894bf4f553e014936225761de
-feat(cloudsearch): update the api https://github.com/googleapis/google-api-python-client/commit/4aab6137bb350cb841a6b48fd37df67a209ba031
-feat(content): update the api https://github.com/googleapis/google-api-python-client/commit/c65f297a775687fbfcbae827f892fc996a3d1ab1
-feat(datacatalog): update the api https://github.com/googleapis/google-api-python-client/commit/af28eef0b37a5d0bb3a299f9fd9740b63f9e23bd
-feat(dns): update the api https://github.com/googleapis/google-api-python-client/commit/e2ba913fc51f78ce4b9fb6f9de97f61bd35cd356
-feat(documentai): update the api https://github.com/googleapis/google-api-python-client/commit/d1b9df7ee0a041d4cf632a77a626764c37e72889
-feat(file): update the api https://github.com/googleapis/google-api-python-client/commit/0cd6277980d02363e3d609901d12d62b594adc92
-feat(firebaseappcheck): update the api https://github.com/googleapis/google-api-python-client/commit/f8c39017aa392c0930ab79cdf7f828fe1e97e313
-feat(firebasestorage): update the api https://github.com/googleapis/google-api-python-client/commit/66b6961871fea5b1a41a5b8359d7f76d6e390386
-feat(gameservices): update the api https://github.com/googleapis/google-api-python-client/commit/31fd4dc22bd1e615caeafc22482caad65bbd55e9
-feat(gkehub): update the api https://github.com/googleapis/google-api-python-client/commit/58ae34d8dfb4a7827b4f56e99fd48dedc64b4364
-feat(ml): update the api https://github.com/googleapis/google-api-python-client/commit/15e0de32f2ea94d6ed3e0c18cd6e59cc239b37e7
-feat(monitoring): update the api https://github.com/googleapis/google-api-python-client/commit/2b52d9ff5341caec20577538c0c4eaf83a896651
-feat(notebooks): update the api https://github.com/googleapis/google-api-python-client/commit/c4698a84e526ab47710d2bde22827b337f2f480c
-feat(people): update the api https://github.com/googleapis/google-api-python-client/commit/a646e56d40f2c7df40f48d42442c1941fc1c6674
-feat(recommender): update the api https://github.com/googleapis/google-api-python-client/commit/ef997b0293c0e075208c7af15fa4e9bd6f29e883
-feat(secretmanager): update the api https://github.com/googleapis/google-api-python-client/commit/489541e760eae9745724eb8cad74007903dd4f5b
-feat(spanner): update the api https://github.com/googleapis/google-api-python-client/commit/acdb8fccfbb9f243f06dfff68d61cee2e58c9e45
-feat(testing): update the api https://github.com/googleapis/google-api-python-client/commit/e2bde192a3e20ebd00995185cd92b47a086be8d9</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#fcfe9d0</span>
-                                                        <span class="message">chore(deps): update dependency google-auth to v1.33.0 (#1448)
-
-[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [google-auth](https://togithub.com/googleapis/google-auth-library-python) | `==1.31.0` -&gt; `==1.33.0` | [![age](https://badges.renovateapi.com/packages/pypi/google-auth/1.33.0/age-slim)](https://docs.renovatebot.com/merge-confidence/) | [![adoption](https://badges.renovateapi.com/packages/pypi/google-auth/1.33.0/adoption-slim)](https://docs.renovatebot.com/merge-confidence/) | [![passing](https://badges.renovateapi.com/packages/pypi/google-auth/1.33.0/compatibility-slim/1.31.0)](https://docs.renovatebot.com/merge-confidence/) | [![confidence](https://badges.renovateapi.com/packages/pypi/google-auth/1.33.0/confidence-slim/1.31.0)](https://docs.renovatebot.com/merge-confidence/) |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;googleapis/google-auth-library-python&lt;/summary&gt;
-
-### [`v1.33.0`](https://togithub.com/googleapis/google-auth-library-python/blob/master/CHANGELOG.md#&amp;#8203;1330-httpswwwgithubcomgoogleapisgoogle-auth-library-pythoncomparev1321v1330-2021-07-14)
-
-[Compare Source](https://togithub.com/googleapis/google-auth-library-python/compare/v1.32.1...v1.33.0)
-
-##### Features
-
--   define `CredentialAccessBoundary` classes ([#&amp;#8203;793](https://www.github.com/googleapis/google-auth-library-python/issues/793)) ([d883921](https://www.github.com/googleapis/google-auth-library-python/commit/d883921ae8fdc92b2c2cf1b3a5cd389e1287eb60))
--   define `google.auth.downscoped.Credentials` class ([#&amp;#8203;801](https://www.github.com/googleapis/google-auth-library-python/issues/801)) ([2f5c3a6](https://www.github.com/googleapis/google-auth-library-python/commit/2f5c3a636192c20cf4c92c3831d1f485031d24d2))
--   service account is able to use a private token endpoint ([#&amp;#8203;784](https://www.github.com/googleapis/google-auth-library-python/issues/784)) ([0e26409](https://www.github.com/googleapis/google-auth-library-python/commit/0e264092e35ac02ad68d5d91424ecba5397daa41))
-
-##### Bug Fixes
-
--   fix fetch_id_token credential lookup order to match adc ([#&amp;#8203;748](https://www.github.com/googleapis/google-auth-library-python/issues/748)) ([c34452e](https://www.github.com/googleapis/google-auth-library-python/commit/c34452ef450c42cfef37a1b0c548bb422302dd5d))
-
-##### Documentation
-
--   fix code block formatting in 'user-guide.rst' ([#&amp;#8203;794](https://www.github.com/googleapis/google-auth-library-python/issues/794)) ([4fd84bd](https://www.github.com/googleapis/google-auth-library-python/commit/4fd84bdf43694af5107dc8c8b443c06ba2f61d2c))
-
-##### [1.32.1](https://www.github.com/googleapis/google-auth-library-python/compare/v1.32.0...v1.32.1) (2021-06-30)
-
-##### Bug Fixes
-
--   avoid leaking sub-session created for '\_auth_request' ([#&amp;#8203;789](https://www.github.com/googleapis/google-auth-library-python/issues/789)) ([2079ab5](https://www.github.com/googleapis/google-auth-library-python/commit/2079ab5e1db464f502248ae4f9e424deeef87fb2))
-
-### [`v1.32.1`](https://togithub.com/googleapis/google-auth-library-python/blob/master/CHANGELOG.md#&amp;#8203;1321-httpswwwgithubcomgoogleapisgoogle-auth-library-pythoncomparev1320v1321-2021-06-30)
-
-[Compare Source](https://togithub.com/googleapis/google-auth-library-python/compare/v1.32.0...v1.32.1)
-
-### [`v1.32.0`](https://togithub.com/googleapis/google-auth-library-python/blob/master/CHANGELOG.md#&amp;#8203;1320-httpswwwgithubcomgoogleapisgoogle-auth-library-pythoncomparev1310v1320-2021-06-16)
-
-[Compare Source](https://togithub.com/googleapis/google-auth-library-python/compare/v1.31.0...v1.32.0)
-
-##### Features
-
--   allow scopes for self signed jwt ([#&amp;#8203;776](https://www.github.com/googleapis/google-auth-library-python/issues/776)) ([2cfe655](https://www.github.com/googleapis/google-auth-library-python/commit/2cfe655bba837170abc07701557a1a5e0fe3294e))
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update again.
-
----
-
- - [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check this box.
-
----
-
-This PR has been generated by [WhiteSource Renovate](https://renovate.whitesourcesoftware.com). View repository job log [here](https://app.renovatebot.com/dashboard#github/googleapis/google-api-python-client).</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#1961461</span>
-                                                        <span class="message">chore: Moving GCE API samples from python-docs-samples (b/191786905) (#1429)
-
-Co-authored-by: Anthonios Partheniou &lt;partheniou@google.com&gt;</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#d35c912</span>
-                                                        <span class="message">chore: code clean up (#1442)
-
-Thank you for opening a Pull Request! Before submitting your PR, there are a few things you can do to make sure it goes smoothly:
-- [x] Make sure to open an issue as a [bug/issue](https://github.com/googleapis/google-api-python-client/issues/new/choose) before writing your code!  That way we can discuss the change, evaluate designs, and agree on the general idea
-- [x] Ensure the tests and linter pass
-- [x] Code coverage does not decrease (if any source code was changed)
-- [x] Appropriate docs were updated (if necessary)
-
-Fixes #1441 🦕</span>
-                                                    </div>
-                                                    <div class="commit">
-                                                        <span class="sha">#5489f52</span>
-                                                        <span class="message">build(python): exit with success status if no samples found (#1444)
-
-Source-Link: https://github.com/googleapis/synthtool/commit/53ea3896a52f87c758e79b5a19fa338c83925a98
-Post-Processor: gcr.io/repo-automation-bots/owlbot-python:latest@sha256:e1793a23ae0ee9aafb2e3a53b564a351f74790dbe3c2d75f8fc3b8c43e5c036c</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <footer>
-                                <span>These metrics include private contributions</span>
-                                <span>Last updated 2 Dec 2021, 18:16:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
-                            </footer>
                         </div>
-                        <div id="metrics-end"></div>
                     </section>
                 </div>
+                <footer>
+                    <span>These metrics include private contributions</span>
+                    <span>Last updated 2 Dec 2021, 19:31:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                </footer>
             </section>
+            <div id="metrics-end"></div>
         </div>
     </foreignObject>
 </svg>
