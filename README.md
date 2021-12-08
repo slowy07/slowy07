@@ -1,4 +1,5 @@
 # Hey there!
+# Hey there!
 
 <p align="center">
     <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/>
@@ -16,6 +17,7 @@ Hello! my name is **Arfy Slowy**, I live in Aceh, Indonesia, a peaceful city wit
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
 
+</br>
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 
@@ -34,7 +36,7 @@ Hello! my name is **Arfy Slowy**, I live in Aceh, Indonesia, a peaceful city wit
 
 </br>
 
-## Stats
+## Github Stats
 
 ![contrib](https://github.com/slowy07/slowy07/blob/9b1e410d8fe09a55056b407d6944be56b5b749d8/contribution.svg)
 
