@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1219" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1818" class="">
     <defs>
         <style/>
     </defs>
@@ -1478,7 +1478,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    1.11m added, 46.4k removed
+                    1.14m added, 53k removed
                   
                 </div>
                             </section>
@@ -1562,7 +1562,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 75 edited files from 111 commits over last 7 days
+            estimation from 75 edited files from 113 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1609,17 +1609,17 @@
                 <div class="chart-bars">
                     <div class="entry">
               <span class="value">10</span>
-              <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               00
             </div>
                     <div class="entry">
               <span class="value">3</span>
-              <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 7.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               01
             </div>
                     <div class="entry">
               <span class="value">6</span>
-              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1639,27 +1639,27 @@
             </div>
                     <div class="entry">
               <span class="value">2</span>
-              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               06
             </div>
                     <div class="entry">
               <span class="value">18</span>
-              <div class="bar" style="height: 40.909090909090914px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               07
             </div>
                     <div class="entry">
               <span class="value">12</span>
-              <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               08
             </div>
                     <div class="entry">
-              <span class="value">22</span>
+              <span class="value">20</span>
               <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               09
             </div>
                     <div class="entry">
               <span class="value">9</span>
-              <div class="bar" style="height: 20.454545454545457px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 22.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1669,7 +1669,7 @@
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               12
             </div>
                     <div class="entry">
@@ -1694,37 +1694,37 @@
             </div>
                     <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               17
             </div>
                     <div class="entry">
               <span class="value">10</span>
-              <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               18
             </div>
                     <div class="entry">
               <span class="value">13</span>
-              <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <div class="bar" style="height: 32.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               19
             </div>
                     <div class="entry">
-              <span class="value">15</span>
-              <div class="bar" style="height: 34.090909090909086px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">17</span>
+              <div class="bar" style="height: 42.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               20
             </div>
                     <div class="entry">
               <span class="value">14</span>
-              <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               21
             </div>
                     <div class="entry">
               <span class="value">12</span>
-              <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               22
             </div>
                     <div class="entry">
               <span class="value">8</span>
-              <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               23
             </div>
                 </div>
@@ -1734,8 +1734,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 14.864864864864865px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">9</span>
+                <div class="bar" style="height: 12.162162162162163px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1754,8 +1754,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">21</span>
-                <div class="bar" style="height: 28.37837837837838px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">23</span>
+                <div class="bar" style="height: 31.08108108108108px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1824,6 +1824,449 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 363 commits in <span class="repo">slowy07/linux</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#c7b34b5</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in MVC
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Filter
+out duplicate updates in MVC driver.
+
+Fixes: e539891f9687 ("ASoC: tegra: Add Tegra210 based MVC driver")
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-13-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a4e3795</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in AHUB
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Update
+the AHUB driver accordingly.
+
+Fixes: 16e1bcc2caf4 ("ASoC: tegra: Add Tegra210 based AHUB driver")
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-12-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d6202a5</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in DSPK
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Update
+the DSPK driver accordingly.
+
+Fixes: 327ef6470266 ("ASoC: tegra: Add Tegra186 based DSPK driver")
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-11-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a347dfa</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in DMIC
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Update
+the DMIC driver accordingly.
+
+Fixes: 8c8ff982e9e2 ("ASoC: tegra: Add Tegra210 based DMIC driver")
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-10-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f21a9df</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in I2S
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Update
+the I2S driver accordingly.
+
+Fixes: c0bfa98349d1 ("ASoC: tegra: Add Tegra210 based I2S driver")
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-9-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e2b87a1</span>
+                                        <span class="message">ASoC: tegra: Fix kcontrol put callback in ADMAIF
+
+The kcontrol put callback is expected to return 1 when there is change
+in HW or when the update is acknowledged by driver. This would ensure
+that change notifications are sent to subscribed applications. Update
+the ADMAIF driver accordingly.
+
+Fixes: f74028e159bb ("ASoC: tegra: Add Tegra210 based ADMAIF driver")
+Suggested-by: Jaroslav Kysela &lt;perex@perex.cz&gt;
+Suggested-by: Mark Brown &lt;broonie@kernel.org&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-8-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6762965</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in MVC
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: e539891f9687 ("ASoC: tegra: Add Tegra210 based MVC driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-7-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#42afca1</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in SFC
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: b2f74ec53a6c ("ASoC: tegra: Add Tegra210 based SFC driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-6-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3aa0d5c</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in DSPK
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: 327ef6470266 ("ASoC: tegra: Add Tegra186 based DSPK driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-5-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#559d234</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in DMIC
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: 8c8ff982e9e2 ("ASoC: tegra: Add Tegra210 based DMIC driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-4-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8a2c2fa</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in I2S
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: c0bfa98349d1 ("ASoC: tegra: Add Tegra210 based I2S driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-3-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#884c6cb</span>
+                                        <span class="message">ASoC: tegra: Fix wrong value type in ADMAIF
+
+The enum controls are expected to use enumerated value type.
+Update relevant references in control get/put callbacks.
+
+Fixes: f74028e159bb ("ASoC: tegra: Add Tegra210 based ADMAIF driver")
+Suggested-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Signed-off-by: Sameer Pujar &lt;spujar@nvidia.com&gt;
+Reviewed-by: Takashi Iwai &lt;tiwai@suse.de&gt;
+Link: https://lore.kernel.org/r/1637219231-406-2-git-send-email-spujar@nvidia.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6966df4</span>
+                                        <span class="message">regulator: Update protection IRQ helper docs
+
+The documentation of IRQ notification helper had still references to
+first RFC implementation which called BUG() while trying to protect the
+hardware. Behaviour was improved as calling the BUG() was not a proper
+solution. Current implementation attempts to call poweroff if handling
+of potentially damaging error notification fails. Update the
+documentation to reflect the actual behaviour.
+
+Signed-off-by: Matti Vaittinen &lt;matti.vaittinen@fi.rohmeurope.com&gt;
+Link: https://lore.kernel.org/r/0c9cc4bcf20c3da66fd5a85c97ee4288e5727538.1637233864.git.matti.vaittinen@fi.rohmeurope.com
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8ed716c</span>
+                                        <span class="message">KVM: x86/mmu: Pass parameter flush as false in kvm_tdp_mmu_zap_collapsible_sptes()
+
+Since tlb flush has been done for legacy MMU before
+kvm_tdp_mmu_zap_collapsible_sptes(), so the parameter flush
+should be false for kvm_tdp_mmu_zap_collapsible_sptes().
+
+Fixes: e2209710ccc5d ("KVM: x86/mmu: Skip rmap operations if rmaps not allocated")
+Signed-off-by: Hou Wenlong &lt;houwenlong93@linux.alibaba.com&gt;
+Message-Id: &lt;21453a1d2533afb6e59fb6c729af89e771ff2e76.1637140154.git.houwenlong93@linux.alibaba.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c7785d8</span>
+                                        <span class="message">KVM: x86/mmu: Skip tlb flush if it has been done in zap_gfn_range()
+
+If the parameter flush is set, zap_gfn_range() would flush remote tlb
+when yield, then tlb flush is not needed outside. So use the return
+value of zap_gfn_range() directly instead of OR on it in
+kvm_unmap_gfn_range() and kvm_tdp_mmu_unmap_gfn_range().
+
+Fixes: 3039bcc744980 ("KVM: Move x86's MMU notifier memslot walkers to generic code")
+Signed-off-by: Hou Wenlong &lt;houwenlong93@linux.alibaba.com&gt;
+Message-Id: &lt;5e16546e228877a4d974f8c0e448a93d52c7a5a9.1637140154.git.houwenlong93@linux.alibaba.com&gt;
+Reviewed-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9dba4d2</span>
+                                        <span class="message">x86/kvm: remove unused ack_notifier callbacks
+
+Commit f52447261bc8c2 ("KVM: irq ack notification") introduced an
+ack_notifier() callback in struct kvm_pic and in struct kvm_ioapic
+without using them anywhere. Remove those callbacks again.
+
+Signed-off-by: Juergen Gross &lt;jgross@suse.com&gt;
+Message-Id: &lt;20211117071617.19504-1-jgross@suse.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6b285a5</span>
+                                        <span class="message">KVM: Disallow user memslot with size that exceeds "unsigned long"
+
+Reject userspace memslots whose size exceeds the storage capacity of an
+"unsigned long".  KVM's uAPI takes the size as u64 to support large slots
+on 64-bit hosts, but does not account for the size being truncated on
+32-bit hosts in various flows.  The access_ok() check on the userspace
+virtual address in particular casts the size to "unsigned long" and will
+check the wrong number of bytes.
+
+KVM doesn't actually support slots whose size doesn't fit in an "unsigned
+long", e.g. KVM's internal kvm_memory_slot.npages is an "unsigned long",
+not a "u64", and misc arch specific code follows that behavior.
+
+Fixes: fa3d315a4ce2 ("KVM: Validate userspace_addr of memslot when registered")
+Cc: stable@vger.kernel.org
+Signed-off-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Reviewed-by: Maciej S. Szmigiero &lt;maciej.szmigiero@oracle.com&gt;
+Message-Id: &lt;20211104002531.1176691-3-seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bda44d8</span>
+                                        <span class="message">KVM: Ensure local memslot copies operate on up-to-date arch-specific data
+
+When modifying memslots, snapshot the "old" memslot and copy it to the
+"new" memslot's arch data after (re)acquiring slots_arch_lock.  x86 can
+change a memslot's arch data while memslot updates are in-progress so
+long as it holds slots_arch_lock, thus snapshotting a memslot without
+holding the lock can result in the consumption of stale data.
+
+Fixes: b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")
+Cc: stable@vger.kernel.org
+Cc: Ben Gardon &lt;bgardon@google.com&gt;
+Signed-off-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Message-Id: &lt;20211104002531.1176691-2-seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#574c3c5</span>
+                                        <span class="message">KVM: x86/mmu: Fix TLB flush range when handling disconnected pt
+
+When recursively clearing out disconnected pts, the range based TLB
+flush in handle_removed_tdp_mmu_page uses the wrong starting GFN,
+resulting in the flush mostly missing the affected range. Fix this by
+using base_gfn for the flush.
+
+In response to feedback from David Matlack on the RFC version of this
+patch, also move a few definitions into the for loop in the function to
+prevent unintended references to them in the future.
+
+Fixes: a066e61f13cf ("KVM: x86/mmu: Factor out handling of removed page tables")
+CC: stable@vger.kernel.org
+Signed-off-by: Ben Gardon &lt;bgardon@google.com&gt;
+Message-Id: &lt;20211115211704.2621644-1-bgardon@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1d49eb9</span>
+                                        <span class="message">ipmi: Move remove_work to dedicated workqueue
+
+Currently when removing an ipmi_user the removal is deferred as a work on
+the system's workqueue. Although this guarantees the free operation will
+occur in non atomic context, it can race with the ipmi_msghandler module
+removal (see [1]) . In case a remove_user work is scheduled for removal
+and shortly after ipmi_msghandler module is removed we can end up in a
+situation where the module is removed fist and when the work is executed
+the system crashes with :
+BUG: unable to handle page fault for address: ffffffffc05c3450
+PF: supervisor instruction fetch in kernel mode
+PF: error_code(0x0010) - not-present page
+because the pages of the module are gone. In cleanup_ipmi() there is no
+easy way to detect if there are any pending works to flush them before
+removing the module. This patch creates a separate workqueue and schedules
+the remove_work works on it. When removing the module the workqueue is
+drained when destroyed to avoid the race.
+
+[1] https://bugs.launchpad.net/bugs/1950666
+
+Cc: stable@vger.kernel.org # 5.1
+Fixes: 3b9a907223d7 (ipmi: fix sleep-in-atomic in free_user at cleanup SRCU user-&gt;release_barrier)
+Signed-off-by: Ioanna Alifieraki &lt;ioanna-maria.alifieraki@canonical.com&gt;
+Message-Id: &lt;20211115131645.25116-1-ioanna-maria.alifieraki@canonical.com&gt;
+Signed-off-by: Corey Minyard &lt;cminyard@mvista.com&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 32 commits in <span class="repo">slowy07/google-cloud-ruby</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#93391ab</span>
+                                        <span class="message">chore: release google-cloud-ids-v1 0.1.0 (#16138)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6399d3f</span>
+                                        <span class="message">chore: release google-cloud-vm_migration-v1 0.1.0 (#16139)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#86a583d</span>
+                                        <span class="message">chore: release google-cloud-channel-v1 0.9.2 (#16140)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a3d0047</span>
+                                        <span class="message">chore: release google-cloud-dlp-v2 0.8.0 (#16141)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dfac188</span>
+                                        <span class="message">chore: release google-cloud-speech-v1 0.7.0 (#16153)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#007194c</span>
+                                        <span class="message">chore: release google-cloud-retail-v2 0.6.3 (#16142)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ffd804b</span>
+                                        <span class="message">chore: release google-cloud-dialogflow-cx-v3 0.4.0 (#16143)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1f52201</span>
+                                        <span class="message">chore: release google-cloud-text_to_speech-v1 0.5.0 (#16145)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#391da74</span>
+                                        <span class="message">chore: release google-cloud-tasks-v2beta3 0.6.5 (#16146)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#129bc8f</span>
+                                        <span class="message">chore: release google-cloud-os_config-v1 0.9.0 (#16147)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#24951fb</span>
+                                        <span class="message">chore: release google-cloud-automl-v1 0.4.5 (#16148)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4af967a</span>
+                                        <span class="message">chore: release google-cloud-text_to_speech-v1beta1 0.7.0 (#16149)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#84c1477</span>
+                                        <span class="message">chore: release google-cloud-tasks-v2 0.4.5 (#16151)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#81f57ab</span>
+                                        <span class="message">chore: release google-cloud-security_center-v1 0.11.0 (#16154)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#af4a224</span>
+                                        <span class="message">feat(bigquery-storage-v1): Added write mode support</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e60e347</span>
+                                        <span class="message">chore: release google-cloud-container-v1beta1 0.8.2 (#16155)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ee16fee</span>
+                                        <span class="message">fix(compute-v1)!: Renamed IPProtocol to IPProtocolEnum</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3ca98d1</span>
+                                        <span class="message">feat(dlp-v2): Various updates
+
+* Deidentify supports replacement dictionaries
+* Support setting the type of job when listing triggers
+* Findings include a unique finding ID
+* Support for InfoType versioning
+* Support for BigQuery inspect template inclusion lists</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e96d1cc</span>
+                                        <span class="message">chore(dialogflow-cx): Reordered protos</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#690ddac</span>
+                                        <span class="message">feat(dialogflow-cx-v3): Inform the client when a phone call should be transferred to a third-party endpoint</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">slowy07/pythonApps</span>
                     </div>
                                 </div>
@@ -1880,54 +2323,12 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">slowy07/pythonApps</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6607e0b</span>
-                                        <span class="message">feat: update
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">slowy07/pythonApps</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b7d3da2</span>
-                                        <span class="message">feat: adding solution27
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2021, 19:31:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 9 Dec 2021, 20:26:13 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
