@@ -53,11 +53,12 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
           # recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          config_padding: 0, 8 + 1%
+          # plugin_activity: yes
+          # plugin_activity_limit: 5
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # config_padding: 0, 8 + 1%
+          
           
           
       # notable contrib
