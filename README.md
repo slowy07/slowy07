@@ -25,6 +25,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 | repository                                                                   | Description |
 | -----------                                                                  | ----------- |
 | [Quantum computing](https://github.com/slowy07/quantum_computing)            | list example and explanation quantum computing algorithm       |
+| [Clifter pixel](https://github.com/slowy07/clifter_pixel)                    | create awesome pixel art with machine learning         |
 
 
 
