@@ -9,13 +9,11 @@
 
 hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern on [Google LLC](https://about.google/?utm_source=google-ID&utm_medium=referral&utm_campaign=hp-footer&fg=1), and now i still coding for my hobby.
 
-
 ## talk to me
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
-
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 
@@ -23,12 +21,10 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ## recent project
 
-| repository                                                                   | Description |
-| -----------                                                                  | ----------- |
-| [Quantum computing](https://github.com/slowy07/quantum_computing)            | list example and explanation quantum computing algorithm       |
-| [Clifter pixel](https://github.com/slowy07/clifter_pixel)                    | create awesome pixel art with machine learning         |
-
-
+| repository                                                        | Description                                              |
+| ----------------------------------------------------------------- | -------------------------------------------------------- |
+| [Quantum computing](https://github.com/slowy07/quantum_computing) | list example and explanation quantum computing algorithm |
+| [Clifter pixel](https://github.com/slowy07/clifter_pixel)         | create awesome pixel art with machine learning           |
 
 ## programming skills
 
