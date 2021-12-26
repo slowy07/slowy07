@@ -1,7 +1,8 @@
 # Hey there !
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/>
+    <img src="https://64.media.tumblr.com/8c12f52cce92791877289a87b4c05f69/tumblr_p5jbg49pnp1qciqqno2_r1_640.gif" height="300" width="590"/>
+<!--     <img src="https://i.pinimg.com/originals/cc/c6/0d/ccc60d69aca836db0e61f62783d16b41.gif" height="240" width="400"/> -->
 </p>
 
 ## :boy: about me
