@@ -5,7 +5,7 @@
 
 ## :boy: about me
 
-hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern and 2021 work on [Google LLC](https://about.google/?utm_source=google-ID&utm_medium=referral&utm_campaign=hp-footer&fg=1), and now i still coding for my hobby.
+hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city with friendly people. i like programming and networking since 2009, because my uncle make something magic with his computer, at 2019 i start intern and 2021 work on [Google LLC](https://about.google/?utm_source=google-ID&utm_medium=referral&utm_campaign=hp-footer&fg=1), and now i still coding for my hobby. more [here](https://raw.githubusercontent.com/slowy07/slowy07/main/slowy.svg)
 
 ## talk to me
 
