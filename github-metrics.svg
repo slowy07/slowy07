@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="951" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1254" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -245,7 +245,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 17 edited files from 40 commits over last 6 days</small>
+                <small>estimation from 17 edited files from 41 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -289,7 +289,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 71 commits)</small>
+                    <small class="h-details">(computed from last 72 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
@@ -305,7 +305,7 @@
                 <div class="chart-bars">
                     <div class="entry">
                         <span class="value">5</span>
-                        <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -315,7 +315,7 @@
                     </div>
                     <div class="entry">
                         <span class="value">4</span>
-                        <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         02
                     </div>
                     <div class="entry">
@@ -335,27 +335,27 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         06
                     </div>
                     <div class="entry">
                         <span class="value">9</span>
-                        <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         07
                     </div>
                     <div class="entry">
-                        <span class="value">14</span>
+                        <span class="value">15</span>
                         <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         08
                     </div>
                     <div class="entry">
                         <span class="value">8</span>
-                        <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         09
                     </div>
                     <div class="entry">
                         <span class="value">2</span>
-                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         10
                     </div>
                     <div class="entry">
@@ -365,12 +365,12 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         12
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         13
                     </div>
                     <div class="entry">
@@ -390,37 +390,37 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         17
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         18
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         19
                     </div>
                     <div class="entry">
                         <span class="value">6</span>
-                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         20
                     </div>
                     <div class="entry">
                         <span class="value">5</span>
-                        <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         21
                     </div>
                     <div class="entry">
                         <span class="value">6</span>
-                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         22
                     </div>
                     <div class="entry">
                         <span class="value">6</span>
-                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         23
                     </div>
                 </div>
@@ -455,8 +455,8 @@
                             Thu
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 13.157894736842104px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -535,15 +535,378 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#57 feat: menambahkan materi OrderBy</span>
+                                        Pushed 539 commits in
+                                        <span class="repo">slowy07/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by adikurniawanid in <span class="repo">bellshade/SQL</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#51b667a</div>
+                                        <div class="message">MAINTAINERS: add common wireless and wireless-next trees
+
+For easier maintenance we have decided to create common wireless and
+wireless-next trees for all wireless patches. Old mac80211 and wireless-drivers
+trees will not be used anymore.
+
+While at it, add a wiki link to wireless drivers section and a patchwork link
+to 802.11, mac80211 and rfkill sections. Also use https in patchwork links.
+
+Acked-by: Johannes Berg &lt;johannes@sipsolutions.net&gt;
+Signed-off-by: Kalle Valo &lt;kvalo@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220117181958.3509-1-kvalo@kernel.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e7f90d</div>
+                                        <div class="message">lockd: fix server crash on reboot of client holding lock
+
+I thought I was iterating over the array when actually the iteration is
+over the values contained in the array?
+
+Ugh, keep it simple.
+
+Symptoms were a null deference in vfs_lock_file() when an NFSv3 client
+that previously held a lock came back up and sent a notify.
+
+Reported-by: Jonathan Woithe &lt;jwoithe@just42.net&gt;
+Fixes: 7f024fcd5c97 ("Keep read and write fds with each nlm_file")
+Signed-off-by: J. Bruce Fields &lt;bfields@redhat.com&gt;
+Signed-off-by: Chuck Lever &lt;chuck.lever@oracle.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eee412e</div>
+                                        <div class="message">remoteproc: qcom: q6v5: fix service routines build errors
+
+When CONFIG_QCOM_AOSS_QMP=m and CONFIG_QCOM_Q6V5_MSS=y, the builtin
+driver cannot call into the loadable module's low-level service
+functions. Trying to build with that config combo causes linker errors.
+
+There are two problems here. First, drivers/remoteproc/qcom_q6v5.c
+should #include &lt;linux/soc/qcom/qcom_aoss.h&gt; for the definitions of
+the service functions, depending on whether CONFIG_QCOM_AOSS_QMP is
+set/enabled or not. Second, the qcom remoteproc drivers should depend
+on QCOM_AOSS_QMP iff it is enabled (=y or =m) so that the qcom
+remoteproc drivers can be built properly.
+
+This prevents these build errors:
+
+aarch64-linux-ld: drivers/remoteproc/qcom_q6v5.o: in function `q6v5_load_state_toggle':
+qcom_q6v5.c:(.text+0xc4): undefined reference to `qmp_send'
+aarch64-linux-ld: drivers/remoteproc/qcom_q6v5.o: in function `qcom_q6v5_deinit':
+(.text+0x2e4): undefined reference to `qmp_put'
+aarch64-linux-ld: drivers/remoteproc/qcom_q6v5.o: in function `qcom_q6v5_init':
+(.text+0x778): undefined reference to `qmp_get'
+aarch64-linux-ld: (.text+0x7d8): undefined reference to `qmp_put'
+
+Fixes: c1fe10d238c0 ("remoteproc: qcom: q6v5: Use qmp_send to update co-processor load state")
+Signed-off-by: Randy Dunlap &lt;rdunlap@infradead.org&gt;
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Cc: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Cc: Mathieu Poirier &lt;mathieu.poirier@linaro.org&gt;
+Cc: linux-remoteproc@vger.kernel.org
+Cc: Sibi Sankar &lt;sibis@codeaurora.org&gt;
+Cc: Stephen Boyd &lt;swboyd@chromium.org&gt;
+Reviewed-by: Stephen Boyd &lt;swboyd@chromium.org&gt;
+Reviewed-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Signed-off-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Link: https://lore.kernel.org/r/20220115011338.2973-1-rdunlap@infradead.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a534ae</div>
+                                        <div class="message">rpmsg: char: Fix race between the release of rpmsg_eptdev and cdev
+
+struct rpmsg_eptdev contains a struct cdev. The current code frees
+the rpmsg_eptdev struct in rpmsg_eptdev_destroy(), but the cdev is
+a managed object, therefore its release is not predictable and the
+rpmsg_eptdev could be freed before the cdev is entirely released.
+
+The cdev_device_add/del() API was created to address this issue
+(see commit '233ed09d7fda ("chardev: add helper function to register
+char devs with a struct device")'), use it instead of cdev add/del().
+
+Fixes: c0cdc19f84a4 ("rpmsg: Driver for user space endpoint interface")
+Suggested-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Signed-off-by: Matthias Kaehlcke &lt;mka@chromium.org&gt;
+Reviewed-by: Mathieu Poirier &lt;mathieu.poirier@linaro.org&gt;
+Reviewed-by: Stephen Boyd &lt;swboyd@chromium.org&gt;
+Reviewed-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Signed-off-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Link: https://lore.kernel.org/r/20220110104706.v6.2.Idde68b05b88d4a2e6e54766c653f3a6d9e419ce6@changeid</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7fb2da</div>
+                                        <div class="message">rpmsg: char: Fix race between the release of rpmsg_ctrldev and cdev
+
+struct rpmsg_ctrldev contains a struct cdev. The current code frees
+the rpmsg_ctrldev struct in rpmsg_ctrldev_release_device(), but the
+cdev is a managed object, therefore its release is not predictable
+and the rpmsg_ctrldev could be freed before the cdev is entirely
+released, as in the backtrace below.
+
+[   93.625603] ODEBUG: free active (active state 0) object type: timer_list hint: delayed_work_timer_fn+0x0/0x7c
+[   93.636115] WARNING: CPU: 0 PID: 12 at lib/debugobjects.c:488 debug_print_object+0x13c/0x1b0
+[   93.644799] Modules linked in: veth xt_cgroup xt_MASQUERADE rfcomm algif_hash algif_skcipher af_alg uinput ip6table_nat fuse uvcvideo videobuf2_vmalloc venus_enc venus_dec videobuf2_dma_contig hci_uart btandroid btqca snd_soc_rt5682_i2c bluetooth qcom_spmi_temp_alarm snd_soc_rt5682v
+[   93.715175] CPU: 0 PID: 12 Comm: kworker/0:1 Tainted: G    B             5.4.163-lockdep #26
+[   93.723855] Hardware name: Google Lazor (rev3 - 8) with LTE (DT)
+[   93.730055] Workqueue: events kobject_delayed_cleanup
+[   93.735271] pstate: 60c00009 (nZCv daif +PAN +UAO)
+[   93.740216] pc : debug_print_object+0x13c/0x1b0
+[   93.744890] lr : debug_print_object+0x13c/0x1b0
+[   93.749555] sp : ffffffacf5bc7940
+[   93.752978] x29: ffffffacf5bc7940 x28: dfffffd000000000
+[   93.758448] x27: ffffffacdb11a800 x26: dfffffd000000000
+[   93.763916] x25: ffffffd0734f856c x24: dfffffd000000000
+[   93.769389] x23: 0000000000000000 x22: ffffffd0733c35b0
+[   93.774860] x21: ffffffd0751994a0 x20: ffffffd075ec27c0
+[   93.780338] x19: ffffffd075199100 x18: 00000000000276e0
+[   93.785814] x17: 0000000000000000 x16: dfffffd000000000
+[   93.791291] x15: ffffffffffffffff x14: 6e6968207473696c
+[   93.796768] x13: 0000000000000000 x12: ffffffd075e2b000
+[   93.802244] x11: 0000000000000001 x10: 0000000000000000
+[   93.807723] x9 : d13400dff1921900 x8 : d13400dff1921900
+[   93.813200] x7 : 0000000000000000 x6 : 0000000000000000
+[   93.818676] x5 : 0000000000000080 x4 : 0000000000000000
+[   93.824152] x3 : ffffffd0732a0fa4 x2 : 0000000000000001
+[   93.829628] x1 : ffffffacf5bc7580 x0 : 0000000000000061
+[   93.835104] Call trace:
+[   93.837644]  debug_print_object+0x13c/0x1b0
+[   93.841963]  __debug_check_no_obj_freed+0x25c/0x3c0
+[   93.846987]  debug_check_no_obj_freed+0x18/0x20
+[   93.851669]  slab_free_freelist_hook+0xbc/0x1e4
+[   93.856346]  kfree+0xfc/0x2f4
+[   93.859416]  rpmsg_ctrldev_release_device+0x78/0xb8
+[   93.864445]  device_release+0x84/0x168
+[   93.868310]  kobject_cleanup+0x12c/0x298
+[   93.872356]  kobject_delayed_cleanup+0x10/0x18
+[   93.876948]  process_one_work+0x578/0x92c
+[   93.881086]  worker_thread+0x804/0xcf8
+[   93.884963]  kthread+0x2a8/0x314
+[   93.888303]  ret_from_fork+0x10/0x18
+
+The cdev_device_add/del() API was created to address this issue (see
+commit '233ed09d7fda ("chardev: add helper function to register char
+devs with a struct device")'), use it instead of cdev add/del().
+
+Fixes: c0cdc19f84a4 ("rpmsg: Driver for user space endpoint interface")
+Signed-off-by: Sujit Kautkar &lt;sujitka@chromium.org&gt;
+Signed-off-by: Matthias Kaehlcke &lt;mka@chromium.org&gt;
+Reviewed-by: Mathieu Poirier &lt;mathieu.poirier@linaro.org&gt;
+Reviewed-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Reviewed-by: Stephen Boyd &lt;swboyd@chromium.org&gt;
+Signed-off-by: Bjorn Andersson &lt;bjorn.andersson@linaro.org&gt;
+Link: https://lore.kernel.org/r/20220110104706.v6.1.Iaac908f3e3149a89190ce006ba166e2d3fd247a3@changeid</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c831d92</div>
+                                        <div class="message">irqchip/loongson-pch-ms: Use bitmap_free() to free bitmap
+
+kfree() and bitmap_free() are the same. But using the latter is more
+consistent when freeing memory allocated with bitmap_zalloc().
+
+Signed-off-by: Christophe JAILLET &lt;christophe.jaillet@wanadoo.fr&gt;
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Link: https://lore.kernel.org/r/0b982ab54844803049c217b2899baa59602faacd.1640529916.git.christophe.jaillet@wanadoo.fr</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#960dd88</div>
+                                        <div class="message">irqchip/realtek-rtl: Service all pending interrupts
+
+Instead of only servicing the lowest pending interrupt line, make sure
+all pending SoC interrupts are serviced before exiting the chained
+handler. This adds a small overhead if only one interrupt is pending,
+but should prevent rapid re-triggering of the handler.
+
+Signed-off-by: Sander Vanheule &lt;sander@svanheule.net&gt;
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Link: https://lore.kernel.org/r/5082ad3cb8b4eedf55075561b93eff6570299fe1.1641739718.git.sander@svanheule.net</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91351b5</div>
+                                        <div class="message">irqchip/realtek-rtl: Fix off-by-one in routing
+
+There is an offset between routing values (1..6) and the connected MIPS
+CPU interrupts (2..7), but no distinction was made between these two
+values.
+
+This issue was previously hidden during testing, because an interrupt
+mapping was used where for each required interrupt another (unused)
+routing was configured, with an offset of +1.
+
+Offset the CPU IRQ numbers by -1 to retrieve the correct routing value.
+
+Fixes: 9f3a0f34b84a ("irqchip: Add support for Realtek RTL838x/RTL839x interrupt controller")
+Signed-off-by: Sander Vanheule &lt;sander@svanheule.net&gt;
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Link: https://lore.kernel.org/r/177b920aa8d8610615692d0e657e509f363c85ca.1641739718.git.sander@svanheule.net</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#291e79c</div>
+                                        <div class="message">irqchip/realtek-rtl: Map control data to virq
+
+The driver assigned the irqchip and irq handler to the hardware irq,
+instead of the virq. This is incorrect, and only worked because these
+irq numbers happened to be the same on the devices used for testing the
+original driver.
+
+Fixes: 9f3a0f34b84a ("irqchip: Add support for Realtek RTL838x/RTL839x interrupt controller")
+Signed-off-by: Sander Vanheule &lt;sander@svanheule.net&gt;
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Link: https://lore.kernel.org/r/4b4936606480265db47df152f00bc2ed46340599.1641739718.git.sander@svanheule.net</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45378cd</div>
+                                        <div class="message">irqchip/apple-aic: Drop unused ipi_hwirq field
+
+This field was never used, remove it.
+
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Acked-by: Hector Martin &lt;marcan@marcan.st&gt;
+Link: https://lore.kernel.org/r/20220108140118.3378937-1-maz@kernel.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#830af2e</div>
+                                        <div class="message">netfilter: conntrack: don't increment invalid counter on NF_REPEAT
+
+The packet isn't invalid, REPEAT means we're trying again after cleaning
+out a stale connection, e.g. via tcp tracker.
+
+This caused increases of invalid stat counter in a test case involving
+frequent connection reuse, even though no packet is actually invalid.
+
+Fixes: 56a62e2218f5 ("netfilter: conntrack: fix NF_REPEAT handling")
+Signed-off-by: Florian Westphal &lt;fw@strlen.de&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94fd197</div>
+                                        <div class="message">ovl: don't fail copy up if no fileattr support on upper
+
+Christoph Fritz is reporting that failure to copy up fileattr when upper
+doesn't support fileattr or xattr results in a regression.
+
+Return success in these failure cases; this reverts overlayfs to the old
+behavior.
+
+Add a pr_warn_once() in these cases to still let the user know about the
+copy up failures.
+
+Reported-by: Christoph Fritz &lt;chf.fritz@googlemail.com&gt;
+Fixes: 72db82115d2b ("ovl: copy up sync/noatime fileattr flags")
+Cc: &lt;stable@vger.kernel.org&gt; # v5.15
+Signed-off-by: Miklos Szeredi &lt;mszeredi@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ee7e4a</div>
+                                        <div class="message">ovl: fix NULL pointer dereference in copy up warning
+
+This patch is fixing a NULL pointer dereference to get a recently
+introduced warning message working.
+
+Fixes: 5b0a414d06c3 ("ovl: fix filattr copy-up failure")
+Signed-off-by: Christoph Fritz &lt;chf.fritz@googlemail.com&gt;
+Cc: &lt;stable@vger.kernel.org&gt; # v5.15
+Signed-off-by: Miklos Szeredi &lt;mszeredi@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#094d00f</div>
+                                        <div class="message">KVM: arm64: pkvm: Use the mm_ops indirection for cache maintenance
+
+CMOs issued from EL2 cannot directly use the kernel helpers,
+as EL2 doesn't have a mapping of the guest pages. Oops.
+
+Instead, use the mm_ops indirection to use helpers that will
+perform a mapping at EL2 and allow the CMO to be effective.
+
+Fixes: 25aa28691bb9 ("KVM: arm64: Move guest CMOs to the fault handlers")
+Reviewed-by: Quentin Perret &lt;qperret@google.com&gt;
+Signed-off-by: Marc Zyngier &lt;maz@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220114125038.1336965-1-maz@kernel.org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d70984</div>
+                                        <div class="message">netfilter: nft_connlimit: memleak if nf_ct_netns_get() fails
+
+Check if nf_ct_netns_get() fails then release the limit object
+previously allocated via kmalloc().
+
+Fixes: 37f319f37d90 ("netfilter: nft_connlimit: move stateful fields out of expression data")
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d068eeb</div>
+                                        <div class="message">cgroup/cpuset: Make child cpusets restrict parents on v1 hierarchy
+
+The commit 1f1562fcd04a ("cgroup/cpuset: Don't let child cpusets
+restrict parent in default hierarchy") inteded to relax the check only
+on the default hierarchy (or v2 mode) but it dropped the check in v1
+too.
+
+This patch returns and separates the legacy-only validations so that
+they can be considered only in the v1 mode, which should enforce the old
+constraints for the sake of compatibility.
+
+Fixes: 1f1562fcd04a ("cgroup/cpuset: Don't let child cpusets restrict parent in default hierarchy")
+Suggested-by: Waiman Long &lt;longman@redhat.com&gt;
+Signed-off-by: Michal Koutný &lt;mkoutny@suse.com&gt;
+Reviewed-by: Waiman Long &lt;longman@redhat.com&gt;
+Signed-off-by: Tejun Heo &lt;tj@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe75e84</div>
+                                        <div class="message">netfilter: nf_tables: set last expression in register tracking area
+
+nft_rule_for_each_expr() sets on last to nft_rule_last(), however, this
+is coming after track.last field is set on.
+
+Use nft_expr_last() to set track.last accordingly.
+
+Fixes: 12e4ecfa244b ("netfilter: nf_tables: add register tracking infrastructure")
+Reported-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#879cf80</div>
+                                        <div class="message">regulator: max20086: fix error code in max20086_parse_regulators_dt()
+
+This code accidentally returns PTR_ERR(NULL) which is success.  It
+should return a negative error code.
+
+Fixes: bfff546aae50 ("regulator: Add MAX20086-MAX20089 driver")
+Signed-off-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
+Reviewed-by: Laurent Pinchart &lt;laurent.pinchart@ideasonboard.com&gt;
+Link: https://lore.kernel.org/r/20220111072657.GK11243@kili
+Signed-off-by: Mark Brown &lt;broonie@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf46eac</div>
+                                        <div class="message">netfilter: nf_tables: remove unused variable
+
+&gt; Remove unused variable and fix missing initialization.
+&gt;
+&gt; &gt;&gt; net/netfilter/nf_tables_api.c:8266:6: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+&gt;            int i;
+&gt;                ^
+
+Fixes: 2c865a8a28a1 ("netfilter: nf_tables: add rule blob layout")
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e90660</div>
+                                        <div class="message">netfilter: nf_conntrack_netbios_ns: fix helper module alias
+
+The helper gets registered as 'netbios-ns', not netbios_ns.
+Intentionally not adding a fixes-tag because i don't want this to go to
+stable. This wasn't noticed for a very long time so no so no need to risk
+regressions.
+
+Reported-by: Yi Chen &lt;yiche@redhat.com&gt;
+Signed-off-by: Florian Westphal &lt;fw@strlen.de&gt;
+Signed-off-by: Pablo Neira Ayuso &lt;pablo@netfilter.org&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -552,7 +915,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 08:02:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 09:19:44 (timezone Asia/Jakarta) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
