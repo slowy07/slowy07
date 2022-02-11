@@ -40,6 +40,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
     <img src="https://img.icons8.com/color/50/000000/dart.png"/>
     <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
 </p>
+
 ## static
 
 ![contrib](https://github.com/slowy07/slowy07/blob/acf960ecb465ede0cfb3c8a23207606283f944ea/contribution.svg)
