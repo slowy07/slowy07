@@ -25,7 +25,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 | [Quantum computing](https://github.com/slowy07/quantum_computing) | list example and explanation quantum computing algorithm |
 
 
-## programming skills
+## skills
 
 <!-- ![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -39,6 +39,9 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
     <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/50/000000/dart.png"/>
     <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
+    <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
+    <img src="https://img.icons8.com/fluency/50/000000/flutter.png"/>
+    <img src="https://img.icons8.com/color/50/000000/figma--v1.png"/>
 </p>
 
 ## static
