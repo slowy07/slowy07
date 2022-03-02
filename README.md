@@ -15,7 +15,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
 
-![gitStat](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=bear)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=onedark)
 
 ## recent project
 
