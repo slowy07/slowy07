@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="940" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1228" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5465 Commits
+                            5466 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27k added, 1.48k removed
+                                    27.2k added, 1.48k removed
                                 </div>
                             </section>
                             <section>
@@ -165,7 +165,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    20 Languages
+                    23 Languages
                 </h2>
             </section>
             <section class="column">
@@ -209,7 +209,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 26 edited files from 37 commits over last 5 days</small>
+                <small>estimation from 26 edited files from 39 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -253,7 +253,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 48 commits)</small>
+                    <small class="h-details">(computed from last 50 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
@@ -348,8 +348,8 @@
                         16
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">6</span>
+                        <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         17
                     </div>
                     <div class="entry">
@@ -394,8 +394,8 @@
                             Wed
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -497,15 +497,364 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/slowy07</span>
+                                        Pushed 975 commits in
+                                        <span class="repo">slowy07/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#03c106b</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#94bfe2b</div>
+                                        <div class="message">MAINTAINERS: add reviewer entry for Samsung/Exynos platform
+
+Adds myself as reviewer for Samsung/Exynos platform to help
+in review of current and upcoming SoCs patches.
+
+Signed-off-by: Alim Akhtar &lt;alim.akhtar@samsung.com&gt;
+Acked-by: Sylwester Nawrocki &lt;s.nawrocki@samsung.com&gt;
+Link: https://lore.kernel.org/r/20220105164341.27479-1-alim.akhtar@samsung.com
+Signed-off-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@canonical.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5fbaf7</div>
+                                        <div class="message">arm64: dts: rockchip: Switch RK3399-Gru DP to SPDIF output
+
+Commit b18c6c3c7768 ("ASoC: rockchip: cdn-dp sound output use spdif")
+switched the platform to SPDIF, but we didn't fix up the device tree.
+
+Drop the pinctrl settings, because the 'spdif_bus' pins are either:
+ * unused (on kevin, bob), so the settings is ~harmless
+ * used by a different function (on scarlet), which causes probe
+   failures (!!)
+
+Fixes: b18c6c3c7768 ("ASoC: rockchip: cdn-dp sound output use spdif")
+Signed-off-by: Brian Norris &lt;briannorris@chromium.org&gt;
+Reviewed-by: Chen-Yu Tsai &lt;wenst@chromium.org&gt;
+Link: https://lore.kernel.org/r/20220114150129.v2.1.I46f64b00508d9dff34abe1c3e8d2defdab4ea1e5@changeid
+Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed2c66a</div>
+                                        <div class="message">arm64: dts: rockchip: fix rk3399-puma-haikou USB OTG mode
+
+The micro USB3.0 port available on the Haikou evaluation kit for Puma
+RK3399-Q7 SoM supports dual-role model (aka drd or OTG) but its support
+was broken until now because of missing logic around the ID pin.
+
+This adds proper support for USB OTG on Puma Haikou by "connecting" the
+GPIO used for USB ID to the USB3 controller device.
+
+Cc: Quentin Schulz &lt;foss+kernel@0leil.net&gt;
+Signed-off-by: Quentin Schulz &lt;quentin.schulz@theobroma-systems.com&gt;
+Link: https://lore.kernel.org/r/20220120125156.16217-1-quentin.schulz@theobroma-systems.com
+Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5070ce8</div>
+                                        <div class="message">phy: broadcom: Kconfig: Fix PHY_BRCM_USB config option
+
+The previous commit 4b402fa8e0b7 ("phy: phy-brcm-usb: support PHY on
+the BCM4908") added a second "default" line for ARCH_BCM_4908 above
+the original "default" line for ARCH_BRCMSTB. When two "default"
+lines are used, only the first is used and this change stopped
+the PHY_BRCM_USB option for being enabled for ARCH_BRCMSTB.
+The fix is to use one "default line with "||".
+
+Fixes: 4b402fa8e0b7 ("phy: phy-brcm-usb: support PHY on the BCM4908")
+Signed-off-by: Al Cooper &lt;alcooperx@gmail.com&gt;
+Acked-by: Rafał Miłecki &lt;rafal@milecki.pl&gt;
+Acked-by: Florian Fainelli &lt;f.fainelli@gmail.com&gt;
+Link: https://lore.kernel.org/r/20211201180653.35097-4-alcooperx@gmail.com
+Signed-off-by: Vinod Koul &lt;vkoul@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42fed57</div>
+                                        <div class="message">phy: usb: Leave some clocks running during suspend
+
+The PHY client driver does a phy_exit() call on suspend or rmmod and
+the PHY driver needs to know the difference because some clocks need
+to be kept running for suspend but can be shutdown on unbind/rmmod
+(or if there are no PHY clients at all).
+
+The fix is to use a PM notifier so the driver can tell if a PHY
+client is calling exit() because of a system suspend or a driver
+unbind/rmmod.
+
+Signed-off-by: Al Cooper &lt;alcooperx@gmail.com&gt;
+Acked-by: Florian Fainelli &lt;f.fainelli@gmail.com&gt;
+Link: https://lore.kernel.org/r/20211201180653.35097-2-alcooperx@gmail.com
+Signed-off-by: Vinod Koul &lt;vkoul@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85a8bcc</div>
+                                        <div class="message">arm64: dts: rockchip: drop pclk_xpcs from gmac0 on rk3568
+
+pclk_xpcs is not supported by mainline driver and breaks dtbs_check
+
+following warnings occour, and many more
+
+rk3568-evb1-v10.dt.yaml: ethernet@fe2a0000: clocks:
+    [[15, 386], [15, 389], [15, 389], [15, 184], [15, 180], [15, 181],
+    [15, 389], [15, 185], [15, 172]] is too long
+	From schema: Documentation/devicetree/bindings/net/snps,dwmac.yaml
+rk3568-evb1-v10.dt.yaml: ethernet@fe2a0000: clock-names:
+    ['stmmaceth', 'mac_clk_rx', 'mac_clk_tx', 'clk_mac_refout', 'aclk_mac',
+    'pclk_mac', 'clk_mac_speed', 'ptp_ref', 'pclk_xpcs'] is too long
+	From schema: Documentation/devicetree/bindings/net/snps,dwmac.yaml
+
+after removing it, the clock and other warnings are gone.
+
+pclk_xpcs on gmac is used to support QSGMII, but this requires a driver
+supporting it.
+Once xpcs support is introduced, the clock can be added to the
+documentation and both controllers.
+
+Fixes: b8d41e5053cd ("arm64: dts: rockchip: add gmac0 node to rk3568")
+Co-developed-by: Peter Geis &lt;pgwipeout@gmail.com&gt;
+Signed-off-by: Peter Geis &lt;pgwipeout@gmail.com&gt;
+Signed-off-by: Frank Wunderlich &lt;frank-w@public-files.de&gt;
+Acked-by: Michael Riesch &lt;michael.riesch@wolfvision.net&gt;
+Link: https://lore.kernel.org/r/20220123133510.135651-1-linux@fw-web.de
+Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ddd96a</div>
+                                        <div class="message">arm64: dts: rockchip: fix dma-controller node names on rk356x
+
+DMA-Cotrollers defined in rk356x.dtsi do not match the pattern in bindings.
+
+arch/arm64/boot/dts/rockchip/rk3568-evb1-v10.dt.yaml:
+  dmac@fe530000: $nodename:0: 'dmac@fe530000' does not match '^dma-controller(@.*)?$'
+	From schema: Documentation/devicetree/bindings/dma/arm,pl330.yaml
+arch/arm64/boot/dts/rockchip/rk3568-evb1-v10.dt.yaml:
+  dmac@fe550000: $nodename:0: 'dmac@fe550000' does not match '^dma-controller(@.*)?$'
+	From schema: Documentation/devicetree/bindings/dma/arm,pl330.yaml
+
+This Patch fixes it.
+
+Signed-off-by: Frank Wunderlich &lt;frank-w@public-files.de&gt;
+Link: https://lore.kernel.org/r/20220123133615.135789-1-linux@fw-web.de
+Signed-off-by: Heiko Stuebner &lt;heiko@sntech.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e26a780</div>
+                                        <div class="message">HID: apple: Set the tilde quirk flag on the Wellspring 5 and later
+
+Markus reports that his 2011 MacBook with a German ISO keyboard (USB
+product code 05ac:0246, HID country code 13) has the tilde key quirk.
+Seeing as all of the standalone Apple ISO keyboards since about 2008
+have the quirk, it seems reasonable to assume that once the integrated
+laptop keyboards started having the quirk, they likewise never stopped
+having it.
+
+Reported-by: Markus Wageringel &lt;markus.wageringel@gmail.com&gt;
+Signed-off-by: Alex Henrie &lt;alexhenrie24@gmail.com&gt;
+Signed-off-by: Jiri Kosina &lt;jkosina@suse.cz&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d72d69a</div>
+                                        <div class="message">drm/i915/gvt: Make DRM_I915_GVT depend on X86
+
+GVT is not supported on non-x86 platforms, So add
+dependency of X86 on config parameter DRM_I915_GVT.
+
+Fixes: 0ad35fed618c ("drm/i915: gvt: Introduce the basic architecture of GVT-g")
+Signed-off-by: Siva Mullati &lt;siva.mullati@intel.com&gt;
+Signed-off-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;
+Link: http://patchwork.freedesktop.org/patch/msgid/20220107095235.243448-1-siva.mullati@intel.com
+Reviewed-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;
+Signed-off-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91c64a4</div>
+                                        <div class="message">drm/i915/gvt: clean up kernel-doc in gtt.c
+
+Fix kernel-doc warnings in gtt.c:
+
+gtt.c:1152: warning: This comment starts with '/**', but isn't a kernel-doc comment. Refer Documentation/doc-guide/kernel-doc.rst
+ * Check if can do 2M page
+gtt.c:1152: warning: missing initial short description on line:
+ * Check if can do 2M page
+gtt.c:2209: warning: expecting prototype for intel_vgpu_emulate_gtt_mmio_read(). Prototype was for intel_vgpu_emulate_ggtt_mmio_read() instead
+
+Fixes: a752b070a678 ("drm/i915/gvt: Fix function comment doc errors")
+Fixes: 2707e4446688 ("drm/i915/gvt: vGPU graphics memory virtualization")
+Signed-off-by: Randy Dunlap &lt;rdunlap@infradead.org&gt;
+Reported-by: kernel test robot &lt;lkp@intel.com&gt;
+Cc: Zhenyu Wang &lt;zhenyuw@linux.intel.com&gt;
+Cc: Zhi Wang &lt;zhi.a.wang@intel.com&gt;
+Cc: Colin Xu &lt;colin.xu@intel.com&gt;
+Cc: Jani Nikula &lt;jani.nikula@linux.intel.com&gt;
+Cc: Joonas Lahtinen &lt;joonas.lahtinen@linux.intel.com&gt;
+Cc: Rodrigo Vivi &lt;rodrigo.vivi@intel.com&gt;
+Cc: intel-gfx@lists.freedesktop.org
+Cc: intel-gvt-dev@lists.freedesktop.org
+Cc: dri-devel@lists.freedesktop.org
+Cc: David Airlie &lt;airlied@linux.ie&gt;
+Cc: Daniel Vetter &lt;daniel@ffwll.ch&gt;
+Signed-off-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;
+Link: http://patchwork.freedesktop.org/patch/msgid/20211003052334.15764-1-rdunlap@infradead.org
+Reviewed-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;
+Signed-off-by: Zhi Wang &lt;zhi.a.wang@intel.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3375aa7</div>
+                                        <div class="message">ARM: dts: meson8b: Fix the UART device-tree schema validation
+
+The dt-bindings for the UART controller only allow the following values
+for Meson8 SoCs:
+- "amlogic,meson8b-uart", "amlogic,meson-ao-uart"
+- "amlogic,meson8b-uart"
+
+Use the correct fallback compatible string "amlogic,meson-ao-uart" for
+AO UART. Drop the "amlogic,meson-uart" compatible string from the EE
+domain UART controllers.
+
+Also update the order of the clocks to match the order defined in the
+yaml bindings.
+
+Fixes: b02d6e73f5fc96 ("ARM: dts: meson8b: use stable UART bindings with correct gate clock")
+Signed-off-by: Martin Blumenstingl &lt;martin.blumenstingl@googlemail.com&gt;
+Signed-off-by: Neil Armstrong &lt;narmstrong@baylibre.com&gt;
+Link: https://lore.kernel.org/r/20211227180026.4068352-4-martin.blumenstingl@googlemail.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57007bf</div>
+                                        <div class="message">ARM: dts: meson8: Fix the UART device-tree schema validation
+
+The dt-bindings for the UART controller only allow the following values
+for Meson8 SoCs:
+- "amlogic,meson8-uart", "amlogic,meson-ao-uart"
+- "amlogic,meson8-uart"
+
+Use the correct fallback compatible string "amlogic,meson-ao-uart" for
+AO UART. Drop the "amlogic,meson-uart" compatible string from the EE
+domain UART controllers.
+
+Also update the order of the clocks to match the order defined in the
+yaml schema.
+
+Fixes: 6ca77502050eff ("ARM: dts: meson8: use stable UART bindings with correct gate clock")
+Signed-off-by: Martin Blumenstingl &lt;martin.blumenstingl@googlemail.com&gt;
+Signed-off-by: Neil Armstrong &lt;narmstrong@baylibre.com&gt;
+Link: https://lore.kernel.org/r/20211227180026.4068352-3-martin.blumenstingl@googlemail.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5225e1b</div>
+                                        <div class="message">ARM: dts: meson: Fix the UART compatible strings
+
+The dt-bindings for the UART controller only allow the following values
+for Meson6 SoCs:
+- "amlogic,meson6-uart", "amlogic,meson-ao-uart"
+- "amlogic,meson6-uart"
+
+Use the correct fallback compatible string "amlogic,meson-ao-uart" for
+AO UART. Drop the "amlogic,meson-uart" compatible string from the EE
+domain UART controllers.
+
+Fixes: ec9b59162fd831 ("ARM: dts: meson6: use stable UART bindings")
+Signed-off-by: Martin Blumenstingl &lt;martin.blumenstingl@googlemail.com&gt;
+Signed-off-by: Neil Armstrong &lt;narmstrong@baylibre.com&gt;
+Link: https://lore.kernel.org/r/20211227180026.4068352-2-martin.blumenstingl@googlemail.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dc701e</div>
+                                        <div class="message">MAINTAINERS: Add Apple watchdog to ARM/APPLE MACHINE SUPPORT
+
+Add apple_wdt.c under the ARM/APPLE MACHINE SUPPORT entry.
+
+Signed-off-by: Sven Peter &lt;sven@svenpeter.dev&gt;
+Signed-off-by: Hector Martin &lt;marcan@marcan.st&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31aa705</div>
+                                        <div class="message">ARM: dts: Don't use legacy clock defines for dra7 clkctrl
+
+Looks like we are still using legacy clock defines for dra7. We want to
+stop using these as it prevents dropping the legacy clocks. Note that
+this is just a cosmetic fix.
+
+Cc: Tero Kristo &lt;kristo@kernel.org&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9206a3a</div>
+                                        <div class="message">clk: ti: Move dra7 clock devices out of the legacy section
+
+I accidentally added some dra7 clock defines to the legacy section that
+we want to stop using. Let's move the defines to the right location.
+Note that this is just a cosmetic fix.
+
+Cc: linux-clk@vger.kernel.org
+Cc: Stephen Boyd &lt;sboyd@kernel.org&gt;
+Cc: Tero Kristo &lt;kristo@kernel.org&gt;
+Acked-by: Rob Herring &lt;robh@kernel.org&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2388538</div>
+                                        <div class="message">ARM: dts: Fix timer regression for beagleboard revision c
+
+Commit e428e250fde6 ("ARM: dts: Configure system timers for omap3")
+caused a timer regression for beagleboard revision c where the system
+clockevent stops working if omap3isp module is unloaded.
+
+Turns out we still have beagleboard revisions a-b4 capacitor c70 quirks
+applied that limit the usable timers for no good reason. This also affects
+the power management as we use the system clock instead of the 32k clock
+source.
+
+Let's fix the issue by adding a new omap3-beagle-ab4.dts for the old timer
+quirks. This allows us to remove the timer quirks for later beagleboard
+revisions. We also need to update the related timer quirk check for the
+correct compatible property.
+
+Fixes: e428e250fde6 ("ARM: dts: Configure system timers for omap3")
+Cc: linux-kernel@vger.kernel.org
+Cc: Daniel Lezcano &lt;daniel.lezcano@linaro.org&gt;
+Cc: Thomas Gleixner &lt;tglx@linutronix.de&gt;
+Cc: Rob Herring &lt;robh+dt@kernel.org&gt;
+Reported-by: Jarkko Nikula &lt;jarkko.nikula@bitmer.com&gt;
+Tested-by: Jarkko Nikula &lt;jarkko.nikula@bitmer.com&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29a5e84</div>
+                                        <div class="message">ARM: dts: am335x-wega: Fix typo in mcasp property rx-num-evt
+
+Fix the property name 'rx-num-evt'.
+
+Signed-off-by: Jayesh Choudhary &lt;j-choudhary@ti.com&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34596ba</div>
+                                        <div class="message">ARM: OMAP2+: adjust the location of put_device() call in omapdss_init_of
+
+This was found by coccicheck:
+./arch/arm/mach-omap2/display.c, 272, 1-7, ERROR missing put_device;
+call of_find_device_by_node on line 258, but without a corresponding
+object release within this function.
+
+Move the put_device() call before the if judgment.
+
+Reported-by: Zeal Robot &lt;zealci@zte.com.cn&gt;
+Signed-off-by: Ye Guojin &lt;ye.guojin@zte.com.cn&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80c469a</div>
+                                        <div class="message">ARM: OMAP2+: hwmod: Add of_node_put() before break
+
+Fix following coccicheck warning:
+./arch/arm/mach-omap2/omap_hwmod.c:753:1-23: WARNING: Function
+for_each_matching_node should have of_node_put() before break
+
+Early exits from for_each_matching_node should decrement the
+node reference counter.
+
+Signed-off-by: Wan Jiabing &lt;wanjiabing@vivo.com&gt;
+Signed-off-by: Tony Lindgren &lt;tony@atomide.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -515,7 +864,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2022, 17:38:11 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 18:32:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
