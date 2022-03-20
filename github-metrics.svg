@@ -446,24 +446,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.5540427896638%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">93%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Go</span>
-                            <div class="bar" style="width: 3.845512642400667%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 0.8891358710752988%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 44.44444444444444%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">56%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 0.7113086968602389%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 35.55555555555556%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">44%</span>
                         </div>
                     </div>
                 </section>
@@ -542,7 +532,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2022, 22:37:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 20 Mar 2022, 23:49:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
