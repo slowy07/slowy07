@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1262" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.rss{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -121,7 +121,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    22.7 GB used
+                                    22.8 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -165,7 +165,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    21 Languages
+                    24 Languages
                 </h2>
             </section>
             <section class="column">
@@ -221,7 +221,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 10 edited files from 27 commits over last 6 days</small>
+                <small>estimation from 10 edited files from 28 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -270,7 +270,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 50.6 characters per line of code written</li>
+                        <li>Has approximately 50.5 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -391,13 +391,13 @@
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             23
                         </div>
                     </div>
@@ -536,17 +536,505 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/slowy07.github.io</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">slowy07/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98627fb</div>
-                                        <div class="message">feat: update
+                                        <div class="sha">#6c4bcd8</div>
+                                        <div class="message">Merge tag 'block-5.17-2022-03-18' of git://git.kernel.dk/linux-block
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+Pull block fixes from Jens Axboe:
+
+ - Revert of a nvme target feature (Hannes)
+
+ - Fix a memory leak with rq-qos (Ming)
+
+* tag 'block-5.17-2022-03-18' of git://git.kernel.dk/linux-block:
+  nvmet: revert "nvmet: make discovery NQN configurable"
+  block: release rq qos structures for queue without disk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e371d9</div>
+                                        <div class="message">Merge tag 'spi-nor/for-5.18' into mtd/next
+
+SPI NOR core changes:
+- move vendor specific code out of the core into vendor drivers.
+- unify all function and object names in the vendor modules.
+- make setup() callback optional to improve readability.
+- skip erase logic when the SPI_NOR_NO_ERASE flag is set at flash
+  declaration.
+
+Signed-off-by: Miquel Raynal &lt;miquel.raynal@bootlin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cced514</div>
+                                        <div class="message">Merge tag 'drm-fixes-2022-03-18' of git://anongit.freedesktop.org/drm/drm
+
+Pull drm fixes from Dave Airlie:
+ "A few minor changes to finish things off, one mgag200 regression, imx
+  fix and couple of panel changes.
+
+  imx:
+   - Don't test bus flags in atomic check
+
+  mgag200:
+   - Fix PLL setup on some models
+
+  panel:
+   - Fix bpp settings on Innolux G070Y2-L01
+   - Fix DRM_PANEL_EDP Kconfig dependencies"
+
+* tag 'drm-fixes-2022-03-18' of git://anongit.freedesktop.org/drm/drm:
+  drm: Don't make DRM_PANEL_BRIDGE dependent on DRM_KMS_HELPERS
+  drm/panel: simple: Fix Innolux G070Y2-L01 BPP settings
+  drm/imx: parallel-display: Remove bus flags check in imx_pd_bridge_atomic_check()
+  drm/mgag200: Fix PLL setup for g200wb and g200ew</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#046e153</div>
+                                        <div class="message">net: set default rss queues num to physical cores / 2
+
+Network drivers can call to netif_get_num_default_rss_queues to get the
+default number of receive queues to use. Right now, this default number
+is min(8, num_online_cpus()).
+
+Instead, as suggested by Jakub, use the number of physical cores divided
+by 2 as a way to avoid wasting CPU resources and to avoid using both CPU
+threads, but still allowing to scale for high-end processors with many
+cores.
+
+As an exception, select 2 queues for processors with 2 cores, because
+otherwise it won't take any advantage of RSS despite being SMP capable.
+
+Tested: Processor Intel Xeon E5-2620 (2 sockets, 6 cores/socket, 2
+threads/core). NIC Broadcom NetXtreme II BCM57810 (10GBps). Ran some
+tests with `perf stat iperf3 -R`, with parallelisms of 1, 8 and 24,
+getting the following results:
+- Number of queues: 6 (instead of 8)
+- Network throughput: not affected
+- CPU usage: utilized 0.05-0.12 CPUs more than before (having 24 CPUs
+  this is only 0.2-0.5% higher)
+- Reduced the number of context switches by 7-50%, being more noticeable
+  when using a higher number of parallel threads.
+
+Suggested-by: Jakub Kicinski &lt;kuba@kernel.org&gt;
+Signed-off-by: Íñigo Huguet &lt;ihuguet@redhat.com&gt;
+Link: https://lore.kernel.org/r/20220315091832.13873-1-ihuguet@redhat.com
+Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87e0eac</div>
+                                        <div class="message">RDMA/nldev: Prevent underflow in nldev_stat_set_counter_dynamic_doit()
+
+This code checks "index" for an upper bound but it does not check for
+negatives.  Change the type to unsigned to prevent underflows.
+
+Fixes: 3c3c1f141639 ("RDMA/nldev: Allow optional-counter status configuration through RDMA netlink")
+Link: https://lore.kernel.org/r/20220316083948.GC30941@kili
+Signed-off-by: Dan Carpenter &lt;dan.carpenter@oracle.com&gt;
+Reviewed-by: Leon Romanovsky &lt;leonro@nvidia.com&gt;
+Signed-off-by: Jason Gunthorpe &lt;jgg@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31035f3</div>
+                                        <div class="message">Merge branch 'thermal-hfi'
+
+Merge Intel Hardware Feedback Interface (HFI) thermal driver for
+5.18-rc1 and update the intel-speed-select utility to support that
+driver.
+
+* thermal-hfi:
+  tools/power/x86/intel-speed-select: v1.12 release
+  tools/power/x86/intel-speed-select: HFI support
+  tools/power/x86/intel-speed-select: OOB daemon mode
+  thermal: intel: hfi: INTEL_HFI_THERMAL depends on NET
+  thermal: netlink: Fix parameter type of thermal_genl_cpu_capability_event() stub
+  thermal: intel: hfi: Notify user space for HFI events
+  thermal: netlink: Add a new event to notify CPU capabilities change
+  thermal: intel: hfi: Enable notification interrupt
+  thermal: intel: hfi: Handle CPU hotplug events
+  thermal: intel: hfi: Minimally initialize the Hardware Feedback Interface
+  x86/cpu: Add definitions for the Intel Hardware Feedback Interface
+  x86/Documentation: Describe the Intel Hardware Feedback Interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d6fc14</div>
+                                        <div class="message">Merge branches 'thermal-powerclamp', 'thermal-int340x' and 'thermal-docs'
+
+Merge powerclamp thermal driver changes, int340x thermal driver changes
+and thermal documentation changes for 5.18-rc1:
+
+ - Don't use bitmap_weight() in end_power_clamp() in the powerclamp
+   driver (Yury Norov).
+
+ - Update the OS policy capabilities handshake in the int340x thermal
+   driver (Srinivas Pandruvada).
+
+ - Increase the policies bitmap size in int340x (Srinivas Pandruvada).
+
+ - Replace acpi_bus_get_device() with acpi_fetch_acpi_dev() in the
+   int340x thermal driver (Rafael Wysocki).
+
+ - Check for NULL after calling kmemdup() in int340x (Jiasheng Jiang).
+
+ - Add Intel Dynamic Power and Thermal Framework (DPTF) kernel interface
+   documentation (Srinivas Pandruvada).
+
+ - Fix bullet list warning in the thermal documentation (Randy Dunlap).
+
+* thermal-powerclamp:
+  thermal: intel_powerclamp: don't use bitmap_weight() in end_power_clamp()
+
+* thermal-int340x:
+  thermal: int340x: Update OS policy capability handshake
+  thermal: int340x: Increase bitmap size
+  thermal: Replace acpi_bus_get_device()
+  thermal: int340x: Check for NULL after calling kmemdup()
+
+* thermal-docs:
+  Documentation: thermal: DPTF Documentation
+  thermal: fix Documentation bullet list warning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec3d8b8</div>
+                                        <div class="message">Merge branch 'pm-tools'
+
+Merge power management utilities changes for 5.18-rc1:
+
+ - Add tracer tool for the amd-pstate driver (Jinzhou Su).
+
+ - Fix PC6 displaying in turbostat on some systems (Artem Bityutskiy).
+
+ - Add AMD P-State support to the cpupower utility (Huang Rui).
+
+* pm-tools:
+  Documentation: amd-pstate: add tracer tool introduction
+  tools/power/x86/amd_pstate_tracer: Add tracer tool for AMD P-state
+  tools/power/x86/intel_pstate_tracer: make tracer as a module
+  cpufreq: amd-pstate: Add more tracepoint for AMD P-State module
+  turbostat: fix PC6 displaying on some systems
+  cpupower: Add "perf" option to print AMD P-State information
+  cpupower: Add function to print AMD P-State performance capabilities
+  cpupower: Move print_speed function into misc helper
+  cpupower: Enable boost state support for AMD P-State module
+  cpupower: Add AMD P-State sysfs definition and access helper
+  cpupower: Introduce ACPI CPPC library
+  cpupower: Add the function to get the sysfs value from specific table
+  cpupower: Initial AMD P-State capability
+  cpupower: Add the function to check AMD P-State enabled
+  cpupower: Add AMD P-State capability flag
+  tools/power/cpupower/{ToDo =&gt; TODO}: Rename the todo file
+  tools: cpupower: fix typo in cpupower-idle-set(1) manpage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e92936</div>
+                                        <div class="message">io_uring: terminate manual loop iterator loop correctly for non-vecs
+
+The fix for not advancing the iterator if we're using fixed buffers is
+broken in that it can hit a condition where we don't terminate the loop.
+This results in io-wq looping forever, asking to read (or write) 0 bytes
+for every subsequent loop.
+
+Reported-by: Joel Jaeschke &lt;joel.jaeschke@gmail.com&gt;
+Link: https://github.com/axboe/liburing/issues/549
+Fixes: 16c8d2df7ec0 ("io_uring: ensure symmetry in handling iter types in loop_rw_iter()")
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac9f310</div>
+                                        <div class="message">Merge branch 'powercap'
+
+Merge Dynamic Thermal Power Management (DTPM) changes for 5.18-rc1:
+
+ - Add DTPM hierarchy description (Daniel Lezcano).
+
+ - Change the locking scheme in DTPM (Daniel Lezcano).
+
+ - Fix dtpm_cpu cleanup at exit time and missing virtual DTPM pointer
+   release (Daniel Lezcano).
+
+ - Make dtpm_node_callback[] static (kernel test robot).
+
+ - Fix spelling mistake "initialze" -&gt; "initialize" in
+   dtpm_create_hierarchy() (Colin Ian King).
+
+* powercap:
+  powercap: DTPM: Fix spelling mistake "initialze" -&gt; "initialize"
+  powercap: DTPM: dtpm_node_callback[] can be static
+  dtpm/soc/rk3399: Add the ability to unload the module
+  powercap/dtpm_cpu: Add exit function
+  powercap/dtpm: Move the 'root' reset place
+  powercap/dtpm: Destroy hierarchy function
+  powercap/dtpm: Fixup kfree for virtual node
+  powercap/dtpm_cpu: Reset per_cpu variable in the release function
+  powercap/dtpm: Change locking scheme
+  rockchip/soc/drivers: Add DTPM description for rk3399
+  powercap/drivers/dtpm: Add dtpm devfreq with energy model support
+  powercap/drivers/dtpm: Add CPU DT initialization support
+  powercap/drivers/dtpm: Add hierarchy creation
+  powercap/drivers/dtpm: Convert the init table section to a simple array</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e11a5e</div>
+                                        <div class="message">IB/iser: Fix error flow in case of registration failure
+
+During READ/WRITE preparation, in case of failure in memory registration
+using iser_reg_mem_fastreg we must unmap previously mapped iser task.
+
+Link: https://lore.kernel.org/r/20220308145546.8372-5-mgurtovoy@nvidia.com
+Reviewed-by: Sergey Gorenko &lt;sergeygo@nvidia.com&gt;
+Signed-off-by: Max Gurtovoy &lt;mgurtovoy@nvidia.com&gt;
+Acked-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Signed-off-by: Jason Gunthorpe &lt;jgg@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80303ee</div>
+                                        <div class="message">IB/iser: Generalize map/unmap dma tasks
+
+Avoid code duplication and add the mapping/unmapping of the protection
+buffers to the iser_dma_map_task_data/iser_dma_unmap_task_data functions.
+
+Link: https://lore.kernel.org/r/20220308145546.8372-4-mgurtovoy@nvidia.com
+Reviewed-by: Sergey Gorenko &lt;sergeygo@nvidia.com&gt;
+Signed-off-by: Max Gurtovoy &lt;mgurtovoy@nvidia.com&gt;
+Acked-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Signed-off-by: Jason Gunthorpe &lt;jgg@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee4efea</div>
+                                        <div class="message">IB/iser: Use iser_fr_desc as registration context
+
+After removing the FMR support in iSER, there is only one type of
+registration context. Replace the void pointer with the explicit structure
+for registration (struct iser_fr_desc).
+
+Link: https://lore.kernel.org/r/20220308145546.8372-3-mgurtovoy@nvidia.com
+Reviewed-by: Sergey Gorenko &lt;sergeygo@nvidia.com&gt;
+Signed-off-by: Max Gurtovoy &lt;mgurtovoy@nvidia.com&gt;
+Acked-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Signed-off-by: Jason Gunthorpe &lt;jgg@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f68d74</div>
+                                        <div class="message">IB/iser: Remove iser_reg_data_sg helper function
+
+Open coding it makes the code more readable and simple.
+
+Link: https://lore.kernel.org/r/20220308145546.8372-2-mgurtovoy@nvidia.com
+Reviewed-by: Sergey Gorenko &lt;sergeygo@nvidia.com&gt;
+Signed-off-by: Max Gurtovoy &lt;mgurtovoy@nvidia.com&gt;
+Acked-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Signed-off-by: Jason Gunthorpe &lt;jgg@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfad78e</div>
+                                        <div class="message">Merge branches 'pm-sleep', 'pm-domains' and 'pm-docs'
+
+Merge changes related to system sleep, PM domains changes and power
+management documentation changes for 5.18-rc1:
+
+ - Fix load_image_and_restore() error path (Ye Bin).
+
+ - Fix typos in comments in the system wakeup hadling code (Tom Rix).
+
+ - Clean up non-kernel-doc comments in hibernation code (Jiapeng
+   Chong).
+
+ - Fix __setup handler error handling in system-wide suspend and
+   hibernation core code (Randy Dunlap).
+
+ - Add device name to suspend_report_result() (Youngjin Jang).
+
+ - Make virtual guests honour ACPI S4 hardware signature by
+   default (David Woodhouse).
+
+ - Block power off of a parent PM domain unless child is in deepest
+   state (Ulf Hansson).
+
+ - Use dev_err_probe() to simplify error handling for generic PM
+   domains (Ahmad Fatoum).
+
+ - Fix sleep-in-atomic bug caused by genpd_debug_remove() (Shawn Guo).
+
+ - Document Intel uncore frequency scaling (Srinivas Pandruvada).
+
+* pm-sleep:
+  PM: hibernate: Honour ACPI hardware signature by default for virtual guests
+  PM: sleep: Add device name to suspend_report_result()
+  PM: suspend: fix return value of __setup handler
+  PM: hibernate: fix __setup handler error handling
+  PM: hibernate: Clean up non-kernel-doc comments
+  PM: sleep: wakeup: Fix typos in comments
+  PM: hibernate: fix load_image_and_restore() error path
+
+* pm-domains:
+  PM: domains: Fix sleep-in-atomic bug caused by genpd_debug_remove()
+  PM: domains: use dev_err_probe() to simplify error handling
+  PM: domains: Prevent power off for parent unless child is in deepest state
+
+* pm-docs:
+  Documentation: admin-guide: pm: Document uncore frequency scaling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd66409</div>
+                                        <div class="message">binfmt_elf: Don't write past end of notes for regset gap
+
+In fill_thread_core_info() the ptrace accessible registers are collected
+to be written out as notes in a core file. The note array is allocated
+from a size calculated by iterating the user regset view, and counting the
+regsets that have a non-zero core_note_type. However, this only allows for
+there to be non-zero core_note_type at the end of the regset view. If
+there are any gaps in the middle, fill_thread_core_info() will overflow the
+note allocation, as it iterates over the size of the view and the
+allocation would be smaller than that.
+
+There doesn't appear to be any arch that has gaps such that they exceed
+the notes allocation, but the code is brittle and tries to support
+something it doesn't. It could be fixed by increasing the allocation size,
+but instead just have the note collecting code utilize the array better.
+This way the allocation can stay smaller.
+
+Even in the case of no arch's that have gaps in their regset views, this
+introduces a change in the resulting indicies of t-&gt;notes. It does not
+introduce any changes to the core file itself, because any blank notes are
+skipped in write_note_info().
+
+In case, the allocation logic between fill_note_info() and
+fill_thread_core_info() ever diverges from the usage logic, warn and skip
+writing any notes that would overflow the array.
+
+This fix is derrived from an earlier one[0] by Yu-cheng Yu.
+
+[0] https://lore.kernel.org/lkml/20180717162502.32274-1-yu-cheng.yu@intel.com/
+
+Co-developed-by: Yu-cheng Yu &lt;yu-cheng.yu@intel.com&gt;
+Signed-off-by: Yu-cheng Yu &lt;yu-cheng.yu@intel.com&gt;
+Signed-off-by: Rick Edgecombe &lt;rick.p.edgecombe@intel.com&gt;
+Signed-off-by: Kees Cook &lt;keescook@chromium.org&gt;
+Link: https://lore.kernel.org/r/20220317192013.13655-4-rick.p.edgecombe@intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86c17c4</div>
+                                        <div class="message">Merge branches 'pm-cpufreq' and 'pm-cpuidle'
+
+Merge cpufreq and cpuidle changes for 5.18-rc1:
+
+ - Make the schedutil cpufreq governor use to_gov_attr_set() instead
+   of open coding it (Kevin Hao).
+
+ - Replace acpi_bus_get_device() with acpi_fetch_acpi_dev() in the
+   cpufreq longhaul driver (Rafael Wysocki).
+
+ - Unify show() and store() naming in cpufreq and make it use
+   __ATTR_XX (Lianjie Zhang).
+
+ - Make the intel_pstate driver use the EPP value set by the firmware
+   by default (Srinivas Pandruvada).
+
+ - Re-order the init checks in the powernow-k8 cpufreq driver (Mario
+   Limonciello).
+
+ - Make the ACPI processor idle driver check for architectural
+   support for LPI to avoid using it on x86 by mistake (Mario
+   Limonciello).
+
+ - Add Sapphire Rapids Xeon support to the intel_idle driver (Artem
+   Bityutskiy).
+
+ - Add 'preferred_cstates' module argument to the intel_idle driver
+   to work around C1 and C1E handling issue on Sapphire Rapids (Artem
+   Bityutskiy).
+
+ - Add core C6 optimization on Sapphire Rapids to the intel_idle
+   driver (Artem Bityutskiy).
+
+ - Optimize the haltpoll cpuidle driver a bit (Li RongQing).
+
+ - Remove leftover text from intel_idle() kerneldoc comment and fix
+   up white space in intel_idle (Rafael Wysocki).
+
+* pm-cpufreq:
+  cpufreq: powernow-k8: Re-order the init checks
+  cpufreq: intel_pstate: Use firmware default EPP
+  cpufreq: unify show() and store() naming and use __ATTR_XX
+  cpufreq: longhaul: Replace acpi_bus_get_device()
+  cpufreq: schedutil: Use to_gov_attr_set() to get the gov_attr_set
+  cpufreq: Move to_gov_attr_set() to cpufreq.h
+
+* pm-cpuidle:
+  cpuidle: intel_idle: Drop redundant backslash at line end
+  cpuidle: intel_idle: Update intel_idle() kerneldoc comment
+  cpuidle: haltpoll: Call cpuidle_poll_state_init() later
+  intel_idle: add core C6 optimization for SPR
+  intel_idle: add 'preferred_cstates' module argument
+  intel_idle: add SPR support
+  ACPI: processor idle: Check for architectural support for LPI
+  cpuidle: PSCI: Move the `has_lpi` check to the beginning of the function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bd0c76</div>
+                                        <div class="message">Merge https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf
+
+Daniel Borkmann says:
+
+====================
+pull-request: bpf 2022-03-18
+
+We've added 2 non-merge commits during the last 18 day(s) which contain
+a total of 2 files changed, 50 insertions(+), 20 deletions(-).
+
+The main changes are:
+
+1) Fix a race in XSK socket teardown code that can lead to a NULL pointer
+   dereference, from Magnus.
+
+2) Small MAINTAINERS doc update to remove Lorenz from sockmap, from Lorenz.
+
+* https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf:
+  xsk: Fix race at socket teardown
+  bpf: Remove Lorenz Bauer from L7 BPF maintainers
+====================
+
+Link: https://lore.kernel.org/r/20220318152418.28638-1-daniel@iogearbox.net
+Signed-off-by: Jakub Kicinski &lt;kuba@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bde8bd</div>
+                                        <div class="message">Merge branch 'acpi-docs'
+
+Make ACPI documentation updates for 5.18-rc1:
+
+ - Update the ACPI device enumeration documentation and unify the ASL
+   style in GPIO-related examples (Andy Shevchenko).
+
+* acpi-docs:
+  ACPI: docs: gpio-properties: Unify ASL style for GPIO examples
+  ACPI: docs: enumeration: Unify Package () for properties
+  ACPI: docs: enumeration: Drop comma for terminator entry
+  ACPI: docs: enumeration: Drop ugly ifdeffery from the examples
+  ACPI: docs: enumeration: Amend PWM enumeration ASL example
+  ACPI: docs: enumeration: Remove redundant .owner assignment
+  ACPI: docs: enumeration: Update UART serial bus resource documentation
+  ACPI: docs: enumeration: Discourage to use custom _DSM methods</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adf3a9e</div>
+                                        <div class="message">io_uring: don't check unrelated req-&gt;open.how in accept request
+
+Looks like a victim of too much copy/paste, we should not be looking
+at req-&gt;open.how in accept. The point is to check CLOEXEC and error
+out, which we don't invalid direct descriptors on exec. Hence any
+attempt to get a direct descriptor with CLOEXEC is invalid.
+
+No harm is done here, as req-&gt;open.how.flags overlaps with
+req-&gt;accept.flags, but it's very confusing and might change if either of
+those command structs are modified.
+
+Fixes: aaa4db12ef7b ("io_uring: accept directly into fixed file table")
+Signed-off-by: Jens Axboe &lt;axboe@kernel.dk&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -556,7 +1044,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2022, 22:38:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 23:52:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
