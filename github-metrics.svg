@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="930" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1217" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.people{padding:0 10px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -165,7 +165,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    12 Languages
+                    23 Languages
                 </h2>
             </section>
             <section class="column">
@@ -253,7 +253,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 57 commits)</small>
+                    <small class="h-details">(computed from last 58 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -374,8 +374,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 42.30769230769231px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">12</span>
+                            <div class="bar" style="height: 46.15384615384615px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -425,8 +425,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -494,17 +494,581 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/thesis-dissertation</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">slowy07/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0660787</div>
-                                        <div class="message">feat: capek
+                                        <div class="sha">#82e3175</div>
+                                        <div class="message">ax25: Fix UAF bugs in ax25 timers
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+There are race conditions that may lead to UAF bugs in
+ax25_heartbeat_expiry(), ax25_t1timer_expiry(), ax25_t2timer_expiry(),
+ax25_t3timer_expiry() and ax25_idletimer_expiry(), when we call
+ax25_release() to deallocate ax25_dev.
+
+One of the UAF bugs caused by ax25_release() is shown below:
+
+      (Thread 1)                    |      (Thread 2)
+ax25_dev_device_up() //(1)          |
+...                                 | ax25_kill_by_device()
+ax25_bind()          //(2)          |
+ax25_connect()                      | ...
+ ax25_std_establish_data_link()     |
+  ax25_start_t1timer()              | ax25_dev_device_down() //(3)
+   mod_timer(&amp;ax25-&gt;t1timer,..)     |
+                                    | ax25_release()
+   (wait a time)                    |  ...
+                                    |  ax25_dev_put(ax25_dev) //(4)FREE
+   ax25_t1timer_expiry()            |
+    ax25-&gt;ax25_dev-&gt;values[..] //USE|  ...
+     ...                            |
+
+We increase the refcount of ax25_dev in position (1) and (2), and
+decrease the refcount of ax25_dev in position (3) and (4).
+The ax25_dev will be freed in position (4) and be used in
+ax25_t1timer_expiry().
+
+The fail log is shown below:
+==============================================================
+
+[  106.116942] BUG: KASAN: use-after-free in ax25_t1timer_expiry+0x1c/0x60
+[  106.116942] Read of size 8 at addr ffff88800bda9028 by task swapper/0/0
+[  106.116942] CPU: 0 PID: 0 Comm: swapper/0 Not tainted 5.17.0-06123-g0905eec574
+[  106.116942] Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS rel-14
+[  106.116942] Call Trace:
+...
+[  106.116942]  ax25_t1timer_expiry+0x1c/0x60
+[  106.116942]  call_timer_fn+0x122/0x3d0
+[  106.116942]  __run_timers.part.0+0x3f6/0x520
+[  106.116942]  run_timer_softirq+0x4f/0xb0
+[  106.116942]  __do_softirq+0x1c2/0x651
+...
+
+This patch adds del_timer_sync() in ax25_release(), which could ensure
+that all timers stop before we deallocate ax25_dev.
+
+Signed-off-by: Duoming Zhou &lt;duoming@zju.edu.cn&gt;
+Signed-off-by: Paolo Abeni &lt;pabeni@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5352a76</div>
+                                        <div class="message">ax25: fix UAF bug in ax25_send_control()
+
+There are UAF bugs in ax25_send_control(), when we call ax25_release()
+to deallocate ax25_dev. The possible race condition is shown below:
+
+      (Thread 1)              |     (Thread 2)
+ax25_dev_device_up() //(1)    |
+                              | ax25_kill_by_device()
+ax25_bind()          //(2)    |
+ax25_connect()                | ...
+ ax25-&gt;state = AX25_STATE_1   |
+ ...                          | ax25_dev_device_down() //(3)
+
+      (Thread 3)
+ax25_release()                |
+ ax25_dev_put()  //(4) FREE   |
+ case AX25_STATE_1:           |
+  ax25_send_control()         |
+   alloc_skb()       //USE    |
+
+The refcount of ax25_dev increases in position (1) and (2), and
+decreases in position (3) and (4). The ax25_dev will be freed
+before dereference sites in ax25_send_control().
+
+The following is part of the report:
+
+[  102.297448] BUG: KASAN: use-after-free in ax25_send_control+0x33/0x210
+[  102.297448] Read of size 8 at addr ffff888009e6e408 by task ax25_close/602
+[  102.297448] Call Trace:
+[  102.303751]  ax25_send_control+0x33/0x210
+[  102.303751]  ax25_release+0x356/0x450
+[  102.305431]  __sock_release+0x6d/0x120
+[  102.305431]  sock_close+0xf/0x20
+[  102.305431]  __fput+0x11f/0x420
+[  102.305431]  task_work_run+0x86/0xd0
+[  102.307130]  get_signal+0x1075/0x1220
+[  102.308253]  arch_do_signal_or_restart+0x1df/0xc00
+[  102.308253]  exit_to_user_mode_prepare+0x150/0x1e0
+[  102.308253]  syscall_exit_to_user_mode+0x19/0x50
+[  102.308253]  do_syscall_64+0x48/0x90
+[  102.308253]  entry_SYSCALL_64_after_hwframe+0x44/0xae
+[  102.308253] RIP: 0033:0x405ae7
+
+This patch defers the free operation of ax25_dev and net_device after
+all corresponding dereference sites in ax25_release() to avoid UAF.
+
+Fixes: 9fd75b66b8f6 ("ax25: Fix refcount leaks caused by ax25_cb_del()")
+Signed-off-by: Duoming Zhou &lt;duoming@zju.edu.cn&gt;
+Signed-off-by: Paolo Abeni &lt;pabeni@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f19c444</div>
+                                        <div class="message">openvswitch: Fixed nd target mask field in the flow dump.
+
+IPv6 nd target mask was not getting populated in flow dump.
+
+In the function __ovs_nla_put_key the icmp code mask field was checked
+instead of icmp code key field to classify the flow as neighbour discovery.
+
+ufid:bdfbe3e5-60c2-43b0-a5ff-dfcac1c37328, recirc_id(0),dp_hash(0/0),
+skb_priority(0/0),in_port(ovs-nm1),skb_mark(0/0),ct_state(0/0),
+ct_zone(0/0),ct_mark(0/0),ct_label(0/0),
+eth(src=00:00:00:00:00:00/00:00:00:00:00:00,
+dst=00:00:00:00:00:00/00:00:00:00:00:00),
+eth_type(0x86dd),
+ipv6(src=::/::,dst=::/::,label=0/0,proto=58,tclass=0/0,hlimit=0/0,frag=no),
+icmpv6(type=135,code=0),
+nd(target=2001::2/::,
+sll=00:00:00:00:00:00/00:00:00:00:00:00,
+tll=00:00:00:00:00:00/00:00:00:00:00:00),
+packets:10, bytes:860, used:0.504s, dp:ovs, actions:ovs-nm2
+
+Fixes: e64457191a25 (openvswitch: Restructure datapath.c and flow.c)
+Signed-off-by: Martin Varghese &lt;martin.varghese@nokia.com&gt;
+Link: https://lore.kernel.org/r/20220328054148.3057-1-martinvarghesenokia@gmail.com
+Signed-off-by: Paolo Abeni &lt;pabeni@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4a6f3c</div>
+                                        <div class="message">nvme-multipath: fix hang when disk goes live over reconnect
+
+nvme_mpath_init_identify() invoked from nvme_init_identify() fetches a
+fresh ANA log from the ctrl.  This is essential to have an up to date
+path states for both existing namespaces and for those scan_work may
+discover once the ctrl is up.
+
+This happens in the following cases:
+  1) A new ctrl is being connected.
+  2) An existing ctrl is successfully reconnected.
+  3) An existing ctrl is being reset.
+
+While in (1) ctrl-&gt;namespaces is empty, (2 &amp; 3) may have namespaces, and
+nvme_read_ana_log() may call nvme_update_ns_ana_state().
+
+This result in a hang when the ANA state of an existing namespace changes
+and makes the disk live: nvme_mpath_set_live() issues IO to the namespace
+through the ctrl, which does NOT have IO queues yet.
+
+See sample hang below.
+
+Solution:
+- nvme_update_ns_ana_state() to call set_live only if ctrl is live
+- nvme_read_ana_log() call from nvme_mpath_init_identify()
+  therefore only fetches and parses the ANA log;
+  any erros in this process will fail the ctrl setup as appropriate;
+- a separate function nvme_mpath_update()
+  is called in nvme_start_ctrl();
+  this parses the ANA log without fetching it.
+  At this point the ctrl is live,
+  therefore, disks can be set live normally.
+
+Sample failure:
+    nvme nvme0: starting error recovery
+    nvme nvme0: Reconnecting in 10 seconds...
+    block nvme0n6: no usable path - requeuing I/O
+    INFO: task kworker/u8:3:312 blocked for more than 122 seconds.
+          Tainted: G            E     5.14.5-1.el7.elrepo.x86_64 #1
+    Workqueue: nvme-wq nvme_tcp_reconnect_ctrl_work [nvme_tcp]
+    Call Trace:
+     __schedule+0x2a2/0x7e0
+     schedule+0x4e/0xb0
+     io_schedule+0x16/0x40
+     wait_on_page_bit_common+0x15c/0x3e0
+     do_read_cache_page+0x1e0/0x410
+     read_cache_page+0x12/0x20
+     read_part_sector+0x46/0x100
+     read_lba+0x121/0x240
+     efi_partition+0x1d2/0x6a0
+     bdev_disk_changed.part.0+0x1df/0x430
+     bdev_disk_changed+0x18/0x20
+     blkdev_get_whole+0x77/0xe0
+     blkdev_get_by_dev+0xd2/0x3a0
+     __device_add_disk+0x1ed/0x310
+     device_add_disk+0x13/0x20
+     nvme_mpath_set_live+0x138/0x1b0 [nvme_core]
+     nvme_update_ns_ana_state+0x2b/0x30 [nvme_core]
+     nvme_update_ana_state+0xca/0xe0 [nvme_core]
+     nvme_parse_ana_log+0xac/0x170 [nvme_core]
+     nvme_read_ana_log+0x7d/0xe0 [nvme_core]
+     nvme_mpath_init_identify+0x105/0x150 [nvme_core]
+     nvme_init_identify+0x2df/0x4d0 [nvme_core]
+     nvme_init_ctrl_finish+0x8d/0x3b0 [nvme_core]
+     nvme_tcp_setup_ctrl+0x337/0x390 [nvme_tcp]
+     nvme_tcp_reconnect_ctrl_work+0x24/0x40 [nvme_tcp]
+     process_one_work+0x1bd/0x360
+     worker_thread+0x50/0x3d0
+
+Signed-off-by: Anton Eidelman &lt;anton@lightbitslabs.com&gt;
+Reviewed-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6d6742</div>
+                                        <div class="message">nvme: fix RCU hole that allowed for endless looping in multipath round robin
+
+Make nvme_ns_remove match the assumptions elsewhere.
+
+1) !NVME_NS_READY needs to be srcu synchronized to make sure nothing is
+   running in __nvme_find_path or nvme_round_robin_path that will
+   re-assign this ns to current_path.
+
+2) Any matching current_path entries need to be cleared before removing
+   from the siblings list, to prevent calling nvme_round_robin_path with
+   an "old" ns that's off list.
+
+3) Finally the list_del_rcu can happen, and then synchronize again
+   before releasing any reference counts.
+
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5974ea7</div>
+                                        <div class="message">nvme: allow duplicate NSIDs for private namespaces
+
+A NVMe subsystem with multiple controller can have private namespaces
+that use the same NSID under some conditions:
+
+ "If Namespace Management, ANA Reporting, or NVM Sets are supported, the
+  NSIDs shall be unique within the NVM subsystem. If the Namespace
+  Management, ANA Reporting, and NVM Sets are not supported, then NSIDs:
+   a) for shared namespace shall be unique; and
+   b) for private namespace are not required to be unique."
+
+Reference: Section 6.1.6 NSID and Namespace Usage; NVM Express 1.4c spec.
+
+Make sure this specific setup is supported in Linux.
+
+Fixes: 9ad1927a3bc2 ("nvme: always search for namespace head")
+Signed-off-by: Sungup Moon &lt;sungup.moon@samsung.com&gt;
+[hch: refactored and fixed the controller vs subsystem based naming
+      conflict]
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Reviewed-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63bc732</div>
+                                        <div class="message">nvmet: remove redundant assignment after left shift
+
+The left shift is followed by a re-assignment back to cc_css, the
+assignment is redundant.  Fix this by replacing the "&lt;&lt;=" operator with
+"&lt;&lt;" instead.
+
+This cleans up the clang scan build warning:
+
+drivers/nvme/target/core.c:1124:10: warning: Although the value stored to 'cc_css' is used in the enclosing expression, the value is never actually read from 'cc_css' [deadcode.DeadStores]
+
+Signed-off-by: Colin Ian King &lt;colin.i.king@gmail.com&gt;
+Reviewed-by: Keith Busch &lt;kbusch@kernel.org&gt;
+Reviewed-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Reviewed-by: Chaitanya Kulkarni &lt;kch@nvidia.com&gt;
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8832cf9</div>
+                                        <div class="message">nvmet: use a private workqueue instead of the system workqueue
+
+Any attempt to flush kernel-global WQs has possibility of deadlock
+so we should simply stop using them, instead introduce nvmet_wq
+which is the generic nvmet workqueue for work elements that
+don't explicitly require a dedicated workqueue (by the mere fact
+that they are using the system_wq).
+
+Changes were done using the following replaces:
+
+ - s/schedule_work(/queue_work(nvmet_wq, /g
+ - s/schedule_delayed_work(/queue_delayed_work(nvmet_wq, /g
+ - s/flush_scheduled_work()/flush_workqueue(nvmet_wq)/g
+
+Reported-by: Tetsuo Handa &lt;penguin-kernel@I-love.SAKURA.ne.jp&gt;
+Signed-off-by: Sagi Grimberg &lt;sagi@grimberg.me&gt;
+Reviewed-by: Chaitanya Kulkarni &lt;kch@nvidia.com&gt;
+Signed-off-by: Christoph Hellwig &lt;hch@lst.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c42ee39</div>
+                                        <div class="message">dma-buf: handle empty dma_fence_arrays gracefully
+
+A bug inside the new sync-file merge code created empty dma_fence_array instances.
+
+Warn about that and handle those without crashing.
+
+Signed-off-by: Christian König &lt;christian.koenig@amd.com&gt;
+Reviewed-by: Thomas Hellström &lt;thomas.hellstrom@linux.intel.com&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20220329070001.134180-2-christian.koenig@amd.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21d139d</div>
+                                        <div class="message">dma-buf/sync-file: fix logic error in new fence merge code
+
+When the array is empty because everything is signaled we can't use
+add_fence() to add something because that would filter the signaled
+fence again.
+
+Signed-off-by: Christian König &lt;christian.koenig@amd.com&gt;
+Fixes: 519f490db07e ("dma-buf/sync-file: fix warning about fence containers")
+Reviewed-by: Thomas Hellström &lt;thomas.hellstrom@linux.intel.com&gt;
+Link: https://patchwork.freedesktop.org/patch/msgid/20220329070001.134180-1-christian.koenig@amd.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccaff3d</div>
+                                        <div class="message">selftests/bpf: Fix clang compilation errors
+
+llvm upstream patch ([1]) added to issue warning for code like
+  void test() {
+    int j = 0;
+    for (int i = 0; i &lt; 1000; i++)
+            j++;
+    return;
+  }
+
+This triggered several errors in selftests/bpf build since
+compilation flag -Werror is used.
+  ...
+  test_lpm_map.c:212:15: error: variable 'n_matches' set but not used [-Werror,-Wunused-but-set-variable]
+        size_t i, j, n_matches, n_matches_after_delete, n_nodes, n_lookups;
+                     ^
+  test_lpm_map.c:212:26: error: variable 'n_matches_after_delete' set but not used [-Werror,-Wunused-but-set-variable]
+        size_t i, j, n_matches, n_matches_after_delete, n_nodes, n_lookups;
+                                ^
+  ...
+  prog_tests/get_stack_raw_tp.c:32:15: error: variable 'cnt' set but not used [-Werror,-Wunused-but-set-variable]
+        static __u64 cnt;
+                     ^
+  ...
+
+  For test_lpm_map.c, 'n_matches'/'n_matches_after_delete' are changed to be volatile
+  in order to silent the warning. I didn't remove these two declarations since
+  they are referenced in a commented code which might be used by people in certain
+  cases. For get_stack_raw_tp.c, the variable 'cnt' is removed.
+
+  [1] https://reviews.llvm.org/D122271
+
+Signed-off-by: Yonghong Song &lt;yhs@fb.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/20220325200304.2915588-1-yhs@fb.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e92883</div>
+                                        <div class="message">Merge branch 'xsk: another round of fixes'
+
+Maciej Fijalkowski says:
+
+====================
+
+Hello,
+
+yet another fixes for XSK from Magnus and me.
+
+Magnus addresses the fact that xp_alloc() can return NULL, so this needs
+to be handled to avoid clearing entries in the SW ring on driver side.
+Then he addresses the off-by-one problem in Tx desc cleaning routine for
+ice ZC driver.
+
+From my side, I am adding protection to ZC Rx processing loop so that
+cleaning of descriptors wouldn't go over already processed entries.
+Then I also fix an issue with assigning XSK pool to Tx queues.
+
+This is directed to bpf tree.
+
+Thanks!
+
+Maciej Fijalkowski (2):
+  ice: xsk: stop Rx processing when ntc catches ntu
+  ice: xsk: fix indexing in ice_tx_xsk_pool()
+====================
+
+Acked-by: Alexander Lobakin &lt;alexandr.lobakin@intel.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ac2524</div>
+                                        <div class="message">ice: xsk: Fix indexing in ice_tx_xsk_pool()
+
+Ice driver tries to always create XDP rings array to be
+num_possible_cpus() sized, regardless of user's queue count setting that
+can be changed via ethtool -L for example.
+
+Currently, ice_tx_xsk_pool() calculates the qid by decrementing the
+ring-&gt;q_index by the count of XDP queues, but ring-&gt;q_index is set to 'i
++ vsi-&gt;alloc_txq'.
+
+When user did ethtool -L $IFACE combined 1, alloc_txq is 1, but
+vsi-&gt;num_xdp_txq is still num_possible_cpus(). Then, ice_tx_xsk_pool()
+will do OOB access and in the final result ring would not get xsk_pool
+pointer assigned. Then, each ice_xsk_wakeup() call will fail with error
+and it will not be possible to get into NAPI and do the processing from
+driver side.
+
+Fix this by decrementing vsi-&gt;alloc_txq instead of vsi-&gt;num_xdp_txq from
+ring-q_index in ice_tx_xsk_pool() so the calculation is reflected to the
+setting of ring-&gt;q_index.
+
+Fixes: 22bf877e528f ("ice: introduce XDP_TX fallback path")
+Signed-off-by: Maciej Fijalkowski &lt;maciej.fijalkowski@intel.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/20220328142123.170157-5-maciej.fijalkowski@intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec1713</div>
+                                        <div class="message">ice: xsk: Stop Rx processing when ntc catches ntu
+
+This can happen with big budget values and some breakage of re-filling
+descriptors as we do not clear the entry that ntu is pointing at the end
+of ice_alloc_rx_bufs_zc. So if ntc is at ntu then it might be the case
+that status_error0 has an old, uncleared value and ntc would go over
+with processing which would result in false results.
+
+Break Rx loop when ntc == ntu to avoid broken behavior.
+
+Fixes: 3876ff525de7 ("ice: xsk: Handle SW XDP ring wrap and bump tail more often")
+Signed-off-by: Maciej Fijalkowski &lt;maciej.fijalkowski@intel.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/20220328142123.170157-4-maciej.fijalkowski@intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30d19d5</div>
+                                        <div class="message">ice: xsk: Eliminate unnecessary loop iteration
+
+The NIC Tx ring completion routine cleans entries from the ring in
+batches. However, it processes one more batch than it is supposed
+to. Note that this does not matter from a functionality point of view
+since it will not find a set DD bit for the next batch and just exit
+the loop. But from a performance perspective, it is faster to
+terminate the loop before and not issue an expensive read over PCIe to
+get the DD bit.
+
+Fixes: 126cdfe1007a ("ice: xsk: Improve AF_XDP ZC Tx and use batching API")
+Signed-off-by: Magnus Karlsson &lt;magnus.karlsson@intel.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/20220328142123.170157-3-maciej.fijalkowski@intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a95a4d9</div>
+                                        <div class="message">xsk: Do not write NULL in SW ring at allocation failure
+
+For the case when xp_alloc_batch() is used but the batched allocation
+cannot be used, there is a slow path that uses the non-batched
+xp_alloc(). When it fails to allocate an entry, it returns NULL. The
+current code wrote this NULL into the entry of the provided results
+array (pointer to the driver SW ring usually) and returned. This might
+not be what the driver expects and to make things simpler, just write
+successfully allocated xdp_buffs into the SW ring,. The driver might
+have information in there that is still important after an allocation
+failure.
+
+Note that at this point in time, there are no drivers using
+xp_alloc_batch() that could trigger this slow path. But one might get
+added.
+
+Fixes: 47e4075df300 ("xsk: Batched buffer allocation for the pool")
+Signed-off-by: Magnus Karlsson &lt;magnus.karlsson@intel.com&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/20220328142123.170157-2-maciej.fijalkowski@intel.com</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7df482e</div>
+                                        <div class="message">Merge branch 'kprobes: rethook: x86: Replace kretprobe trampoline with rethook'
+
+Masami Hiramatsu says:
+
+====================
+Here are the 3rd version for generic kretprobe and kretprobe on x86 for
+replacing the kretprobe trampoline with rethook. The previous version
+is here[1]
+
+[1] https://lore.kernel.org/all/164821817332.2373735.12048266953420821089.stgit@devnote2/T/#u
+
+This version fixed typo and build issues for bpf-next and CONFIG_RETHOOK=y
+error. I also add temporary mitigation lines for ANNOTATE_NOENDBR macro
+issue for bpf-next tree [2/4].
+
+This will be removed after merging kernel IBT series.
+
+Background:
+
+This rethook came from Jiri's request of multiple kprobe for bpf[2].
+He tried to solve an issue that starting bpf with multiple kprobe will
+take a long time because bpf-kprobe will wait for RCU grace period for
+sync rcu events.
+
+Jiri wanted to attach a single bpf handler to multiple kprobes and
+he tried to introduce multiple-probe interface to kprobe. So I asked
+him to use ftrace and kretprobe-like hook if it is only for the
+function entry and exit, instead of adding ad-hoc interface
+to kprobes.
+For this purpose, I introduced the fprobe (kprobe like interface for
+ftrace) with the rethook (this is a generic return hook feature for
+fprobe exit handler)[3].
+
+[2] https://lore.kernel.org/all/20220104080943.113249-1-jolsa@kernel.org/T/#u
+[3] https://lore.kernel.org/all/164191321766.806991.7930388561276940676.stgit@devnote2/T/#u
+
+The rethook is basically same as the kretprobe trampoline. I just made
+it decoupled from kprobes. Eventually, the all arch dependent kretprobe
+trampolines will be replaced with the rethook trampoline instead of
+cloning and set HAVE_RETHOOK=y.
+When I port the rethook for all arch which supports kretprobe, the
+legacy kretprobe specific code (which is for CONFIG_KRETPROBE_ON_RETHOOK=n)
+will be removed eventually.
+====================
+
+Acked-by: Peter Zijlstra (Intel) &lt;peterz@infradead.org&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45c23bf</div>
+                                        <div class="message">x86,kprobes: Fix optprobe trampoline to generate complete pt_regs
+
+Currently the optprobe trampoline template code ganerate an
+almost complete pt_regs on-stack, everything except regs-&gt;ss.
+The 'regs-&gt;ss' points to the top of stack, which is not a
+valid segment decriptor.
+
+As same as the rethook does, complete the job by also pushing ss.
+
+Suggested-by: Peter Zijlstra (Intel) &lt;peterz@infradead.org&gt;
+Signed-off-by: Masami Hiramatsu &lt;mhiramat@kernel.org&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/164826166027.2455864.14759128090648961900.stgit@devnote2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ef6f5c</div>
+                                        <div class="message">x86,rethook: Fix arch_rethook_trampoline() to generate a complete pt_regs
+
+Currently arch_rethook_trampoline() generates an almost complete
+pt_regs on-stack, everything except regs-&gt;ss that is, that currently
+points to the fake return address, which is not a valid segment
+descriptor.
+
+Since interpretation of regs-&gt;[sb]p should be done in the context of
+regs-&gt;ss, and we have code actually doing that (see
+arch/x86/lib/insn-eval.c for instance), complete the job by also
+pushing ss.
+
+This ensures that anybody who does do look at regs-&gt;ss doesn't
+mysteriously malfunction, avoiding much future pain.
+
+Signed-off-by: Peter Zijlstra (Intel) &lt;peterz@infradead.org&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Reviewed-by: Masami Hiramatsu &lt;mhiramat@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/164826164851.2455864.17272661073069737350.stgit@devnote2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3a112c</div>
+                                        <div class="message">x86,rethook,kprobes: Replace kretprobe with rethook on x86
+
+Replaces the kretprobe code with rethook on x86. With this patch,
+kretprobe on x86 uses the rethook instead of kretprobe specific
+trampoline code.
+
+Signed-off-by: Masami Hiramatsu &lt;mhiramat@kernel.org&gt;
+Signed-off-by: Alexei Starovoitov &lt;ast@kernel.org&gt;
+Tested-by: Jiri Olsa &lt;jolsa@kernel.org&gt;
+Link: https://lore.kernel.org/bpf/164826163692.2455864.13745421016848209527.stgit@devnote2</div>
                                     </div>
                                 </div>
                             </section>
@@ -514,7 +1078,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 20:38:44 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 21:33:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
