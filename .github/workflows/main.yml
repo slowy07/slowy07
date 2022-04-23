@@ -40,7 +40,7 @@ jobs:
           config_padding: 0, 6 + 1%
 
       - name: most used
-        used: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: programming.languages.svg
           token: ${{ secrets.MATRICS }}
