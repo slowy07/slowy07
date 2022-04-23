@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "30 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main", "master"]}
@@ -27,26 +27,6 @@ jobs:
           repositories_batch: 7
           # repositories limit
           repositories: 100
-          # programming language
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_skipped: my-testing-repo
-          plugin_languages_details: percentage
-          plugin_languages_threshold: 2%
-          plugin_languages_limit: 15
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: no
-          plugin_languages_recent_load: 500
-          plugin_languages_recent_days: 7
-          commits_authoring: arfy slowy
-          # coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          # line of code changed
-          plugin_lines: yes
           # topics
           plugin_topics: yes
           plugin_topics_sort: stars
@@ -58,6 +38,19 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           config_padding: 0, 6 + 1%
+
+      - name: most used
+        used: lowlighter/metrics@latest
+        with:
+          filename: programming.languages.svg
+          token: ${{ secrets.MATRICS }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
+          config_padding: 0, 8 + 1%
           
           
           
