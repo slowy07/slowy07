@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            79053 Commits
+                            79054 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,178 +210,17 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 774 commits in
-                                        <span class="repo">slowy07/oss-fuzz</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">bellshade/bellwm</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0596828</div>
-                                        <div class="message">[zstd] Add a new team member to the CC list (#6665)
+                                        <div class="sha">#33d39cc</div>
+                                        <div class="message">add: clean job untuk update kode
 
-Adds a new team member to the zstd CC list.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a23820b</div>
-                                        <div class="message">[harfbuzz] Remove nonexisting user (#6663)
-
-See for example https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=35277</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aa2f56</div>
-                                        <div class="message">CycloneDDS integration - Step 1 (#6610)
-
-* CycloneDDS integration - Step 1
-
-Co-authored-by: Erik Boasson &lt;eb@ilities.com&gt;
-Signed-off-by: Federico Maggi &lt;fede@maggi.cc&gt;
-
-* Adding @eboasson as primary contact
-
-Signed-off-by: Federico Maggi &lt;federico@maggi.cc&gt;
-
-Co-authored-by: Erik Boasson &lt;eb@ilities.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35d1d97</div>
-                                        <div class="message">gstreamer: update for git repository layout changes (#6654)
-
-Depends on https://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests/1253</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c588f</div>
-                                        <div class="message">fwupd: Add one extra package for the UEFI fuzzer (#6662)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b77a55b</div>
-                                        <div class="message">[ClusterFuzzLite] Support GCB and gsutil/gcs as filestore. (#6629)
-
-* add gsutil filestore
-
-* lint
-
-* Fix
-
-* Add build image script
-
-* get gcb fuzzing working
-
-* fmt and fix config_utils_test
-
-* Check that crashes are uploaded
-
-* Add no_filestore
-
-* fix test
-
-* fix tests
-
-* fix
-
-* Print crash URL
-
-* Fix
-
-* fix
-
-* fmt
-
-* lnt
-
-* fix
-
-* fmt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d951635</div>
-                                        <div class="message">Upload crash artifacts per target by its name. (#6660)
-
-Rather than always upload to the "current" artifact.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f460c03</div>
-                                        <div class="message">cifuzz: Fix artifacts uploading issues. (#6646)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#259abea</div>
-                                        <div class="message">poppler: Fix build (#6657)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#891e300</div>
-                                        <div class="message">Add @phretor in auto_ccs (#6653)
-
-Signed-off-by: Federico Maggi &lt;federico@maggi.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32d0425</div>
-                                        <div class="message">Turn off leak detection for binutils (#6652)
-
-Leaking a small amout of memory in a utility that runs then exits
-is totally uninteresting.  Disable leak detection for nm and objdump
-in addition to the others.  Also, save some build time by not
-compiling libbacktrace which is currently unused by binutils.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#570c150</div>
-                                        <div class="message">cifuzz: set log level to info by default. (#6604)
-
-Also fix some logging issues:
-
-- Don't output every single stacktrace when determining if a crash is reproducible.
-  It outputs too many things into the logs and makes it hard to read. 
-
-- Log OSS-Fuzz corpus path
-
-- Fix a minor typo and an error log with deleting the xenial image.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2386bc</div>
-                                        <div class="message">gonids: debug go1.17 regexp bug with `GODEBUG` (#6650)
-
-* Revert "gonids: debug go1.17 regexp bug (#6623)"
-
-This reverts commit 6689dd69665641643dd4df592144b095a53fcca5.
-
-* gonids: debug go1.17 regexp bug with GODEBUG env</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dd8186</div>
-                                        <div class="message">oak: Disable CFLAGS in coverage builds (#6642)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d67d1f</div>
-                                        <div class="message">net-snmp: use corpus from upstream and add dictionary (#6649)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf0087b</div>
-                                        <div class="message">binutils: enable more dedicated disassembly fuzzers and use corpus for fuzz_nm and fuzz_objcopy (#6647)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f209c46</div>
-                                        <div class="message">binutils: fix https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=40280 (#6643)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b837a14</div>
-                                        <div class="message">tmux: fix coverage (#6641)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b5b947</div>
-                                        <div class="message">binutils: add GAS fuzzer and specialised disassembly fuzzer (#6640)
-
-* binutils: add GAS fuzzer and specialised disassembly fuzzer
-
-* binutils: cleanup formatting
-
-* binutils: minor fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9f24c0</div>
-                                        <div class="message">binutils: optimise objdump and nm fuzzers (#6639)
-
-* binutils: optimise objdump and nm fuzzers
-
-* binutils: remove local flag in objdump</div>
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -391,7 +230,7 @@ This reverts commit 6689dd69665641643dd4df592144b095a53fcca5.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2022, 14:23:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 20 May 2022, 15:29:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
