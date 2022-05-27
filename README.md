@@ -17,6 +17,8 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=onedark)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slowy07&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
+
 ## recent project
 
 | repository                                                        | Description                                              |
@@ -50,5 +52,3 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ![Metrics](github-metrics.svg)
 ![programminglanguage](programming.languages.svg)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slowy07&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
