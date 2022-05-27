@@ -25,14 +25,14 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 | [Quantum computing](https://github.com/slowy07/quantum_computing) | list example and explanation quantum computing algorithm |
 
 
-## skills
+<!-- ## skills
 
-<!-- ![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
+![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![java](https://img.shields.io/badge/Java-2980b9?style=for-the-badge&logo=Python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![assembly](https://img.shields.io/badge/Assembly-e67e22?style=for-the-badge&logo=AssemblyScript&logoColor=white) -->
+![assembly](https://img.shields.io/badge/Assembly-e67e22?style=for-the-badge&logo=AssemblyScript&logoColor=white)
 <p align="center">
     <img src="https://img.icons8.com/stickers/50/000000/python.png"/>
     <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
@@ -42,7 +42,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
     <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
     <img src="https://img.icons8.com/fluency/50/000000/flutter.png"/>
     <img src="https://img.icons8.com/color/50/000000/figma--v1.png"/>
-</p>
+</p> -->
 
 ## static
 
@@ -50,3 +50,5 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 ![Metrics](github-metrics.svg)
 ![programminglanguage](programming.languages.svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slowy07&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
