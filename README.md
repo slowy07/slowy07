@@ -10,7 +10,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 ## talk to me
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arfy.slowy)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1)
+<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/arfyslowy1) -->
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/arfyslowy)
 
 ## [<img src="zombie.gif" width="60" height="60"/>](zombie.gif)
@@ -46,9 +46,7 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
     <img src="https://img.icons8.com/color/50/000000/figma--v1.png"/>
 </p> -->
 
-## static
-
 ![contrib](https://github.com/slowy07/slowy07/blob/acf960ecb465ede0cfb3c8a23207606283f944ea/contribution.svg)
 
-![Metrics](github-metrics.svg)
-![programminglanguage](programming.languages.svg)
+<!-- ![Metrics](github-metrics.svg)
+![programminglanguage](programming.languages.svg) -->
