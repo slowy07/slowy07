@@ -19,13 +19,13 @@ hello!, my name **arfy slowy**, i live in indonesia at aceh, a peacefully city w
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slowy07&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
 
-## recent project
+<!-- ## recent project
 
 | repository                                                        | Description                                              |
 | ----------------------------------------------------------------- | -------------------------------------------------------- |
 | [googleLogging](https://github.com/slowy07/googleLogging)         | implementation of google logging                         |
 | [Quantum computing](https://github.com/slowy07/quantum_computing) | list example and explanation quantum computing algorithm |
-
+ -->
 
 <!-- ## skills
 
