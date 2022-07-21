@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            115164 Commits
+                            115169 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -109,7 +109,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    1 Release
+                                    2 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -135,7 +135,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    101 Stargazers
+                                    102 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,17 +210,408 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/congenial</span>
+                                        Pushed 90 commits in
+                                        <span class="repo">slowy07/linux</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e014f6d</div>
-                                        <div class="message">feat: update level
+                                        <div class="sha">#6fb9e1d</div>
+                                        <div class="message">usb: typec: add missing uevent when partner support PD
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+System like Android allow user control power role from UI, it is possible
+to implement application base on typec uevent to refresh UI, but found
+there is chance that UI show different state from typec attribute file.
+
+In typec_set_pwr_opmode(), when partner support PD, there is no uevent
+send to user space which cause the problem.
+
+Fix it by sending uevent notification when change power mode to PD.
+
+Fixes: bdecb33af34f ("usb: typec: API for controlling USB Type-C Multiplexers")
+Cc: stable@vger.kernel.org
+Signed-off-by: Linyu Yuan &lt;quic_linyyuan@quicinc.com&gt;
+Link: https://lore.kernel.org/r/1656662934-10226-1-git-send-email-quic_linyyuan@quicinc.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccd3f44</div>
+                                        <div class="message">scsi: target: Fix WRITE_SAME No Data Buffer crash
+
+In newer version of the SBC specs, we have a NDOB bit that indicates there
+is no data buffer that gets written out. If this bit is set using commands
+like "sg_write_same --ndob" we will crash in target_core_iblock/file's
+execute_write_same handlers when we go to access the se_cmd-&gt;t_data_sg
+because its NULL.
+
+This patch adds a check for the NDOB bit in the common WRITE SAME code
+because we don't support it. And, it adds a check for zero SG elements in
+each handler in case the initiator tries to send a normal WRITE SAME with
+no data buffer.
+
+Link: https://lore.kernel.org/r/20220628022325.14627-2-michael.christie@oracle.com
+Reviewed-by: Christoph Hellwig &lt;hch@lst.de&gt;
+Signed-off-by: Mike Christie &lt;michael.christie@oracle.com&gt;
+Signed-off-by: Martin K. Petersen &lt;martin.petersen@oracle.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b941e48</div>
+                                        <div class="message">serial: 8250: dw: Fix the macro RZN1_UART_xDMACR_8_WORD_BURST
+
+As per RZ/N1 peripheral user manual(r01uh0752ej0100-rzn1-peripheral.pdf)
+rev 1.0.0 Mar,2019, the value for 8_WORD_BURST is 4(b2,b1=2’b10).
+
+This patch fixes the macro as per the user manual.
+
+Fixes: aa63d786cea2 ("serial: 8250: dw: Add support for DMA flow controlling devices")
+Reviewed-by: Phil Edworthy &lt;phil.edworthy@renesas.com&gt;
+Signed-off-by: Biju Das &lt;biju.das.jz@bp.renesas.com&gt;
+Link: https://lore.kernel.org/r/20220630083909.4294-1-biju.das.jz@bp.renesas.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39cdb68</div>
+                                        <div class="message">vt: fix memory overlapping when deleting chars in the buffer
+
+A memory overlapping copy occurs when deleting a long line. This memory
+overlapping copy can cause data corruption when scr_memcpyw is optimized
+to memcpy because memcpy does not ensure its behavior if the destination
+buffer overlaps with the source buffer. The line buffer is not always
+broken, because the memcpy utilizes the hardware acceleration, whose
+result is not deterministic.
+
+Fix this problem by using replacing the scr_memcpyw with scr_memmovew.
+
+Fixes: 81732c3b2fed ("tty vt: Fix line garbage in virtual console on command line edition")
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Yangxi Xiang &lt;xyangxi5@gmail.com&gt;
+Link: https://lore.kernel.org/r/20220628093322.5688-1-xyangxi5@gmail.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f532c1</div>
+                                        <div class="message">serial: mvebu-uart: correctly report configured baudrate value
+
+Functions tty_termios_encode_baud_rate() and uart_update_timeout() should
+be called with the baudrate value which was set to hardware. Linux then
+report exact values via ioctl(TCGETS2) to userspace.
+
+Change mvebu_uart_baud_rate_set() function to return baudrate value which
+was set to hardware and propagate this value to above mentioned functions.
+
+With this change userspace would see precise value in termios c_ospeed
+field.
+
+Fixes: 68a0db1d7da2 ("serial: mvebu-uart: add function to change baudrate")
+Cc: stable &lt;stable@kernel.org&gt;
+Reviewed-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Signed-off-by: Pali Rohár &lt;pali@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220628100922.10717-1-pali@kernel.org
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9b1122</div>
+                                        <div class="message">serial: 8250: Fix PM usage_count for console handover
+
+When console is enabled, univ8250_console_setup() calls
+serial8250_console_setup() before .dev is set to uart_port. Therefore,
+it will not call pm_runtime_get_sync(). Later, when the actual driver
+is going to take over univ8250_console_exit() is called. As .dev is
+already set, serial8250_console_exit() makes pm_runtime_put_sync() call
+with usage count being zero triggering PM usage count warning
+(extra debug for univ8250_console_setup(), univ8250_console_exit(), and
+serial8250_register_ports()):
+
+[    0.068987] univ8250_console_setup ttyS0 nodev
+[    0.499670] printk: console [ttyS0] enabled
+[    0.717955] printk: console [ttyS0] printing thread started
+[    1.960163] serial8250_register_ports assigned dev for ttyS0
+[    1.976830] printk: console [ttyS0] disabled
+[    1.976888] printk: console [ttyS0] printing thread stopped
+[    1.977073] univ8250_console_exit ttyS0 usage:0
+[    1.977075] serial8250 serial8250: Runtime PM usage count underflow!
+[    1.977429] dw-apb-uart.6: ttyS0 at MMIO 0x4010006000 (irq = 33, base_baud = 115200) is a 16550A
+[    1.977812] univ8250_console_setup ttyS0 usage:2
+[    1.978167] printk: console [ttyS0] printing thread started
+[    1.978203] printk: console [ttyS0] enabled
+
+To fix the issue, call pm_runtime_get_sync() in
+serial8250_register_ports() as soon as .dev is set for an uart_port
+if it has console enabled.
+
+This problem became apparent only recently because 82586a721595 ("PM:
+runtime: Avoid device usage count underflows") added the warning
+printout. I confirmed this problem also occurs with v5.18 (w/o the
+warning printout, obviously).
+
+Fixes: bedb404e91bb ("serial: 8250_port: Don't use power management for kernel console")
+Cc: stable &lt;stable@kernel.org&gt;
+Tested-by: Tony Lindgren &lt;tony@atomide.com&gt;
+Reviewed-by: Andy Shevchenko &lt;andriy.shevchenko@linux.intel.com&gt;
+Reviewed-by: Tony Lindgren &lt;tony@atomide.com&gt;
+Signed-off-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Link: https://lore.kernel.org/r/b4f428e9-491f-daf2-2232-819928dc276e@linux.intel.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e690d5</div>
+                                        <div class="message">serial: 8250: fix return error code in serial8250_request_std_resource()
+
+If port-&gt;mapbase = NULL in serial8250_request_std_resource() , it need
+return a error code instead of 0. If uart_set_info() fail to request new
+regions by serial8250_request_std_resource() but the return value of
+serial8250_request_std_resource() is 0, The system incorrectly considers
+that the resource application is successful and does not attempt to
+restore the old setting. A null pointer reference is triggered when the
+port resource is later invoked.
+
+Signed-off-by: Yi Yang &lt;yiyang13@huawei.com&gt;
+Cc: stable &lt;stable@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220628083515.64138-1-yiyang13@huawei.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c5f44e</div>
+                                        <div class="message">serial: stm32: Clear prev values before setting RTS delays
+
+The code lacks clearing of previous DEAT/DEDT values. Thus, changing
+values on the fly results in garbage delays tending towards the maximum
+value as more and more bits are ORed together. (Leaving RS485 mode
+would have cleared the old values though).
+
+Fixes: 1bcda09d2910 ("serial: stm32: add support for RS485 hardware control mode")
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Link: https://lore.kernel.org/r/20220627150753.34510-1-ilpo.jarvinen@linux.intel.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5812175</div>
+                                        <div class="message">usb: dwc3-am62: remove unnecesary clk_put()
+
+The clk get by devm_clk_get() will be released in devres_release_all(),
+so there is no need explicitly call clk_put(), or it will cause UAF.
+
+Fixes: e8784c0aec03 ("drivers: usb: dwc3: Add AM62 USB wrapper driver")
+Reported-by: Hulk Robot &lt;hulkci@huawei.com&gt;
+Signed-off-by: Yang Yingliang &lt;yangyingliang@huawei.com&gt;
+Link: https://lore.kernel.org/r/20220629094635.3116961-1-yangyingliang@huawei.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7441b27</div>
+                                        <div class="message">usb: dwc3: gadget: Fix event pending check
+
+The DWC3_EVENT_PENDING flag is used to protect against invalid call to
+top-half interrupt handler, which can occur when there's a delay in
+software detection of the interrupt line deassertion.
+
+However, the clearing of this flag was done prior to unmasking the
+interrupt line, creating opportunity where the top-half handler can
+come. This breaks the serialization and creates a race between the
+top-half and bottom-half handler, resulting in losing synchronization
+between the controller and the driver when processing events.
+
+To fix this, make sure the clearing of the DWC3_EVENT_PENDING is done at
+the end of the bottom-half handler.
+
+Fixes: d325a1de49d6 ("usb: dwc3: gadget: Prevent losing events in event cache")
+Cc: stable@vger.kernel.org
+Signed-off-by: Thinh Nguyen &lt;Thinh.Nguyen@synopsys.com&gt;
+Link: https://lore.kernel.org/r/8670aaf1cf52e7d1e6df2a827af2d77263b93b75.1656380429.git.Thinh.Nguyen@synopsys.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#039d4ed</div>
+                                        <div class="message">
+                                            Input: usbtouchscreen - add driver_info sanity check
+
+Add a sanity check on the device id-table driver_info field to make sure
+we never access a type structure (and function pointers) outside of the
+device info array (e.g. if someone fails to ifdef a device-id entry).
+
+Note that this also suppresses a compiler warning with -Warray-bounds
+(gcc-11.3.0) when compile-testing the driver without enabling any of
+the device type Kconfig options:
+
+    drivers/input/touchscreen/usbtouchscreen.c: In function 'usbtouch_probe':
+    drivers/input/touchscreen/usbtouchscreen.c:1668:16
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            array subscript &lt;unknown&gt; is outside array bounds of 'struct usbtouch_device_info[0]' [-Warray-bounds]
+     1668 |         type = &amp;usbtouch_dev_info[id-&gt;driver_info];
+
+Signed-off-by: Johan Hovold &lt;johan@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220623062446.16944-1-johan@kernel.org
+Signed-off-by: Dmitry Torokhov &lt;dmitry.torokhov@gmail.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec5ad33</div>
+                                        <div class="message">tty: Add N_CAN327 line discipline ID for ELM327 based CAN driver
+
+The actual driver will be added via the CAN tree.
+
+Acked-by: Marc Kleine-Budde &lt;mkl@pengutronix.de&gt;
+Signed-off-by: Max Staudt &lt;max@enpas.org&gt;
+Link: https://lore.kernel.org/r/20220618180134.9890-1-max@enpas.org
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8d6e9d</div>
+                                        <div class="message">serial: 8250: Fix __stop_tx() &amp; DMA Tx restart races
+
+Commit e8ffbb71f783 ("serial: 8250: use THRE &amp; __stop_tx also with
+DMA") changed __dma_tx_complete() to enable THRI that is cleared in
+__stop_tx() once THRE is asserted as UART runs out bits to transmit. It
+is possible, however, that more data arrives in between in which case
+serial8250_tx_dma() resumes Tx. THRI is not supposed to be on during
+DMA Tx because DMA is based on completion handler, therefore THRI must
+be cleared unconditionally in serial8250_tx_dma().
+
+When Tx is about to start, another race window exists with
+serial8250_handle_irq() leading to a call into __stop_tx() while the
+Tx has already been resumed:
+
+__tx_complete():
+  -&gt; spin_lock(port-&gt;lock)
+  -&gt; dma-&gt;tx_running = 0
+  -&gt; serial8250_set_THRI()
+  -&gt; spin_unlock(port-&gt;lock)
+
+uart_start():
+				serial8250_handle_irq():
+  -&gt; spin_lock(port-&gt;lock)
+  -&gt; serial8250_tx_dma():
+    -&gt; dma-&gt;tx_running = 1
+  -&gt; spin_unlock(port-&gt;lock)
+				  -&gt; spin_lock(port-&gt;lock)
+				  -&gt; __stop_tx()
+
+Close this race by checking !dma-&gt;tx_running before calling into
+__stop_tx().
+
+Fixes: e8ffbb71f783 ("serial: 8250: use THRE &amp; __stop_tx also with DMA")
+Signed-off-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Link: https://lore.kernel.org/r/20220615090651.15340-2-ilpo.jarvinen@linux.intel.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#211565b</div>
+                                        <div class="message">serial: pl011: UPSTAT_AUTORTS requires .throttle/unthrottle
+
+The driver must provide throttle and unthrottle in uart_ops when it
+sets UPSTAT_AUTORTS. Add them using existing stop_rx &amp;
+enable_interrupts functions.
+
+Fixes: 2a76fa283098 (serial: pl011: Adopt generic flag to store auto RTS status)
+Cc: stable &lt;stable@kernel.org&gt;
+Cc: Lukas Wunner &lt;lukas@wunner.de&gt;
+Reported-by: Nuno Gonçalves &lt;nunojpg@gmail.com&gt;
+Tested-by: Nuno Gonçalves &lt;nunojpg@gmail.com&gt;
+Signed-off-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Link: https://lore.kernel.org/r/20220614075637.8558-1-ilpo.jarvinen@linux.intel.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7e35e4</div>
+                                        <div class="message">tty: serial: samsung_tty: set dma burst_size to 1
+
+The src_maxburst and dst_maxburst have been changed to 1 but the settings
+of the UCON register aren't changed yet. They should be changed as well
+according to the dmaengine slave config.
+
+Fixes: aa2f80e752c7 ("serial: samsung: fix maxburst parameter for DMA transactions")
+Cc: stable &lt;stable@kernel.org&gt;
+Cc: Marek Szyprowski &lt;m.szyprowski@samsung.com&gt;
+Reviewed-by: Krzysztof Kozlowski &lt;krzysztof.kozlowski@linaro.org&gt;
+Signed-off-by: Chanho Park &lt;chanho61.park@samsung.com&gt;
+Link: https://lore.kernel.org/r/20220627065113.139520-1-chanho61.park@samsung.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd16044</div>
+                                        <div class="message">serial: 8250: dw: enable using pdata with ACPI
+
+Commit ffd381445eac ("serial: 8250: dw: Move the USR register to pdata")
+caused NULL-pointer dereference when booting with ACPI by unconditional
+usage of the recently added pdata.
+
+In order to fix that and prevent similar issues in future, hook the
+default version of this structure in dw8250_acpi_match table.
+While at it, sort all entries alphabetically.
+
+Fixes: ffd381445eac ("serial: 8250: dw: Move the USR register to pdata")
+Reviewed-by: Ilpo Järvinen &lt;ilpo.jarvinen@linux.intel.com&gt;
+Reviewed-by: Andy Shevchenko &lt;andy.shevchenko@gmail.com&gt;
+Signed-off-by: Marcin Wojtas &lt;mw@semihalf.com&gt;
+Link: https://lore.kernel.org/r/20220620121046.1307412-1-mw@semihalf.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85ff37e</div>
+                                        <div class="message">gpiolib: cdev: Fix kernel doc for struct line
+
+Kernel doc validator is not happy:
+  gpiolib-cdev.c:487: warning: Function parameter or member 'hdesc' not described in 'line'
+  gpiolib-cdev.c:487: warning: Function parameter or member 'raw_level' not described in 'line'
+  gpiolib-cdev.c:487: warning: Function parameter or member 'total_discard_seq' not described in 'line'
+  gpiolib-cdev.c:487: warning: Function parameter or member 'last_seqno' not described in 'line'
+
+Describe above mentioned parameters.
+
+Fixes: 2068339a6c35 ("gpiolib: cdev: Add hardware timestamp clock type")
+Signed-off-by: Andy Shevchenko &lt;andriy.shevchenko@linux.intel.com&gt;
+Acked-by: Dipen Patel &lt;dipenp@nvidia.com&gt;
+Acked-by: Bartosz Golaszewski &lt;brgl@bgdev.pl&gt;
+Signed-off-by: Thierry Reding &lt;treding@nvidia.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#093d27b</div>
+                                        <div class="message">power: supply: core: Fix boundary conditions in interpolation
+
+The functions power_supply_temp2resist_simple and power_supply_ocv2cap_simple
+handle boundary conditions incorrectly.
+The change was introduced in a4585ba2050f460f749bbaf2b67bd56c41e30283
+("power: supply: core: Use library interpolation").
+There are two issues: First, the lines "high = i - 1" and "high = i" in ocv2cap
+have the wrong order compared to temp2resist. As a consequence, ocv2cap
+sets high=-1 if ocv&gt;table[0].ocv, which causes an out-of-bounds read.
+Second, the logic of temp2resist is also not correct.
+Consider the case table[] = {{20, 100}, {10, 80}, {0, 60}}.
+For temp=5, we expect a resistance of 70% by interpolation.
+However, temp2resist sets high=low=2 and returns 60.
+
+Cc: stable@vger.kernel.org
+Signed-off-by: Dorian Rudolph &lt;mail@dorianrudolph.com&gt;
+Reviewed-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;
+Fixes: a4585ba2050f ("power: supply: core: Use library interpolation")
+Signed-off-by: Sebastian Reichel &lt;sebastian.reichel@collabora.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80192ef</div>
+                                        <div class="message">power/reset: arm-versatile: Fix refcount leak in versatile_reboot_probe
+
+of_find_matching_node_and_match() returns a node pointer with refcount
+incremented, we should use of_node_put() on it when not need anymore.
+Add missing of_node_put() to avoid refcount leak.
+
+Fixes: 0e545f57b708 ("power: reset: driver for the Versatile syscon reboot")
+Signed-off-by: Miaoqian Lin &lt;linmq006@gmail.com&gt;
+Reviewed-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;
+Signed-off-by: Sebastian Reichel &lt;sebastian.reichel@collabora.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f5de2f</div>
+                                        <div class="message">power: supply: ab8500_fg: add missing destroy_workqueue in ab8500_fg_probe
+
+In ab8500_fg_probe, misses destroy_workqueue in error path, this patch
+fixes that.
+
+Fixes: 010ddb813f35 ("power: supply: ab8500_fg: Allocate wq in probe")
+Signed-off-by: Gao Chao &lt;gaochao49@huawei.com&gt;
+Reviewed-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;
+Signed-off-by: Sebastian Reichel &lt;sebastian.reichel@collabora.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,7 +621,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 08:40:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 08:43:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
