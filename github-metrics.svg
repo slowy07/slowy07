@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="452" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            115563 Commits
+                            115567 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,92 +210,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">slowy07/hotfiles</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">literateOS/literate</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bspwm</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9621fa2</div>
-                                        <div class="message">Merge pull request #33 from Syndrizzle/imgbot
-
-[ImgBot] Optimize images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e3bd47</div>
-                                        <div class="message">[ImgBot] Optimize images
-
-*Total -- 18,836.77kb -&gt; 13,063.06kb (30.65%)
-
-/.wallpapers/tokyo-night40.png -- 18.72kb -&gt; 4.89kb (73.87%)
-/.wallpapers/tokyo-night01.png -- 17.35kb -&gt; 4.86kb (71.97%)
-/.wallpapers/tokyo-night38.png -- 64.94kb -&gt; 20.94kb (67.76%)
-/.wallpapers/tokyo-night14.png -- 18.79kb -&gt; 6.22kb (66.89%)
-/.wallpapers/tokyo-night04.png -- 16.19kb -&gt; 5.46kb (66.3%)
-/.wallpapers/tokyo-night03.png -- 23.36kb -&gt; 8.02kb (65.67%)
-/.wallpapers/tokyo-night25.png -- 78.68kb -&gt; 28.54kb (63.73%)
-/.wallpapers/tokyo-night21.png -- 17.27kb -&gt; 6.31kb (63.44%)
-/.wallpapers/tokyo-night33.png -- 557.53kb -&gt; 214.00kb (61.62%)
-/.wallpapers/tokyo-night34.png -- 540.15kb -&gt; 214.00kb (60.38%)
-/.wallpapers/tokyo-night11.png -- 88.92kb -&gt; 35.83kb (59.7%)
-/.wallpapers/tokyo-night06.png -- 86.79kb -&gt; 35.19kb (59.45%)
-/.wallpapers/tokyo-night22.png -- 112.79kb -&gt; 46.20kb (59.03%)
-/.wallpapers/tokyo-night13.png -- 76.52kb -&gt; 31.42kb (58.94%)
-/.wallpapers/tokyo-night08.png -- 22.91kb -&gt; 9.65kb (57.89%)
-/.wallpapers/tokyo-night19.png -- 285.40kb -&gt; 121.28kb (57.5%)
-/.wallpapers/tokyo-night12.png -- 36.93kb -&gt; 15.73kb (57.41%)
-/.wallpapers/tokyo-night20.png -- 50.27kb -&gt; 21.68kb (56.88%)
-/.wallpapers/tokyo-night05.png -- 69.84kb -&gt; 30.45kb (56.39%)
-/.wallpapers/tokyo-night16.png -- 189.05kb -&gt; 82.90kb (56.15%)
-/.wallpapers/tokyo-night10.png -- 53.18kb -&gt; 23.58kb (55.65%)
-/.wallpapers/wallpaper.png -- 1,939.68kb -&gt; 860.83kb (55.62%)
-/.wallpapers/tokyo-night39.png -- 49.52kb -&gt; 22.00kb (55.57%)
-/.wallpapers/tokyo-night30.png -- 51.95kb -&gt; 23.38kb (55%)
-/.wallpapers/tokyo-night23.png -- 182.75kb -&gt; 84.05kb (54.01%)
-/.wallpapers/dawn.png -- 1,322.79kb -&gt; 614.34kb (53.56%)
-/.wallpapers/tokyo-night07.png -- 43.44kb -&gt; 20.20kb (53.5%)
-/.wallpapers/tokyo-night02.png -- 46.35kb -&gt; 21.62kb (53.36%)
-/.wallpapers/tokyo-night09.png -- 62.47kb -&gt; 29.52kb (52.75%)
-/.wallpapers/tokyo-night15.png -- 62.36kb -&gt; 29.76kb (52.28%)
-/.wallpapers/tokyo-night41.png -- 377.17kb -&gt; 181.56kb (51.86%)
-/.wallpapers/tokyo-night18.png -- 901.78kb -&gt; 436.86kb (51.56%)
-/.wallpapers/tokyo-night24.png -- 369.03kb -&gt; 179.52kb (51.35%)
-/.wallpapers/tokyo-night17.png -- 127.08kb -&gt; 63.93kb (49.69%)
-/.config/jgmenu/MenuIcons/web-browser.png -- 6.14kb -&gt; 3.21kb (47.8%)
-/.config/jgmenu/MenuIcons/exit.png -- 2.76kb -&gt; 1.51kb (45.18%)
-/.config/jgmenu/MenuIcons/restart.png -- 4.37kb -&gt; 2.59kb (40.8%)
-/.config/jgmenu/MenuIcons/bspwm.png -- 4.75kb -&gt; 2.90kb (38.91%)
-/.config/jgmenu/MenuIcons/terminal.png -- 2.08kb -&gt; 1.29kb (38.36%)
-/.config/jgmenu/MenuIcons/system-menu.png -- 3.63kb -&gt; 2.27kb (37.53%)
-/.config/conky/Auva/res/red.png -- 1.32kb -&gt; 0.83kb (36.9%)
-/.config/jgmenu/MenuIcons/search.png -- 4.00kb -&gt; 2.57kb (35.9%)
-/.config/jgmenu/MenuIcons/dashboard.png -- 1.86kb -&gt; 1.24kb (33.63%)
-/.config/jgmenu/MenuIcons/edit-note.png -- 2.41kb -&gt; 1.61kb (33.36%)
-/.config/jgmenu/MenuIcons/music.png -- 2.62kb -&gt; 1.78kb (32.08%)
-/.wallpapers/tokyonightWallpaper2.svg -- 12.11kb -&gt; 8.63kb (28.77%)
-/.wallpapers/tokyonightWallpaper.svg -- 12.11kb -&gt; 8.63kb (28.76%)
-/.wallpapers/tokyo-night36.svg -- 12.04kb -&gt; 8.58kb (28.73%)
-/.wallpapers/tokyo-night37.svg -- 12.04kb -&gt; 8.58kb (28.73%)
-/.wallpapers/tokyo-night35.svg -- 12.04kb -&gt; 8.58kb (28.73%)
-/.config/jgmenu/MenuIcons/applications.png -- 1.83kb -&gt; 1.40kb (23.57%)
-/.config/neofetch/arch.png -- 9.87kb -&gt; 7.63kb (22.62%)
-/.config/jgmenu/MenuIcons/file-manager.png -- 1.13kb -&gt; 0.90kb (20.29%)
-/.config/eww/Main/images/no-notifications.svg -- 1.95kb -&gt; 1.60kb (18.04%)
-/usr/share/slim/themes/tokyonight/panel.png -- 114.66kb -&gt; 94.18kb (17.86%)
-/usr/share/slim/themes/tokyonight/background.png -- 890.84kb -&gt; 758.63kb (14.84%)
-/.wallpapers/tokyo-night27.png -- 1,387.83kb -&gt; 1,191.28kb (14.16%)
-/.wallpapers/tokyo-night31.png -- 872.90kb -&gt; 754.31kb (13.59%)
-/.wallpapers/tokyo.png -- 872.90kb -&gt; 754.31kb (13.59%)
-/.wallpapers/tokyo-night26.png -- 961.20kb -&gt; 830.94kb (13.55%)
-/.wallpapers/tokyo-night28.png -- 808.65kb -&gt; 709.84kb (12.22%)
-/.wallpapers/tokyo-night32.png -- 2,149.12kb -&gt; 1,895.90kb (11.78%)
-/.wallpapers/dunes.jpg -- 2,229.69kb -&gt; 2,002.45kb (10.19%)
-/.config/conky/Auva/res/g958.png -- 72.77kb -&gt; 68.35kb (6.07%)
-/.wallpapers/dark.jpg -- 255.04kb -&gt; 243.69kb (4.45%)
-/.config/eww/Main/images/default-music.svg -- 148.16kb -&gt; 148.15kb (0.01%)
-
-Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
+                                        <div class="sha">#ea26eb0</div>
+                                        <div class="message">feat: adding string</div>
                                     </div>
                                 </div>
                             </section>
@@ -305,7 +228,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 08:48:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Aug 2022, 08:49:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
