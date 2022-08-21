@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,13 +19,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            115619 Commits
+                            115618 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            230 Pull requests reviewed
+                            231 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,17 +210,125 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">literateOS/literate</span>
+                                        Pushed 125 commits in
+                                        <span class="repo">slowy07/ohmyzsh</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#69009c7</div>
-                                        <div class="message">feat: adding aarch
+                                        <div class="sha">#5fad26c</div>
+                                        <div class="message">feat(ripgrep): update `rg` completion to v13.0.0 (#10687)
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+Source: https://github.com/BurntSushi/ripgrep/blob/13.0.0/complete/_rg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69e2937</div>
+                                        <div class="message">fix(updater): fix input check on non-interactive runs
+
+Reference: https://www.zsh.org/mla/users/2022/msg00067.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbd92a6</div>
+                                        <div class="message">fix(updater): do not swallow 1 character in check for user input
+
+Co-authored-by: Philippe Troin &lt;phil@fifi.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b70851</div>
+                                        <div class="message">fix(emotty): show error on missing plugin dependencies (#9811)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6396dfb</div>
+                                        <div class="message">fix(kubectx): don't error on missing k8s context (#10675)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e615b7</div>
+                                        <div class="message">fix(virtualenvwrapper): only deactivate if virtual env is still present (#10671)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da33ca</div>
+                                        <div class="message">fix(cli): disable GPG signing in `omz pr test` to avoid key prompt (#10677)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaaa554</div>
+                                        <div class="message">refactor(juju)!: use the jsh prefix for `juju show-*` commands (#10426)
+
+BREAKING CHANGE: some aliases have been renamed to be consistent with the rest.
+Mainly, aliases for `juju show-` commands are renamed to `jsh*`. This also means
+that `jsh` and `jshc` have been renamed to `jssh` and `jsshc`. Have a look at the
+README for the complete alias changes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#564a606</div>
+                                        <div class="message">style(juju)!: don't show storage status in `wjst` for consistency (#10426)
+
+BREAKING CHANGE: `wjst` will no longer show storage in the status
+output. This is done for consistency with the `jst` and `jsts`
+aliases.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdd2d6e</div>
+                                        <div class="message">feat(juju): introduce additional juju aliases (#10426)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f045810</div>
+                                        <div class="message">feat(juju): add `jclean` function to destroy all registered controllers (#10426)
+
+Closes #10426</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c41f2e7</div>
+                                        <div class="message">feat(rbw): add `rbwpw` function to copy passwords to the clipboard (#10639)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#897fa09</div>
+                                        <div class="message">fix(kubectl): fix arguments in `keti` alias to allow completion (#10669)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0f4282</div>
+                                        <div class="message">feat(updater): do not update when user already typed some characters (#9699)
+
+Fixes #9699</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e26ad1</div>
+                                        <div class="message">fix(bureau): fix top line space computation
+
+Takes into account $ZLE_RPROMPT_INDENT and doesn't add the extra
+space at the end so it doesn't bleed into the next line.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74a3db7</div>
+                                        <div class="message">perf(bureau): remove multiple grep calls in git status check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e9831f</div>
+                                        <div class="message">fix(bureau): fix never `CLEAN` git status (#10656)
+
+Closes #10656</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d3bae9</div>
+                                        <div class="message">Introducing the ANSI logo graphic
+
+Trying this on for size for a while.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9c58d5</div>
+                                        <div class="message">feat(yarn): add setting to disable adding global dir to `$PATH` (#10642)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1a9d0c</div>
+                                        <div class="message">fix(cli): allow `omz` commands to be used in a script (#10645)
+
+The commands `omz plugin {enable,disable}` and `omz theme set`
+automatically reload the zsh session on success. With this
+change, the CLI checks whether the commands are run in an
+interactive session before reloading the zsh session.
+
+This change also conditionally sets the completion function
+for `omz` so that it's not done in a non-interactive session.</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,7 +338,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2022, 08:44:18 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 08:41:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
