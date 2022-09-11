@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="406" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            115659 Commits
+                            117014 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -141,7 +141,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    9 Forkers
+                                    10 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -207,14 +207,477 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">openbox</span>
-                                        in
-                                        <span class="repo">slowy07/my-dotfiles</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">slowy07/linux</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db7e5c1</div>
+                                        <div class="message">Revert "binder_alloc: Add missing mmap_lock calls when using the VMA"
+
+This reverts commit d6f35446d0769a98e9d761593d267cdd24f09ecd.
+
+It is coming in through Andrew's tree instead, and for some reason we
+have different versions.  I trust the version from Andrew more as the
+original offending commit came through his tree.
+
+Fixes: d6f35446d076 ("binder_alloc: Add missing mmap_lock calls when using the VMA")
+Cc: stable &lt;stable@kernel.org&gt;
+Cc: Ondrej Mosnacek &lt;omosnace@redhat.com&gt;
+Cc: Ondrej Mosnacek &lt;omosnace@redhat.com&gt;
+Cc: Carlos Llamas &lt;cmllamas@google.com&gt;
+Cc: Liam R. Howlett &lt;Liam.Howlett@oracle.com&gt;
+Reported-by: Stephen Rothwell &lt;sfr@canb.auug.org.au&gt;
+Link: https://lore.kernel.org/r/20220819184027.7b3fda3e@canb.auug.org.au
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c939e2</div>
+                                        <div class="message">ARM: dts: versatile: Update spi clock-names property
+
+Now that spi pl022 binding only accept "sspclk" as clock name, versatile
+platform with "SSPCLK" clock name start raising dtbs_check warnings.
+Make necessary changes to update this property in order to make it
+compliant with binding.
+
+clock-names:0: 'sspclk' was expected
+
+Signed-off-by: Kuldeep Singh &lt;singh.kuldeep87k@gmail.com&gt;
+Link: https://lore.kernel.org/r/20220312113853.63446-4-singh.kuldeep87k@gmail.com
+Signed-off-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1aa156f</div>
+                                        <div class="message">ARM: dts: realview: Update spi clock-names property
+
+Now that spi pl022 binding only accept "sspclk" as clock name, realview
+platforms with "SSPCLK" clock name start raising dtbs_check warnings.
+Make necessary changes to update this property in order to make it
+compliant with binding.
+
+clock-names:0: 'sspclk' was expected
+
+Signed-off-by: Kuldeep Singh &lt;singh.kuldeep87k@gmail.com&gt;
+Link: https://lore.kernel.org/r/20220312113853.63446-3-singh.kuldeep87k@gmail.com
+Signed-off-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba35187</div>
+                                        <div class="message">ARM: dts: integratorap: Update spi node properties
+
+As per spi pl022 binding, SPI clock name is "sspclk" and not "spiclk".
+Fix it.
+
+Also update ssp node name to enable spi bindings check.
+
+Signed-off-by: Kuldeep Singh &lt;singh.kuldeep87k@gmail.com&gt;
+Link: https://lore.kernel.org/r/20220312113853.63446-2-singh.kuldeep87k@gmail.com
+Signed-off-by: Linus Walleij &lt;linus.walleij@linaro.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6020f48</div>
+                                        <div class="message">usb: xhci-mtk: fix bandwidth release issue
+
+This happens when @udev-&gt;reset_resume is set to true, when usb resume,
+the flow as below:
+  - hub_resume
+    - usb_disable_interface
+      - usb_disable_endpoint
+        - usb_hcd_disable_endpoint
+          - xhci_endpoint_disable  // it set @ep-&gt;hcpriv to NULL
+
+Then when reset usb device, it will drop allocated endpoints,
+the flow as below:
+  - usb_reset_and_verify_device
+    - usb_hcd_alloc_bandwidth
+      - xhci_mtk_drop_ep
+
+but @ep-&gt;hcpriv is already set to NULL, the bandwidth will be not
+released anymore.
+
+Due to the added endponts are stored in hash table, we can drop the check
+of @ep-&gt;hcpriv.
+
+Fixes: 4ce186665e7c ("usb: xhci-mtk: Do not use xhci's virt_dev in drop_endpoint")
+Cc: stable &lt;stable@kernel.org&gt;
+Signed-off-by: Chunfeng Yun &lt;chunfeng.yun@mediatek.com&gt;
+Link: https://lore.kernel.org/r/20220819080556.32215-2-chunfeng.yun@mediatek.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b13ea0</div>
+                                        <div class="message">usb: xhci-mtk: relax TT periodic bandwidth allocation
+
+Currently uses the worst case byte budgets on FS/LS bus bandwidth,
+for example, for an isochronos IN endpoint with 192 bytes budget, it
+will consume the whole 5 uframes(188 * 5) while the actual FS bus
+budget should be just 192 bytes. It cause that many usb audio headsets
+with 3 interfaces (audio input, audio output, and HID) cannot be
+configured.
+To improve it, changes to use "approximate" best case budget for FS/LS
+bandwidth management. For the same endpoint from the above example,
+the approximate best case budget is now reduced to (188 * 2) bytes.
+
+Signed-off-by: Chunfeng Yun &lt;chunfeng.yun@mediatek.com&gt;
+Cc: stable &lt;stable@kernel.org&gt;
+Link: https://lore.kernel.org/r/20220819080556.32215-1-chunfeng.yun@mediatek.com
+Signed-off-by: Greg Kroah-Hartman &lt;gregkh@linuxfoundation.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eceb6e1</div>
+                                        <div class="message">KVM: Drop unnecessary initialization of "ops" in kvm_ioctl_create_device()
+
+The variable is initialized but it is only used after its assignment.
+
+Reviewed-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Signed-off-by: Li kunyu &lt;kunyu@nfschina.com&gt;
+Message-Id: &lt;20220819021535.483702-1-kunyu@nfschina.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2824913</div>
+                                        <div class="message">KVM: Drop unnecessary initialization of "npages" in hva_to_pfn_slow()
+
+The variable is initialized but it is only used after its assignment.
+
+Reviewed-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Signed-off-by: Li kunyu &lt;kunyu@nfschina.com&gt;
+Message-Id: &lt;20220819022804.483914-1-kunyu@nfschina.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d9606b</div>
+                                        <div class="message">x86/kvm: Fix "missing ENDBR" BUG for fastop functions
+
+The following BUG was reported:
+
+  traps: Missing ENDBR: andw_ax_dx+0x0/0x10 [kvm]
+  ------------[ cut here ]------------
+  kernel BUG at arch/x86/kernel/traps.c:253!
+  invalid opcode: 0000 [#1] PREEMPT SMP NOPTI
+   &lt;TASK&gt;
+   asm_exc_control_protection+0x2b/0x30
+  RIP: 0010:andw_ax_dx+0x0/0x10 [kvm]
+  Code: c3 cc cc cc cc 0f 1f 44 00 00 66 0f 1f 00 48 19 d0 c3 cc cc cc
+        cc 0f 1f 40 00 f3 0f 1e fa 20 d0 c3 cc cc cc cc 0f 1f 44 00 00
+        &lt;66&gt; 0f 1f 00 66 21 d0 c3 cc cc cc cc 0f 1f 40 00 66 0f 1f 00 21
+        d0
+
+   ? andb_al_dl+0x10/0x10 [kvm]
+   ? fastop+0x5d/0xa0 [kvm]
+   x86_emulate_insn+0x822/0x1060 [kvm]
+   x86_emulate_instruction+0x46f/0x750 [kvm]
+   complete_emulated_mmio+0x216/0x2c0 [kvm]
+   kvm_arch_vcpu_ioctl_run+0x604/0x650 [kvm]
+   kvm_vcpu_ioctl+0x2f4/0x6b0 [kvm]
+   ? wake_up_q+0xa0/0xa0
+
+The BUG occurred because the ENDBR in the andw_ax_dx() fastop function
+had been incorrectly "sealed" (converted to a NOP) by apply_ibt_endbr().
+
+Objtool marked it to be sealed because KVM has no compile-time
+references to the function.  Instead KVM calculates its address at
+runtime.
+
+Prevent objtool from annotating fastop functions as sealable by creating
+throwaway dummy compile-time references to the functions.
+
+Fixes: 6649fa876da4 ("x86/ibt,kvm: Add ENDBR to fastops")
+Reported-by: Pengfei Xu &lt;pengfei.xu@intel.com&gt;
+Debugged-by: Peter Zijlstra &lt;peterz@infradead.org&gt;
+Signed-off-by: Josh Poimboeuf &lt;jpoimboe@kernel.org&gt;
+Message-Id: &lt;0d4116f90e9d0c1b754bb90c585e6f0415a1c508.1660837839.git.jpoimboe@kernel.org&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22472d1</div>
+                                        <div class="message">x86/kvm: Simplify FOP_SETCC()
+
+SETCC_ALIGN and FOP_ALIGN are both 16.  Remove the special casing for
+FOP_SETCC() and just make it a normal fastop.
+
+Signed-off-by: Josh Poimboeuf &lt;jpoimboe@kernel.org&gt;
+Message-Id: &lt;7c13d94d1a775156f7e36eed30509b274a229140.1660837839.git.jpoimboe@kernel.org&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e27e5be</div>
+                                        <div class="message">x86/ibt, objtool: Add IBT_NOSEAL()
+
+Add a macro which prevents a function from getting sealed if there are
+no compile-time references to it.
+
+Signed-off-by: Josh Poimboeuf &lt;jpoimboe@kernel.org&gt;
+Message-Id: &lt;20220818213927.e44fmxkoq4yj6ybn@treble&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20ec3eb</div>
+                                        <div class="message">KVM: Rename mmu_notifier_* to mmu_invalidate_*
+
+The motivation of this renaming is to make these variables and related
+helper functions less mmu_notifier bound and can also be used for non
+mmu_notifier based page invalidation. mmu_invalidate_* was chosen to
+better describe the purpose of 'invalidating' a page that those
+variables are used for.
+
+  - mmu_notifier_seq/range_start/range_end are renamed to
+    mmu_invalidate_seq/range_start/range_end.
+
+  - mmu_notifier_retry{_hva} helper functions are renamed to
+    mmu_invalidate_retry{_hva}.
+
+  - mmu_notifier_count is renamed to mmu_invalidate_in_progress to
+    avoid confusion with mn_active_invalidate_count.
+
+  - While here, also update kvm_inc/dec_notifier_count() to
+    kvm_mmu_invalidate_begin/end() to match the change for
+    mmu_notifier_count.
+
+No functional change intended.
+
+Signed-off-by: Chao Peng &lt;chao.p.peng@linux.intel.com&gt;
+Message-Id: &lt;20220816125322.1110439-3-chao.p.peng@linux.intel.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdd1c37</div>
+                                        <div class="message">KVM: Rename KVM_PRIVATE_MEM_SLOTS to KVM_INTERNAL_MEM_SLOTS
+
+KVM_INTERNAL_MEM_SLOTS better reflects the fact those slots are KVM
+internally used (invisible to userspace) and avoids confusion to future
+private slots that can have different meaning.
+
+Signed-off-by: Chao Peng &lt;chao.p.peng@linux.intel.com&gt;
+Message-Id: &lt;20220816125322.1110439-2-chao.p.peng@linux.intel.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b075450</div>
+                                        <div class="message">KVM: MIPS: remove unnecessary definition of KVM_PRIVATE_MEM_SLOTS
+
+KVM_PRIVATE_MEM_SLOTS defaults to zero, so it is not necessary to
+define it in MIPS's asm/kvm_host.h.
+
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2b8239</div>
+                                        <div class="message">KVM: Move coalesced MMIO initialization (back) into kvm_create_vm()
+
+Invoke kvm_coalesced_mmio_init() from kvm_create_vm() now that allocating
+and initializing coalesced MMIO objects is separate from registering any
+associated devices.  Moving coalesced MMIO cleans up the last oddity
+where KVM does VM creation/initialization after kvm_create_vm(), and more
+importantly after kvm_arch_post_init_vm() is called and the VM is added
+to the global vm_list, i.e. after the VM is fully created as far as KVM
+is concerned.
+
+Originally, kvm_coalesced_mmio_init() was called by kvm_create_vm(), but
+the original implementation was completely devoid of error handling.
+Commit 6ce5a090a9a0 ("KVM: coalesced_mmio: fix kvm_coalesced_mmio_init()'s
+error handling" fixed the various bugs, and in doing so rightly moved the
+call to after kvm_create_vm() because kvm_coalesced_mmio_init() also
+registered the coalesced MMIO device.  Commit 2b3c246a682c ("KVM: Make
+coalesced mmio use a device per zone") cleaned up that mess by having
+each zone register a separate device, i.e. moved device registration to
+its logical home in kvm_vm_ioctl_register_coalesced_mmio().  As a result,
+kvm_coalesced_mmio_init() is now a "pure" initialization helper and can
+be safely called from kvm_create_vm().
+
+Opportunstically drop the #ifdef, KVM provides stubs for
+kvm_coalesced_mmio_{init,free}() when CONFIG_KVM_MMIO=n (s390).
+
+Signed-off-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Message-Id: &lt;20220816053937.2477106-4-seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#405294f</div>
+                                        <div class="message">KVM: Unconditionally get a ref to /dev/kvm module when creating a VM
+
+Unconditionally get a reference to the /dev/kvm module when creating a VM
+instead of using try_get_module(), which will fail if the module is in
+the process of being forcefully unloaded.  The error handling when
+try_get_module() fails doesn't properly unwind all that has been done,
+e.g. doesn't call kvm_arch_pre_destroy_vm() and doesn't remove the VM
+from the global list.  Not removing VMs from the global list tends to be
+fatal, e.g. leads to use-after-free explosions.
+
+The obvious alternative would be to add proper unwinding, but the
+justification for using try_get_module(), "rmmod --wait", is completely
+bogus as support for "rmmod --wait", i.e. delete_module() without
+O_NONBLOCK, was removed by commit 3f2b9c9cdf38 ("module: remove rmmod
+--wait option.") nearly a decade ago.
+
+It's still possible for try_get_module() to fail due to the module dying
+(more like being killed), as the module will be tagged MODULE_STATE_GOING
+by "rmmod --force", i.e. delete_module(..., O_TRUNC), but playing nice
+with forced unloading is an exercise in futility and gives a falsea sense
+of security.  Using try_get_module() only prevents acquiring _new_
+references, it doesn't magically put the references held by other VMs,
+and forced unloading doesn't wait, i.e. "rmmod --force" on KVM is all but
+guaranteed to cause spectacular fireworks; the window where KVM will fail
+try_get_module() is tiny compared to the window where KVM is building and
+running the VM with an elevated module refcount.
+
+Addressing KVM's inability to play nice with "rmmod --force" is firmly
+out-of-scope.  Forcefully unloading any module taints kernel (for obvious
+reasons)  _and_ requires the kernel to be built with
+CONFIG_MODULE_FORCE_UNLOAD=y, which is off by default and comes with the
+amusing disclaimer that it's "mainly for kernel developers and desperate
+users".  In other words, KVM is free to scoff at bug reports due to using
+"rmmod --force" while VMs may be running.
+
+Fixes: 5f6de5cbebee ("KVM: Prevent module exit until all VMs are freed")
+Cc: stable@vger.kernel.org
+Cc: David Matlack &lt;dmatlack@google.com&gt;
+Signed-off-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Message-Id: &lt;20220816053937.2477106-3-seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ba4f41</div>
+                                        <div class="message">KVM: Properly unwind VM creation if creating debugfs fails
+
+Properly unwind VM creation if kvm_create_vm_debugfs() fails.  A recent
+change to invoke kvm_create_vm_debug() in kvm_create_vm() was led astray
+by buggy try_get_module() handling adding by commit 5f6de5cbebee ("KVM:
+Prevent module exit until all VMs are freed").  The debugfs error path
+effectively inherits the bad error path of try_module_get(), e.g. KVM
+leaves the to-be-free VM on vm_list even though KVM appears to do the
+right thing by calling module_put() and falling through.
+
+Opportunistically hoist kvm_create_vm_debugfs() above the call to
+kvm_arch_post_init_vm() so that the "post-init" arch hook is actually
+invoked after the VM is initialized (ignoring kvm_coalesced_mmio_init()
+for the moment).  x86 is the only non-nop implementation of the post-init
+hook, and it doesn't allocate/initialize any objects that are reachable
+via debugfs code (spawns a kthread worker for the NX huge page mitigation).
+
+Leave the buggy try_get_module() alone for now, it will be fixed in a
+separate commit.
+
+Fixes: b74ed7a68ec1 ("KVM: Actually create debugfs in kvm_create_vm()")
+Reported-by: syzbot+744e173caec2e1627ee0@syzkaller.appspotmail.com
+Cc: Oliver Upton &lt;oliver.upton@linux.dev&gt;
+Signed-off-by: Sean Christopherson &lt;seanjc@google.com&gt;
+Reviewed-by: Oliver Upton &lt;oliver.upton@linux.dev&gt;
+Message-Id: &lt;20220816053937.2477106-2-seanjc@google.com&gt;
+Signed-off-by: Paolo Bonzini &lt;pbonzini@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c2d0b0</div>
+                                        <div class="message">Merge tag 'net-6.0-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net
+
+Pull networking fixes from Jakub Kicinski:
+ "Including fixes from netfilter.
+
+  Current release - regressions:
+
+   - tcp: fix cleanup and leaks in tcp_read_skb() (the new way BPF
+     socket maps get data out of the TCP stack)
+
+   - tls: rx: react to strparser initialization errors
+
+   - netfilter: nf_tables: fix scheduling-while-atomic splat
+
+   - net: fix suspicious RCU usage in bpf_sk_reuseport_detach()
+
+  Current release - new code bugs:
+
+   - mlxsw: ptp: fix a couple of races, static checker warnings and
+     error handling
+
+  Previous releases - regressions:
+
+   - netfilter:
+      - nf_tables: fix possible module reference underflow in error path
+      - make conntrack helpers deal with BIG TCP (skbs &gt; 64kB)
+      - nfnetlink: re-enable conntrack expectation events
+
+   - net: fix potential refcount leak in ndisc_router_discovery()
+
+  Previous releases - always broken:
+
+   - sched: cls_route: disallow handle of 0
+
+   - neigh: fix possible local DoS due to net iface start/stop loop
+
+   - rtnetlink: fix module refcount leak in rtnetlink_rcv_msg
+
+   - sched: fix adding qlen to qcpu-&gt;backlog in gnet_stats_add_queue_cpu
+
+   - virtio_net: fix endian-ness for RSS
+
+   - dsa: mv88e6060: prevent crash on an unused port
+
+   - fec: fix timer capture timing in `fec_ptp_enable_pps()`
+
+   - ocelot: stats: fix races, integer wrapping and reading incorrect
+     registers (the change of register definitions here accounts for
+     bulk of the changed LoC in this PR)"
+
+* tag 'net-6.0-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net: (77 commits)
+  net: moxa: MAC address reading, generating, validity checking
+  tcp: handle pure FIN case correctly
+  tcp: refactor tcp_read_skb() a bit
+  tcp: fix tcp_cleanup_rbuf() for tcp_read_skb()
+  tcp: fix sock skb accounting in tcp_read_skb()
+  igb: Add lock to avoid data race
+  dt-bindings: Fix incorrect "the the" corrections
+  net: genl: fix error path memory leak in policy dumping
+  stmmac: intel: Add a missing clk_disable_unprepare() call in intel_eth_pci_remove()
+  net: ethernet: mtk_eth_soc: fix possible NULL pointer dereference in mtk_xdp_run
+  net/mlx5e: Allocate flow steering storage during uplink initialization
+  net: mscc: ocelot: report ndo_get_stats64 from the wraparound-resistant ocelot-&gt;stats
+  net: mscc: ocelot: keep ocelot_stat_layout by reg address, not offset
+  net: mscc: ocelot: make struct ocelot_stat_layout array indexable
+  net: mscc: ocelot: fix race between ndo_get_stats64 and ocelot_check_stats_work
+  net: mscc: ocelot: turn stats_lock into a spinlock
+  net: mscc: ocelot: fix address of SYS_COUNT_TX_AGING counter
+  net: mscc: ocelot: fix incorrect ndo_get_stats64 packet counters
+  net: dsa: felix: fix ethtool 256-511 and 512-1023 TX packet counters
+  net: dsa: don't warn in dsa_port_set_state_now() when driver doesn't support it
+  ...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90b6b68</div>
+                                        <div class="message">Merge tag 'linux-kselftest-next-6.0-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-kselftest
+
+Pull Kselftest fix from Shuah Khan:
+
+ - fix landlock test build regression
+
+* tag 'linux-kselftest-next-6.0-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-kselftest:
+  selftests/landlock: fix broken include of linux/landlock.h</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0de277d</div>
+                                        <div class="message">Merge tag 'trace-rtla-v6.0' of git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/linux-trace
+
+Pull rtla tool fixes from Steven Rostedt:
+ "Fixes for the Real-Time Linux Analysis tooling:
+
+   - Fix tracer name in comments and prints
+
+   - Fix setting up symlinks
+
+   - Allow extra flags to be set in build
+
+   - Consolidate and show all necessary libraries not found in build
+     error"
+
+* tag 'trace-rtla-v6.0' of git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/linux-trace:
+  rtla: Consolidate and show all necessary libraries that failed for building
+  tools/rtla: Build with EXTRA_{C,LD}FLAGS
+  tools/rtla: Fix command symlinks
+  rtla: Fix tracer name</div>
                                     </div>
                                 </div>
                             </section>
@@ -224,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2022, 08:56:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Sept 2022, 08:54:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
