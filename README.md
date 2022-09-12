@@ -1,5 +1,17 @@
 ![banner](banner.png)
 
+<h3 align="center">a simple person for focusing on fixing some code and make sure the application works very well</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowy07" alt="slowy07" /></a> </p>
+
+- 💬 Ask me about **System engineering, Artificial Intelligence, and quantum computing**
+
+- ⚡ Fun fact **i'm don't know about web developer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## Statistic
 ![arfy slowy GitHub stats](https://github-readme-stats.vercel.app/api?username=slowy07&show_icons=true&theme=shades-of-purple)
 
