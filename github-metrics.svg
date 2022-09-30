@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            117111 Commits
+                            117114 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -135,7 +135,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    137 Stargazers
+                                    139 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,15 +210,135 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/luna</span>
+                                        Pushed 27 commits in
+                                        <span class="repo">slowy07/google-research</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e47a37f</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#6ea4394</div>
+                                        <div class="message">Code release for paper ``Scaling forward gradient with local losses''.
+
+PiperOrigin-RevId: 476739764</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3aeeec5</div>
+                                        <div class="message">Change loss function parameter using return_softmax flag.
+
+PiperOrigin-RevId: 476482493</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c50fd5</div>
+                                        <div class="message">Fixing sequence assignment
+
+PiperOrigin-RevId: 476471412</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c8a3fc</div>
+                                        <div class="message">Apache Beam pipeline to preprocess Pfam MySQL tables.
+
+PiperOrigin-RevId: 476342529</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f87e47</div>
+                                        <div class="message">Revised Gin-config files and model + input pipeline code.
+
+PiperOrigin-RevId: 476336663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97f3edb</div>
+                                        <div class="message">Fixes for layer quantization in cnn.py and conv_model.py.
+
+Adds test for the expected quantize config for BatchNormalization layer.
+
+PiperOrigin-RevId: 476217031</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ac8bb1</div>
+                                        <div class="message">run old code with new datasets
+
+PiperOrigin-RevId: 476170429</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32de5cb</div>
+                                        <div class="message">Replace `tensorflow::Status::OK()` with` tensorflow::OkStatus()`.
+
+Because this code needs to be built with older versions of TF, we use `tensorflow::Status()` which is backward compatible.
+
+PiperOrigin-RevId: 476154536</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65d07dd</div>
+                                        <div class="message">A set of utility functions to process GitHub code.
+
+PiperOrigin-RevId: 476144254</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#856f39a</div>
+                                        <div class="message">Infrastructure for active learning on FEP data.
+
+PiperOrigin-RevId: 476135099</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d08baa7</div>
+                                        <div class="message">Open-source BUSTLE.
+
+PiperOrigin-RevId: 475944698</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82ae035</div>
+                                        <div class="message">Internal change.
+
+PiperOrigin-RevId: 475820651</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b159623</div>
+                                        <div class="message">Remove language that says Creative Reinterpretation "may or may not be an error."
+
+PiperOrigin-RevId: 475676468</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b9de16</div>
+                                        <div class="message">Merge of PR #1222
+
+PiperOrigin-RevId: 475646922</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#170c64d</div>
+                                        <div class="message">Minor updates.
+
+PiperOrigin-RevId: 475629367</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d39dfbb</div>
+                                        <div class="message">Add interactive colab (authored by Wenlong Huang and Jacky Liang) to google_research github repo.
+
+PiperOrigin-RevId: 475620889</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a399175</div>
+                                        <div class="message">Fixes a tiny bug in lm_memorization script and adds a link to prompts hosted by external collaborator.
+
+PiperOrigin-RevId: 475563425</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5de31e</div>
+                                        <div class="message">Small fix in the DEDAL documentation.
+
+PiperOrigin-RevId: 475547133</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fe5b10</div>
+                                        <div class="message">Fix TFLite export of streaming models with cond_features
+
+PiperOrigin-RevId: 475372448</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcf68e3</div>
+                                        <div class="message">internal change
+
+PiperOrigin-RevId: 475355488</div>
                                     </div>
                                 </div>
                             </section>
@@ -228,7 +348,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2022, 09:01:28 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 30 Sept 2022, 09:23:11 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
