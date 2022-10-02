@@ -18,9 +18,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact&theme=shades-of-purple&hide=jupyter%20notebook)
 
 ## current project
-| Project name  | Description |
-| ------------- | ------------- |
-| [Literate](https://github.com/literateOS/literate)  | Open source operating system  |
+| Project name  | Description |   status        |
+| ------------- | ------------- | ------------- |
+| [Literate](https://github.com/literateOS/literate)  | Open source operating system  | ![last_commit](https://img.shields.io/github/last-commit/literateOS/literate?style=flat-square) |
 
 # Language and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
