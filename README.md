@@ -15,12 +15,15 @@
 ## Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact&theme=shades-of-purple&&hide=jupyter%20notebook,html,css,JavaScript,Dart)
 
+
 ## current project
 | Project name  | Description |   status        |
 | ------------- | ------------- | ------------- |
 | [Literate](https://github.com/literateOS/literate)  | Open source operating system  | ![last_commit](https://img.shields.io/github/last-commit/literateOS/literate?style=flat-square) |
 
 # Language and tools
+
+![wakatime](https://wakatime.com/badge/user/56825ec2-7fff-4f27-9073-ea4a4f18423e.svg?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
