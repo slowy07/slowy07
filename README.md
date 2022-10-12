@@ -2,7 +2,9 @@
 
 <h3 align="center">a simple person for focusing on fixing some code and make sure the application works very well</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowy07" alt="slowy07" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowy07" alt="slowy07" /></a> </p> -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=radical)
 
 - 💬 Ask me about **System engineering, Artificial Intelligence, and quantum computing**
 
