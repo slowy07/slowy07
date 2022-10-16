@@ -1,6 +1,8 @@
 ![banner](banner.png)
 
-<h3 align="center">a simple person for focusing on fixing some code and make sure the application works very well</h3>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/56825ec2-7fff-4f27-9073-ea4a4f18423e.svg?style=flat-square">
+ </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowy07" alt="slowy07" /></a> </p> -->
 
@@ -25,7 +27,6 @@
 
 # Language and tools
 
-![wakatime](https://wakatime.com/badge/user/56825ec2-7fff-4f27-9073-ea4a4f18423e.svg?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
