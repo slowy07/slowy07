@@ -27,11 +27,11 @@
 
 # Language and tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/slowy07?tab=repositories&q=&type=&language=python&sort=)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/slowy07?tab=repositories&q=&type=&language=c&sort=)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/slowy07?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://github.com/slowy07?tab=repositories&q=&type=&language=go&sort=)
+[![scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)](https://github.com/slowy07?tab=repositories&q=&type=&language=scala&sort=)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=v&logo=rust&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
