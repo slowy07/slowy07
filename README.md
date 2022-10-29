@@ -1,4 +1,4 @@
-![banner](banner.png)
+<!-- ![banner](banner.png) -->
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/56825ec2-7fff-4f27-9073-ea4a4f18423e.svg?style=flat-square">
