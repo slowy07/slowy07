@@ -3,27 +3,15 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/56825ec2-7fff-4f27-9073-ea4a4f18423e.svg?style=flat-square">
  </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slowy07" alt="slowy07" /></a> </p> -->
-
+ 
 ![trophy](https://github-profile-trophy.vercel.app/?username=slowy07&theme=radical)
 
 - 💬 Ask me about **System engineering, Artificial Intelligence, and quantum computing**
 
 - ⚡ Fun fact **i'm don't know about web developer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ## Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact&theme=shades-of-purple&&hide=jupyter%20notebook,html,css,JavaScript,Dart)
-
-
-## current project
-| Project name  | Description |   status        |
-| ------------- | ------------- | ------------- |
-| [Literate](https://github.com/literateOS/literate)  | Open source operating system  | ![last_commit](https://img.shields.io/github/last-commit/literateOS/literate?style=flat-square) |
 
 # Language and tools
 
