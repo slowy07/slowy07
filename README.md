@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **System engineering, Artificial Intelligence, and quantum computing**
 
-- ⚡ Fun fact **i'm don't know about web developer**
+- ⚡ Fun fact **i don't know about web developer**
 
 ## Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowy07&layout=compact&theme=shades-of-purple&&hide=jupyter%20notebook,html,css,JavaScript,Dart)
