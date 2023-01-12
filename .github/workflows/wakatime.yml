@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: slowy07/slowy07
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
