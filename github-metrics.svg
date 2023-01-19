@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            126100 Commits
+                            126099 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +121,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    25.9 GB used
+                                    26.2 GB used
                                 </div>
                             </section>
                             <section>
@@ -210,17 +210,134 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">De-Rune/luna</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">slowy07/google-cloud-cpp</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6717af</div>
-                                        <div class="message">feat: adding clip bert
+                                        <div class="sha">#b39b353</div>
+                                        <div class="message">cleanup: move `google/cloud/examples/` to `examples/` (#9304)
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+We decided to separate the libraries from the examples that use more
+than one library.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40b66c4</div>
+                                        <div class="message">impl(GCS+gRPC): convert `AsyncReadObject()` results (#9302)
+
+In the `storage` library we do not expose protos directly to the
+application developer. This change introduces a function to convert the
+protos accumulated by `AsyncAccumulateReadObjectFull()` into types that
+are consistent with the public APIs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f308e3</div>
+                                        <div class="message">cleanup: no CMAKE_CXX_STANDARD in quickstarts (#9303)
+
+The generated quickstarts never set CMAKE_CXX_STANDARD, but we used to
+set this in older code.  We also do not compile any "C" code so the
+CMake projects do not need to waste time looking for a "C" compiler.
+
+Also cleaned up one of the CI support files, which had a similar
+set of problems.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baf3423</div>
+                                        <div class="message">chore: update vcpkg to 2022.06.15 release (#9289)
+
+With this new release we also need new tools (CMake, Ninja) for macOS,
+so download those too.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90f1855</div>
+                                        <div class="message">impl(bigtable): modern `Table::AsyncReadRow()` (#9297)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#041d913</div>
+                                        <div class="message">ci(kokoro/macOS): use GCS for vcpkg binary cache (#9300)
+
+vcpkg can use GCS to keep its binary cache (i.e. pre-built binaries of
+each package).  This cache uploads each package as it is built, which
+is nice when doing a large rebuild, as the results are immediately
+saved.  This is a content-based cache, and it includes the signature of
+the compiler and other elements in the toolchain.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b24320</div>
+                                        <div class="message">impl(GCS+gRPC): `AsyncReadObject` accumulator with retries (#9296)
+
+This is another building block for `AsyncClient::ReadObject()`. On
+failures, it retries the `AsyncReadObject()` request skipping any bytes
+already received. The retry loop stops on the first streaming RPC that
+completes successfully, or when the retry policy is exhausted.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa4dffb</div>
+                                        <div class="message">doc: update guide to declare libraries GA (#9299)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a175b4c</div>
+                                        <div class="message">doc: revert pubsublite README changes (#9298)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa2c087</div>
+                                        <div class="message">impl(bigtable): modern `Table::AsyncReadRows()` (#9294)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16e7c82</div>
+                                        <div class="message">cleanup: remove "experimental" warnings on GA libraries (#9295)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a88a75</div>
+                                        <div class="message">fix(GCS+gRPC): all `co_await` should be callbacks (#9291)
+
+I tried to cheat for the timers and avoid a callback, but it produces
+deadlocks if the completion queue has a single thread.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2968677</div>
+                                        <div class="message">refactor(common): consolidate `ErrorInfo` parsing (#9293)
+
+We had two versions of the `ErrorInfo` parser from JSON payloads.  The
+version in `storage/` was more robust when the payload was malformed.
+The version in `cloud/internal/` preserved the HTTP status code (a good
+idea in general).
+
+This change consolidates the two implementations to the `rest_internal`
+library.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8102135</div>
+                                        <div class="message">impl(bigtable): modern `AsyncRowReader` (#9287)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd1d0eb</div>
+                                        <div class="message">cleanup(GCS+gRPC): hide implementation details in .cc file (#9288)
+
+More code in the `.h` file than strictly needed, and the API was not any
+better.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2296d12</div>
+                                        <div class="message">cleanup(GCS+gRPC): duplicate mocks for `AsyncReadObject()` result (#9286)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#182dc88</div>
+                                        <div class="message">refactor(bigtable): duplicate `AsyncRowReader` (#9282)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4990172</div>
+                                        <div class="message">refactor(bigtable): untemplate `AsyncRowReader` (#9272)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5a70e1</div>
+                                        <div class="message">chore(deps): update dependency bazelbuild/bazelisk to v1.12.0 (#9281)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66ab82a</div>
+                                        <div class="message">test(storage): benchmark `RestClient` vs. `CurlClient` (#9280)</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,7 +347,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2023, 08:14:22 (timezone Asia/Jakarta) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 19 Jan 2023, 08:13:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
