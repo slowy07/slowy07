@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="725" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="406" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,13 +19,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            126534 Commits
+                            126538 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            120 Pull requests reviewed
+                            122 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -65,7 +65,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 20 users
+                            Following 19 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -207,392 +207,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 565 commits in
-                                        <span class="repo">slowy07/Python</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1e70cf</div>
-                                        <div class="message">docs: renovate README (#4620)
-
-Conjunctive adverbs should be followed by a comma.
-
-For more details, kindly refer:
-https://www.aje.com/arc/editing-tip-commas-conjunctive-adverbs/
-
-Separate out the labels into two rows
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-Co-authored-by: Dhruv Manilawala &lt;dhruvmanila@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9f1815</div>
-                                        <div class="message">Create check_polygon.py (#4605)
-
-* Create check_polygon.py
-
-* Update check_polygon.py
-
-* Update maths/check_polygon.py
-
-* Update check_polygon.py
-
-* Update check_polygon.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02bc4bf</div>
-                                        <div class="message">Add Julia sets to fractals (#4382)
-
-* Added Julia sets drawing
-
-* Forgot the .py extension
-
-* Update julia_sets.py
-
-Added online sources for comparison.
-Added more examples of fractal Julia sets.
-Added all type hints.
-Only show one picture
-Silented RuntuleWarning's (there's no way of avoiding them and they're not an issue per se)
-
-* Added doctest example for "show_results"
-
-* Filtering Nan's and infinites
-
-* added 1 missing type hint
-
-* in iterate_function, convert to dtype=complex64
-
-* RuntimeWarning (fine) filtering
-
-* Type hint, test for ignore_warnings function, typo in header
-
-* Update julia_sets.py
-
-Type of expected output value for iterate function int array -&gt; complex array (throws an error on test)
-
-* Update julia_sets.py
-
-- More accurate type for tests cases in eval_quadratic_polynomial and iterate_function
-- added more characters for variables c &amp; z in eval_quadratic_polynomial and eval_exponential to silent bot warnings
-
-* Function def formatting
-
-Blocked by black
-
-* Update julia_sets.py
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-* added more doctests for eval_exponential
-
-* Update fractals/julia_sets.py
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;
-
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d02103</div>
-                                        <div class="message">Fixed #4764 (#4779)
-
-* Fixed #4764
-
-* Fixes #4764</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66a528b</div>
-                                        <div class="message">Improve Project Euler problem 014 solution 2 (#4752)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d1cfa</div>
-                                        <div class="message">from __future__ import annotations (#4763)
-
-* from __future__ import annotations
-
-* updating DIRECTORY.md
-
-* from __future__ import annotations
-
-* from __future__ import annotations
-
-* Update xor_cipher.py
-
-Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc07a85</div>
-                                        <div class="message">Update and rename check_valid_ip_address.py to is_ip_v4_address_valid.py (#4665)
-
-* Update and rename check_valid_ip_address.py to is_ip_v4_address_valid.py
-
-New test cases that the algorithm must detect:
-* [ ] an octet much bigger than 255
-* [ ] an octet is negative
-* [ ] number of octets is less than 4
-* [ ] number of octets is greater than 4
-* [ ] an octet is a letter
-
-* updating DIRECTORY.md
-
-* Add two more tests to is_ip_v4_address_valid.py
-
-Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;
-Co-authored-by: John Law &lt;johnlaw.po@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abc725f</div>
-                                        <div class="message">mypy --install-types --non-interactive . (#4530)
-
-* mypy --install-types --non-interactive .
-
-@dhruvmanila Is this useful/needed given that we do not pin our dependencies?
-
-https://mypy-lang.blogspot.com/2021/06/mypy-0910-released.html
-
-* updating DIRECTORY.md
-
-Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7b9e28</div>
-                                        <div class="message">Improve Project Euler problem 009 solution 1 (#4749)
-
-* Improve solution
-
-* Uncomment code that has been commented due to slow execution affecting Travis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4761fef</div>
-                                        <div class="message">Double factorial iterative (#4760)
-
-* Adding the double factorial algorithm
-
-* Adding the double factorial algorithm
-
-Co-authored-by: Jonathan Ocles &lt;jocles@chiang.ec&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d5856</div>
-                                        <div class="message">Fix typos in Project Euler problem 034 solution 1 (#4748)
-
-* Fix comment
-
-* Fix output</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cecf43d</div>
-                                        <div class="message">Pyupgrade to Python 3.9 (#4718)
-
-* Pyupgrade to Python 3.9
-
-* updating DIRECTORY.md
-
-Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d5831b</div>
-                                        <div class="message">Physics new code (#4709)
-
-* added gamma_function
-
-* Add files via upload
-
-* Resolved issue with str.format
-
-And also changed output to math notation
-
-* Update gamma_function.py
-
-* Rename physics/gamma_function.py to maths/gamma_recursive.py
-
-* Fixes: #4709 Fixed issues for pre-commit test
-
-* Fixes: #4709 solved issues with doctests
-
-And comments
-
-* Fixes: #4709 Added failed tests to doctest
-
-* Align with Python's Standard Library math.gamma()
-
-Replicate the exceptions of https://docs.python.org/3/library/math.html#math.gamma
-
-* Update gamma_recursive.py
-
-* Update gamma_recursive.py
-
-* Update gamma_recursive.py
-
-* Update gamma_recursive.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1b15a8</div>
-                                        <div class="message">[mypy] Fix type annotations for  dynamic programming (#4687)
-
-* Fix mypy error for knapsack.py
-
-* Fix mypy error for longest_increasing_subsequence
-
-* Fix mypy error for fractional_knapsack_2.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#757d4fb</div>
-                                        <div class="message">Added Dutch National Flag algorithm #4636 (#4639)
-
-* Added Dutch national flag sort Algorithm
-
-* Changed file name to dnf_sort.py
-
-* Added descriptive name and type hint 
-
-Added descriptive name and type hint  for parameter with doctest for the function dnf_sort.
-
-* Added test cases
-
-* Added doctest cases
-
-* Update sorts/dnf_sort.py
-
-* Added doctest for dutch_national_flag_sort sorts/dnf_sort.py
-
-* Update sorts/dnf_sort.py
-
-* Added doctest for the function
-dutch_national_flag_sort
-
-* update file as per black code formatter
-
-* Update dnf_sort.py
-
-* Update and rename dnf_sort.py to dutch_national_flag_sort.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef98271</div>
-                                        <div class="message">Approve functions used as default arguments (#4699)
-
-* Approve functions used as default argumenets
-
-* The default value for **seed** is the result of a function call
-
-The default value for **seed** is the result of a function call which is not normally recommended and causes flake8-bugbear to raise a B008 error. However, in this case, it is accptable because `LinearCongruentialGenerator.__init__()` will only be called once per instance and it ensures that each instance will generate a unique sequence of numbers.
-
-* The default value for **backend** is the result of a function call
-
-The default value for **backend** is the result of a function call which is not normally recommended and causes flake8-bugbear to raise a B008 error. However, in this case, it is accptable because `Aer.get_backend()` is called when the function is definition and that same backend is then reused for function calls.
-
-* Update linear_congruential_generator.py
-
-* Update ripple_adder_classic.py
-
-* Update ripple_adder_classic.py
-
-* Update ripple_adder_classic.py
-
-* Update ripple_adder_classic.py
-
-* Update ripple_adder_classic.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#097f830</div>
-                                        <div class="message">Avoid mutable default arguments (#4691)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3acca3d</div>
-                                        <div class="message">Fix type annotations for integer_partition.py #4052 (#4689)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e5c353</div>
-                                        <div class="message">[fixed] unused variable, standalone running, import doctest module (#4673)
-
-* [fixed] unused variable, standalone running, import doctest module
-
-information [standalone running](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* Update other/fischer_yates_shuffle.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;
-
-* [fixed] change to tuple and fixing callfunction
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* Update matrix/spiral_print.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;
-
-* Update matrix/spiral_print.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;
-
-* fixing
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;
-
-* [fixed] sprial matrix
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* Update spiral_print.py
-
-* Update spiral_print.py
-
-* Update spiral_print.py
-
-* Update spiral_print.py
-
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46e56fa</div>
-                                        <div class="message">luhn.py: Favor list comprehensions over maps (#4663)
-
-* luhn.py: Favor list comprehensions over maps
-
-As discussed in CONTRIBUTING.md.
-
-* updating DIRECTORY.md
-
-Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">pre-commit-ci-update-config</span>
+                                        in
+                                        <span class="repo">bellshade/Python</span>
                                     </div>
                                 </div>
                             </section>
@@ -602,7 +224,7 @@ Co-authored-by: github-actions &lt;${GITHUB_ACTOR}@users.noreply.github.com&gt;<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2023, 08:10:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 08:12:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
