@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="513" class="">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            126529 Commits
+                            126531 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -210,33 +210,86 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">slowy07/Java</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">slowy07/Python-bellshade</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f171089</div>
-                                        <div class="message">Merge pull request #153 from slowy07/GenericArrayListQueue
+                                        <div class="sha">#9520566</div>
+                                        <div class="message">Backtracking all combinations (#236)
 
-feat: menambahkan generic array list queue</div>
+* feat: menambahkan algoritma backtracking
+
+menambahkan all combinations
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
+
+* feat: menambahkan algoritma backtracking
+
+menambahkan all combinations
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
+
+* update DIRECTORY.md
+
+---------
+
+Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
+Co-authored-by: github-actions &lt;bellshdae07@gmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3659106</div>
-                                        <div class="message">feat: menambahkan materi exception (#152)
-
-* feat: menambahkan materi exception
-
-* feat: exclude bin
-
-* feat: menghapus bin</div>
+                                        <div class="sha">#948b767</div>
+                                        <div class="message">update DIRECTORY.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#868e135</div>
-                                        <div class="message">feat: menambahkan generic array list queue
+                                        <div class="sha">#4aa9269</div>
+                                        <div class="message">penambahan fungsi variance (#233)
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+* penambahan fungsi variance
+
+* memperbaiki typo pada Docstring
+
+* perbaikan dalam docstring serta typo
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+* fix: menghapus tanda bintang
+
+---------
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
+Co-authored-by: arfy slowy &lt;slowy.arfy@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e67326</div>
+                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#232)
+
+* [pre-commit.ci] pre-commit autoupdate
+
+updates:
+- [github.com/psf/black: 22.12.0 → 23.1.0](https://github.com/psf/black/compare/22.12.0...23.1.0)
+
+* [pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+
+---------
+
+Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1b64e8</div>
+                                        <div class="message">Merge pull request #231 from slowy07/dokumentasi
+
+docs: memperbaiki dokumentasi</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a5eeeb</div>
+                                        <div class="message">docs: memperbaiki dokumentasi</div>
                                     </div>
                                 </div>
                             </section>
@@ -246,7 +299,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2023, 08:18:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 18 Feb 2023, 08:13:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
