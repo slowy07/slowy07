@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.2841724934066" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="357.2841724934066" y="0" width="54.24383910603984" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.5280115994464" y="0" width="26.834700658075086" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.3627122575215" y="0" width="21.637287742478524" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.27679827423873" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="357.27679827423873" y="0" width="54.2427195323535" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.5195178065922" y="0" width="26.843641036908405" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.36315884350057" y="0" width="21.63684115649937" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,8 +48,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.82 MB</div>
-                                <div>5.83%</div>
+                                <div>3.83 MB</div>
+                                <div>5.84%</div>
                             </small>
                         </div>
                     </section>
