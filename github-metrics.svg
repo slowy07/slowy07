@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="437" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="482" class="">
     <defs>
         <style/>
     </defs>
@@ -210,17 +210,40 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/clara</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">slowy07/carrisa</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a558f5b</div>
-                                        <div class="message">chore: update shell test
+                                        <div class="sha">#2c64b85</div>
+                                        <div class="message">Merge pull request #6 from kayabaakihiko13/develop
 
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
+feat: Update Unit Testing Math and Statistic Algorithm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a90686</div>
+                                        <div class="message">feat: Update Unit Testing Math and Statistic Algorithm
+
+[Documentation]
+
+Update Unit Test In Math And Statistic Algorithm
+this update Purpose About Increase Perfomance Function and Ready to Use in public
+
+signed-off-by: kayabaakihiko13 &lt;iqbalramad75@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54fb1bc</div>
+                                        <div class="message">Merge pull request #4 from kayabaakihiko13/develop
+
+Merge pull request #3 from kayabaakihiko13/main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55f493a</div>
+                                        <div class="message">Merge pull request #3 from kayabaakihiko13/main
+
+fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,7 +253,7 @@ Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2023, 08:05:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Aug 2023, 08:02:11 (timezone Asia/Jakarta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
