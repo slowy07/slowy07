@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.field.license.details{display:flex;justify-content:space-between}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,19 +19,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            131526 Commits
+                            131528 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            175 Pull requests reviewed
+                            177 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            82 Pull requests opened
+                            83 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            345 issue comments
+                            347 issue comments
                         </div>
                     </section>
                     <section>
@@ -135,19 +135,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    70 Stargazers
+                                    87 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    7 Forkers
+                                    16 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    17 Watchers
+                                    19 Watchers
                                 </div>
                             </section>
                         </div>
@@ -207,587 +207,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">slowy07/clara</span>
+                                        Opened
+                                        <span class="issue">#300 chore: menambahkan bitonic sorting</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#33b58dd</div>
-                                        <div class="message">Development: clara 1.0.0 (#2)
-
-* docs: adding documentation
-
-[Documentation]
-
-adding information about using testing example
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding documentation
-
-[Documentation]
-
-``include/constants.h``
-
-adding commented code for information about variable ``chop``, `maxn`, `eps`
-
-``include/internal/classFunction/iomanip.h``
-
-``IDisplay`` class is an abstract class the provides a generic interface for displaying object . the ``Display_Impl_`` class concrete class that implements the ``IDisplay`` interface for Eigen matrices.
-  - the first constructor takes an eigen matrix as input and double as a parameter, the double parameter specifies amount of chopping that should be done whne displaying the matrix
-  - the second constructure takes a complex number as input an a double as parameter, the double parameter specifieds tha amount of chopping that soubld be done when displaying the complex number
-
-``include/traits.h``
-
-adding preprocessor directive to check the version of the GCC compiler
-
-``clara_test/tests/traits.cpp``
-
-adding testing for test ``traits.h``
-
-``clara_test/run_test``
-
-adding support for macOs and support for ubuntu and arch based package
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore(test): adding run_test interactive to github action
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fixing directories
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fixing directories
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chroe: ``evects`` function (#1)
-
-added necessary using statements to define ComplexScalar and ComplexMatrix types for handling complex numbers.
-replaced dyn_mat with Eigen::Matrix to match the type of rA.
-improved the check for matrix size by comparing the rows and columns separately.
-changed rA.template cas&lt;cplx&gt;() to rA.template cast&lt;ComplexScalar&gt;() to handle complex matrix conversion.
-
-* chore(add): adding more information and unitest
-
-[Documentation]
-
-adding reference used in clara
-adding unitest for mac os
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fix interpreter
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fix interpreter
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore(feat): improvement exception function call
-
-[Documentation]
-
-make expection hierarchy for custom exceptions, this exception based on the standard ``std::exception`` class, provide a mechanisem for creating custom exception types with specific description that can be thrown and caught in the application code
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore(feat): update ``testing/_test.cpp``
-
-[Documentation]
-
-testing quantum bit manipulation
-
-- the code initialize the number of bits and the number of trials. it creates a vector of vectors called `indices`, where each sub-vector contains indices representing bits for trial operations
-- it perform a series trials using `TOF` operation on the `Bit_circuit`, the `TOF` operation applies controlled NOT operation on the specified bits in the circuit
-- after the trials the code display the initial and final states of the bit circuit as well as the hamming weight ( number of set bits )
-- create `ket` and `bra` instance representing quantim states and display them using the `disp` function
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore(feat): update ``testing/grover_search.cpp``
-
-[Documentation]
-
-grover algorithm starts with equal superposition of all possible states, then iteratively applies the oracle and diffusion operator to amplify the probability of the marked state while reducing the probability of other states, after a sufficient number of iterations, measuring the final state gives a high probability of obtaining the marked state
-
-fix: fixing ``clara/include/operations.h``
-
-[Documentation]
-
-fixing code to provide a flexible efficient way to apply a controlled quantum gate a quantum state, allowing for various types of control and target subsystem configurations. the use of eigen library provides efficient matrix operations, and the code is optimized for performance using multi-threading
-
-fix: fixing ``clara/include/random.h``
-
-fixing function to provide a convenient and safe way to generate random indices whithin specified range, making use of the standard library random number generation capabilitesm use of thread local random number generators is particularly helpful multi-threading applications to avoid potential concurency issues
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore(attemp: 1): testing grover search and testing channels
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding documentation
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: test macos environment (#3)
-
-* fix: typo spelling run
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: header fix test on macOS clara
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: remove temporary macos
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* feat: add testing with docker image
-
-* docs: update Documentation
-
-[Documentation]
-
-code documentation is a collection of documents and code comments explaining how code works and how to use it.
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: identation action test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: adding operation testing
-
-[Documentation]
-
-AllTest: applies a custom quantum gate represented by the Pauli X gate (`gt.x`) to a single qubit state (`ket psi = 1_ket`) and checks if the result matches the expected state ('0_ket') and checks if the result matches the expected state (`0_ket`)
-
-EmptyControl: test case validation the functionally of applying controlled quantum gates (`U`) to a pure state (`ket psi`) and a density matrix (`cmat rho`). it randomly generates a quantum state and applies the random quantum gate `u` to both he pure state and the corresponding density matrix. the result are compared to check if they are approximately equal within a specified tolerance
-
-[Documentation random testing clara]
-
-AllTest: generate two `bigint` value `a` and `b`, both set to 42. it then calls the `clara::rand` function with `a` and `b` as input parameter. the test verifies that the output of the `clara:rand` function falls within the range [a, b] (inclusive), and thus, it is expected to be equal to either `a` or `b`
-
-Average: further examines the random double generation by calculation by calculating the average of the generated `N` random double values within range [-10, 10]. the average value is then checked to ensure that its approximately close to 0 with a tolerance of 2e-1
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: trying update code with macOS test clara
-
-[Documentation]
-
-testing on macOS according issue #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: environment changes
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: try use xcode --install
-
-referenced issues #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: try use xcode --install
-
-referenced issues #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fixing cmake
-
-referenced issues #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing timer
-
-according #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing timer
-
-according #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing timer
-
-according #4
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: update documentation
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding more documentation
-
-[Documentation]
-
-adding more documentation on ``include``
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: testing adding action environment windows test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: test with specific command to test on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: test rmdir to rd
-
-according information from microsoft official website : https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/rd
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: test rd to rmdir with shell powershell
-
-according information from microsoft official website : https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/rd
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: test to adding path from eigen was installed
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing env github action path setting eigen
-
-according from github documentation: https://docs.github.com/en/actions/learn-github-actions/variables
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing env github action path setting eigen
-
-according from github documentation: https://docs.github.com/en/actions/learn-github-actions/variables
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: attemp fixing on directory command
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: try to adding cmake list for windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: typo
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: call cmake
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: call cmake
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: call cmake
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: call cmake
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: remove windows test and adding on arch latest
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: adding
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: adding separate the install test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: adding arch based by separated the test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: adding arch based by separated the test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: update shell test
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: rename testing filename
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: testing GPU support install
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (1) test gpu CUDA
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (2) test gpu CUDA
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (3) test base on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (4) test base on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (5) test base on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (6) test base on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: attemp (7) test base on windows
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: fixing CWE-120, CWE-20
-
-[Documentation]
-
-information CWE-120: The product copies an input buffer to an output buffer without verifying that the size of the input buffer is less than the size of the output buffer, leading to a buffer overflow.
-
-fix: typo on input_output.h
-fix: delete windows test
-
-chore: adding ``input_output_testing``
-
-[Documentation]
-adding unitesting using google test framwork to test the functionallity of the `save` and `load` function from `clara` library `input_output`
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding documentation code
-
-chore: update ``experimental_test``
-[Documentation]
-The `experimental_test.h` header file defines classes and functions for simulating quantum circuits. The classes provided are:
-- `clara::experimental::ClaraCircuit`: Represents a quantum circuit for simulation.
-- `clara::experimental::LogicalCircuit`: Represents a logical circuit with gates and their details.
-- `clara::experimental::Test`: Represents a test class for quantum circuit operations.
-ClaraCircuit Class
-This class represents a quantum circuit for simulation. It provides functionalities for creating, manipulating, and simulating quantum circuits.
-
-Class: `clara::experimental::ClaraCircuit&lt;T&gt;`
-- Constructor:
-  Initializes a quantum circuit.
-  Parameters:
-  - `number_qubit`: Number of qubits in the circuit.
-  - `number_classical`: Number of classical bits in the circuit.
-  - `dimension`: Dimension of the quantum state space (default: 2).
-- Methods:
-  - `measure(std::vector&lt;idx&gt; subsys)`: Measures specified subsystem qubits.
-  - `measure_all()`: Measures all unmeasured qubits in the circuit.
-  - `apply(const cmat&amp; gate, const std::vector&lt;idx&gt;&amp; subsys)`: Applies a quantum gate to specified subsystem qubits.
-  - `apply_all(const cmat&amp; gate)`: Applies a quantum gate to all unmeasured qubits.
-  - `reset()`: Resets the quantum circuit to its initial state.
-  - Accessor methods for retrieving circuit information:
-    - `dimension()`: Returns the dimension of the quantum state space.
-    - `get_number_qubit()`: Returns the number of qubits in the circuit.
-    - `get_number_classical()`: Returns the number of classical bits in the circuit.
-    - `get_size()`: Returns the total size of the circuit (qubits + classical bits).
-    - `get_num_measured_qubits()`: Returns the number of measured qubits.
-    - `get_num_active_qubits()`: Returns the number of active (unmeasured) qubits.
-    - `get_psi()`: Returns the current quantum state of the circuit.
-    - `get_results()`: Returns the measured results as a vector of indices.
-    - `get_results_as_N()`: Returns the measured results as an integer in base-N representation.
-    - `bits()`: Returns a reference to the classical bits associated with the circuit.
-LogicalCircuit Class
-This class represents a logical circuit with gates and their details.
-
-Class: `clara::experimental::LogicalCircuit`
-- Methods:
-  - `add(const cmat&amp; gate, const std::string&amp; gate_name, const idx_vec&amp; ctrl, const idx_vec&amp; target)`: Adds a gate to the logical circuit.
-  - `gate_gate_count()`: Returns the total count of gates added to the logical circuit.
-  - `display(std::ostream&amp; os) const`: Displays the logical circuit's gates and their details.
-
-chore: add more testing for make sure code works very well
-
-chore: adding reversible
-[Documentation]
-provided functionalities to work with dynamic bitset, perform bitwise operations, and represent bit circuits with various gate operations
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: testing timer
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: more upgrade stuff
-
-[Documentation]
-change from `pi` to `std::pi`
-
-docs: add more documentation `gates.h`
-fix: fixing entanglement which testing always return `out of range`
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: add quantum operation
-
-[Documentation]
-
-this code demonstrate various quantum channels using clara lib. it perform operations on a quantum state, such as partial transpose, measurement channels application and entropy computation.
-`performChannelsOperations()`:
-  - step process
-    - create the initial state `|00⟩ + |11⟩` and display it
-    - perform partial transpose on the first subsystem of the state and display eigen values
-    - set up a measurement channels with two kraus operators (pauli Z operatios for `|0⟩` and `|11⟩`)
-    - apply the measurement channels to first subsystem and display the resulting state
-    - partially trace down the second subsystem and display the resulting state.
-    -compute and diplasy the von-neummann entropy of the final state.
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding documentation on ``functions.h``
-
-[Documentation]
-
-function applies a scalar function element-wise to each entry of the input matrix 'A'. the result is a new matrix of the same dimensions, where each entry is the result of applying the provided scalar function to the corresponding entry in 'A'.
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: adding quantum fourier transform
-
-[Documentation]
-
-adding algorithm that can be used to efficiently transform a quantum state from one basis to another.
-- Command Line Argument
-  the code check if exactly two command line arguments are provided, if not it prints an errpr message and exists the program
-- Extracting Command Line Arguments
-  - the number CPU cores to use (`num_core`) and the number qubits in quantum system (`n`) are extracted from the command line arguments
-- Setting OpenMP Threads
-  - the number of OpenMP threads to use for parallel processing is set to `num_core`
-- Creating Quantum State Vector
-  - A vector `qubits` is created to store indices
-  - A quantum state vector `psi` is created using `mket` function with the qubit indices.
-  - An initial copy `result` of the quantum state is also created
-- Measuring Execution Time
-  - A `Timer` object `t` is created to measure the execution time
-- Quantum operations
-  - A loops iterates over each qubit index
-  - A hadamard gate (`gt.H`) applied to each qubit
-  - Another Nested llop applies controlled-phase gate, where the control and target qubits are determined by the loop indices
-  - The gate are applied to the `result` quantum state vector
-- Qubit Swap Operations
-  - Another loop swaps qubit state using the `gt.SWAP` gate
-  - Qubit at specific indices are swapped
-- Printing Result
-  - the program prints the number of CPU cores used, the number of qubits, and the execution time measured by the timer
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* .git/refs/COMMIT_EDITMSG
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: remove testing shoutOperator
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* fix: adding preprocessor directive to catch macos
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* docs: adding CONTRIBUTING
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: adding entropies
-
-[Documentation]
-
-adding entropies, entrpoies is a measure of the amount of randomness or
-uncertainty ins tate of a quantum system.
-- creating quantum system
-  the code creates a complex matrix `rho` representing a quantum state
-  using predefined state `st.pb00`, the state is likely defined in the
-  include `clarah.h` header
-- partial trace calculation
-  the `ptrace()` function is used to compute the partial trace of the
-  quantums state `rho` over subsystem B. the result stored in the matrix
-  `rhoA`
-- displaying states
-  the `disp()` function is used to display the original quantum state
-  matrix `rho` and the result of the partial trace `rhoA`
-- entropy calculation
-  the `tsallis()` function is used to calculate the tsallis-1 and
-  tsallis-2 entropies for the quantum matrix `rho`. the calculated
-  entropies displayed
-- quantum mutual information calculation
-  teh `qmutualinformation()` function to calculation the quantum mutual
-  information between subsystem A and B the quantum state `rho`. the
-  calculated mutual information is displayed
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
-* chore: adding quantum circuit simulation
-
-[Documentation]
-
-demonstrate the simulation of quantum circuit, including gate operations
-and measurement, the process code by:
-- create quantum state `psi` and initialized to |00⟩ state
-- controlled (CNOT) gate `U` is created using the tensor product (`kron`) of the hadamard gate (`gt.H`) and the identity gate (`gt.Id2`)
-- the gate `U` applied to the quantums state `psi` resulting in a new
-  state stored in the variable `result` state
-- X gate (`gt.X`) is applied to the `result` state at qubit 1, updating
-  the state
-- print the `producing` bell state
-- the state measurement is performed on the `result` state using
-  hadamard gate (`gt.H`) on qubit 0. the measurement result,
-  probabilites, and resulting states are store in the `measured tuple`
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-
----------
-
-Signed-off-by: slowy07 &lt;slowy.arfy@gmail.com&gt;
-Co-authored-by: khaira nabila &lt;75076265+khairanabila@users.noreply.github.com&gt;
-Co-authored-by: rulanugrh &lt;nextarituenak01@gmail.com&gt;</div>
-                                    </div>
+                                    <div> in <span class="repo">bellshade/Python</span></div>
+                                    <div>3 files changed <span class="code">++65 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -796,7 +225,7 @@ Co-authored-by: rulanugrh &lt;nextarituenak01@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2023, 07:56:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2023, 08:05:33 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
